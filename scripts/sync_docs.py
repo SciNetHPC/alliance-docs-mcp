@@ -284,7 +284,9 @@ async def sync_documentation(
                         "category": storage._extract_category(normalized_title),
                         "last_modified": page_data["lastmodified"],
                         "file_path": file_path,
-                        "slug": storage._title_to_filename(normalized_title)
+                        "slug": storage._title_to_filename(normalized_title),
+                        "displaytitle": page_data["displaytitle"],
+                        "language": page_data["language"]
                     }
                     saved_pages.append(saved_page)
 
@@ -463,7 +465,9 @@ async def sync_incremental(
                     "category": storage._extract_category(page_data["title"]),
                     "last_modified": page_data["lastmodified"],
                     "file_path": file_path,
-                    "slug": storage._title_to_filename(page_data["title"])
+                    "slug": storage._title_to_filename(page_data["title"]),
+                    "displaytitle": page_data["displaytitle"],
+                    "language": page_data["language"],
                 }
                 saved_pages.append(saved_page)
 

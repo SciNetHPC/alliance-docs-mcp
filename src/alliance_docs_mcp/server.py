@@ -146,6 +146,8 @@ def _register_document_resources() -> None:
             "category": page.get("category"),
             "last_modified": page.get("last_modified"),
             "page_id": page.get("page_id"),
+            "displaytitle": page.get("displaytitle"),
+            "language": page.get("language"),
         }
 
         resource = TextResource(
@@ -193,6 +195,8 @@ async def _search_docs_impl(
                         "score": hit.get("score"),
                         "snippet": hit.get("highlights"),
                         "highlights": hit.get("highlights"),
+                        "displaytitle": hit.get("displaytitle"),
+                        "language": hit.get("language"),
                     }
                     for hit in results
                 ]
@@ -211,6 +215,8 @@ async def _search_docs_impl(
                 "category": page["category"],
                 "slug": page["slug"],
                 "last_modified": page["last_modified"],
+                "displaytitle": page["displaytitle"],
+                "language": page["language"],
             }
             for page in results[:limit]
         ]
@@ -273,6 +279,8 @@ def _heuristic_related(page: dict, limit: int) -> List[dict]:
             "category": candidate["category"],
             "slug": candidate["slug"],
             "score": score,
+            "displaytitle": candidate['displaytitle'],
+            "language": candidate['language'],
         }
         for score, candidate in candidates[:limit]
     ]
@@ -299,7 +307,9 @@ async def get_page_by_title(title: str) -> Optional[dict]:
                     "url": page["url"],
                     "category": page["category"],
                     "slug": page["slug"],
-                    "last_modified": page["last_modified"]
+                    "last_modified": page["last_modified"],
+                    "displaytitle": page["displaytitle"],
+                    "language": page["language"]
                 }
         
         return None
@@ -328,7 +338,9 @@ async def list_recent_updates(limit: int = 10) -> List[dict]:
                 "url": page["url"],
                 "category": page["category"],
                 "slug": page["slug"],
-                "last_modified": page["last_modified"]
+                "last_modified": page["last_modified"],
+                "displaytitle": page["displaytitle"],
+                "language": page["language"]
             }
             for page in recent_pages
         ]
@@ -395,7 +407,9 @@ async def get_page_info(slug: str) -> Optional[dict]:
             "slug": page_data["slug"],
             "last_modified": page_data["last_modified"],
             "page_id": page_data["page_id"],
-            "metadata": page_content["metadata"]
+            "metadata": page_content["metadata"],
+            "displaytitle": page_data["displaytitle"],
+            "language": page_data["language"]
         }
         
     except Exception as e:
@@ -419,7 +433,9 @@ async def list_all_pages() -> List[dict]:
                 "url": page["url"],
                 "category": page["category"],
                 "slug": page["slug"],
-                "last_modified": page["last_modified"]
+                "last_modified": page["last_modified"],
+                "displaytitle": page["displaytitle"],
+                "language": page["language"]
             }
             for page in all_pages
         ]

@@ -219,7 +219,8 @@ class MediaWikiClient:
             "displaytitle": page_data.get("displaytitle", ""),
             "content": revision.get("*", ""),
             "timestamp": revision.get("timestamp", ""),
-            "lastmodified": revision.get("timestamp", "")
+            "lastmodified": revision.get("timestamp", ""),
+            "language": revision.get("pagelanguage", "")
         }
     
     def get_page_by_title(self, title: str) -> Optional[Dict]:
@@ -258,7 +259,8 @@ class MediaWikiClient:
                     "displaytitle": page_data.get("displaytitle", ""),
                     "content": revision.get("*", ""),
                     "timestamp": revision.get("timestamp", ""),
-                    "lastmodified": revision.get("timestamp", "")
+                    "lastmodified": revision.get("timestamp", ""),
+                    "language": revision.get("pagelanguage", "")
                 }
         
         return None
