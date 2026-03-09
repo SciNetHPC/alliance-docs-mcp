@@ -430,10 +430,10 @@ async def sync_incremental(
                 for page in all_pages
             ]
         
-        filtered_changes = filter_to_target_language(recent_changes)
-        if len(filtered_changes) != len(recent_changes):
-            logger.info("Filtered %d non-English recent changes", len(recent_changes) - len(filtered_changes))
-        recent_changes = filtered_changes
+        # filtered_changes = filter_to_target_language(recent_changes)
+        # if len(filtered_changes) != len(recent_changes):
+        #     logger.info("Filtered %d non-English recent changes", len(recent_changes) - len(filtered_changes))
+        # recent_changes = filtered_changes
         
         if not recent_changes:
             logger.info("No changes found")
