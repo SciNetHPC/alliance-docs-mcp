@@ -343,13 +343,14 @@ async def fetch_all_pages(client: MediaWikiClient) -> List[Dict]:
             logger.error(f"Error fetching pages: {e}")
             break
     
-    filtered_pages = filter_to_target_language(all_pages)
-    logger.info(
-        "Completed fetching %d pages after filtering (removed %d non-target pages)",
-        len(filtered_pages),
-        len(all_pages) - len(filtered_pages),
-    )
-    return filtered_pages
+    # filtered_pages = filter_to_target_language(all_pages)
+    # logger.info(
+    #     "Completed fetching %d pages after filtering (removed %d non-target pages)",
+    #     len(filtered_pages),
+    #     len(all_pages) - len(filtered_pages),
+    # )
+    # return filtered_pages
+    return all_pages
 
 
 async def fetch_page_contents(client: MediaWikiClient, page_ids: List[int]) -> List[Dict]:
