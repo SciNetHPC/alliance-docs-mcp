@@ -202,6 +202,7 @@ class DocumentationStorage:
             
             # Search in title
             title_match = query_lower in page.get("title", "").lower()
+            displaytitle_match = query_lower in page.get("displaytitle", "").lower()
             
             # Search in content - try metadata first, then load from file
             content_match = False
@@ -229,7 +230,7 @@ class DocumentationStorage:
                     except Exception as exc:
                         logger.debug(f"Error loading content for search from {file_path}: {exc}")
             
-            if title_match or content_match:
+            if title_match or content_match or displaytitle_match:
                 results.append(page)
         
         return results
@@ -507,6 +508,8 @@ class DocumentationStorage:
                     url = page.get("url", "")
                     category = page.get("category", "General")
                     file_path = page.get("file_path", "")
+                    displaytitle = page.get("displaytitle", "Unknown")
+                    language = page.get("language", "Unknown")
                     
                     # Add page header
                     write_line("")
@@ -514,6 +517,8 @@ class DocumentationStorage:
                     write_line(f"PAGE: {title}")
                     write_line(f"URL: {url}")
                     write_line(f"Category: {category}")
+                    write_line(f"DISPLAYTITLE: {displaytitle}")
+                    write_line(f"LANGUAGE: {language}")
                     write_line("=" * 80)
                     write_line("")
                     

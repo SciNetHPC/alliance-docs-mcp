@@ -299,6 +299,8 @@ async def sync_documentation(
                             category=saved_page["category"],
                             url=saved_page["url"],
                             last_modified=saved_page["last_modified"],
+                            displaytitle=saved_page["displaytitle"],
+                            language=saved_page["language"],
                         )
 
                     if related_index:
@@ -479,6 +481,8 @@ async def sync_incremental(
                         category=saved_page["category"],
                         url=saved_page["url"],
                         last_modified=saved_page["last_modified"],
+                        displaytitle=saved_page["displaytitle"],
+                        language=saved_page["language"],
                     )
 
                 if related_index:

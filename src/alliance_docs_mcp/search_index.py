@@ -42,6 +42,8 @@ class SearchIndex:
             category=KEYWORD(stored=True, lowercase=True, commas=True, scorable=True),
             url=ID(stored=True),
             last_modified=DATETIME(stored=True),
+            displaytitle=TEXT(stored=True, analyzer=StemmingAnalyzer()),
+            language=KEYWORD(stored=True, lowercase=True),
         )
 
     def _create_or_open_index(self):
@@ -72,6 +74,8 @@ class SearchIndex:
         category: str,
         url: str,
         last_modified,
+            displaytitle: str,
+            language: str
     ) -> None:
         """Add or update a page in the index."""
         if not self.enabled or not self._index:
@@ -88,6 +92,8 @@ class SearchIndex:
                 category=category or "General",
                 url=url or "",
                 last_modified=normalized_dt,
+                displaytitle=displaytitle,
+                language=language
             )
             writer.commit()
         except Exception as exc:
@@ -127,6 +133,8 @@ class SearchIndex:
                         "score": hit.score,
                         "highlights": hit.highlights("content", top=3),
                         "last_modified": hit.get("last_modified"),
+                        "displaytitle": hit.get("displaytitle"),
+                        "language": hit.get("language"),
                     }
                     for hit in results
                 ]
@@ -197,6 +205,8 @@ class SearchIndex:
                     category=page.get("category", "General"),
                     url=page.get("url", ""),
                     last_modified=page.get("last_modified"),
+                    displaytitle=page.get("displaytitle", ""),
+                    language=page.get("language", ""),
                 )
                 indexed_count += 1
                 

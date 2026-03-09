@@ -301,7 +301,8 @@ async def get_page_by_title(title: str) -> Optional[dict]:
         results = storage.search_pages(title)
         
         for page in results:
-            if page["title"].lower() == title.lower():
+            if ((page["title"].lower() == title.lower()) or 
+                (page["displaytitle"].lower() == title.lower())):
                 return {
                     "title": page["title"],
                     "url": page["url"],

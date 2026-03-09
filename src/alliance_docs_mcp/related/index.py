@@ -56,6 +56,8 @@ class RelatedIndex:
         """Embed and upsert a page. Returns True if written, False if skipped."""
         slug = page.get("slug")
         title = page.get("title", slug or "")
+        displaytitle = page.get("displaytitle", "")
+        language = page.get("language", "")
         if not slug:
             return False
 
@@ -74,6 +76,8 @@ class RelatedIndex:
             "category": page.get("category"),
             "last_modified": page.get("last_modified"),
             "checksum": checksum,
+            "displaytitle": displaytitle,
+            "language": language,
         }
 
         self.vector_store.upsert(slug=slug, embedding=embedding, metadata=metadata, document=text)
@@ -136,6 +140,8 @@ class RelatedIndex:
                     "slug": meta.get("slug") or candidate_id,
                     "score": score,
                     "last_modified": meta.get("last_modified"),
+                    "displaytitle": meta.get("displaytitle"),
+                    "language": meta.get("language"),
                 }
             )
 

@@ -219,6 +219,7 @@ class WikiTextConverter:
             "last_modified": metadata.get("lastmodified", ""),
             "page_id": metadata.get("pageid", ""),
             "display_title": metadata.get("displaytitle", ""),
+            "language": metadata.get("language", ""),
         }
         
         # Remove empty values
