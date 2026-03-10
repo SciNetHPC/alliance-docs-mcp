@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-07-17T19:34:01Z"
 page_id: 20700
 display_title: "Best practices for job submission"
+language: "en"
 ---
 
 When submitting a job on one of our clusters, it's important to choose appropriate values for various parameters in order to ensure that your job doesn't waste resources or create problems for other users and yourself. This will ensure your job starts more quickly and that it is likely to finish correctly, producing the output you need to move your research forward.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-12T18:02:24Z"
 page_id: 24639
 display_title: "VirSorter2"
+language: "en"
 ---
 
 __TOC__

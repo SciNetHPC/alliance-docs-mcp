@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2017-05-12T18:27:08Z"
 page_id: 1479
 display_title: "OpenACC Tutorial - Data movement"
+language: "en"
 ---
 
 == Making Data Management Explicit ==

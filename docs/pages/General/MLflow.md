@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-14T15:02:43Z"
 page_id: 32184
 display_title: "MLflow"
+language: "en"
 ---
 
 MLflow is an open-source experiment tracking and observability platform for AI and Machine Learning development. Contrary to to other similar platforms such as WandB and Comet.ml, it is possible to run MLflow locally on our systems and track experiments without internet connection and without any data ever leaving the cluster.

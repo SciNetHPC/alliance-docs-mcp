@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2024-08-30T20:18:02Z"
 page_id: 23420
 display_title: "Access to files of users leaving a project"
+language: "en"
 ---
 
 This page is primarily directed at Principal Investigators who have sponsored users.

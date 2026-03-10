@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-25T17:33:02Z"
 page_id: 6041
 display_title: "Scratch purging policy"
+language: "en"
 ---
 
 Parent page: Storage and file management

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-02-18T18:45:42Z"
 page_id: 25587
 display_title: "AiiDA"
+language: "en"
 ---
 
 = General =

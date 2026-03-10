@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-06-17T17:54:47Z"
 page_id: 15537
 display_title: "Data protection, privacy, and confidentiality"
+language: "en"
 ---
 
 == Are there any resources dedicated to handling personal data, private data, or sensitive data, such as (for example) human clinical research data? ==

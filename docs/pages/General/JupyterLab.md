@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-30T15:54:28Z"
 page_id: 15666
 display_title: "JupyterLab"
+language: "en"
 ---
 
 = JupyterLab =

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-04-03T17:28:39Z"
 page_id: 25216
 display_title: "Configuring WSL as a ControlMaster relay server"
+language: "en"
 ---
 
 With this procedure you can leverage ControlMaster under WSL so you may log into the clusters with several apps under native Windows for a certain period without having to use multifactor authentication for every session.

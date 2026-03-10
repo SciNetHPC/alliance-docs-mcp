@@ -2,9 +2,10 @@
 title: "Python/en"
 url: "https://docs.alliancecan.ca/wiki/Python/en"
 category: "General"
-last_modified: "2025-09-18T12:26:01Z"
+last_modified: "2026-02-26T07:21:06Z"
 page_id: 2586
 display_title: "Python"
+language: "en"
 ---
 
 == Description ==
@@ -181,6 +182,26 @@ Here is how to pre-download a package called tensorboardX on a login node, and i
 # If the filename does not end with none-any, and ends with something like linux_x86_64 or manylinux*_x86_64, the wheel might not function correctly. You should contact Technical support so that we compile the wheel and make it available on our systems.
 # Then, when installing, use the path for file pip install tensorboardX-1.9-py2.py3-none-any.whl.
 
+=== Installing from a remote repository (Github) ===
+
+In some cases the source package is not available on the python package index (PyPI), but it is available from a remote repository.
+That remote repository may be Git, Subversion, Bazaar or Mercurial based but we'll focus on Git-based below.
+
+Using the URL to the remote repository, you can specify:
+* a branch name (the-best-feature)
+* a tag (v1.0.1)
+* a short or full commit identifier (da39a3ee5e6b4b0d3255bfef95601890afd80709)
+* a reference, like to a pull request (refs/pull/123/head)
+
+With an activated virtual environment:
+
+It is important to use a tag (version) or commit id in order to have a reproducible installation.
+If you use the HEAD of the repository, it may (or may not) work today, but tomorrow may bring issues, as the authors have made some changes.
+
+On Github, you can find the tags or releases under the Releases section on the right panel.
+
+For more information on installing from a version control system (VCS), see vcs-support
+
 == Parallel programming with the Python multiprocessing module ==
 
 Doing parallel programming with Python can be an easy way to get results faster. A usual way of doing so is to use the multiprocessing module. Of particular interest is the Pool class of this module, since it allows one to control the number of processes started in parallel, and apply the same calculation to multiple data. As an example, suppose we want to calculate the cube of a list of numbers. The serial code would look like this :
@@ -229,6 +250,10 @@ q (uit)      	Quit from the debugger. The program being executed is aborted.
 Typically, one would use w, s, l, p, n to debug a file.
 
 For more information, see the Python Debugger.
+
+== Attaching to a running process ==
+With Python 3.14 and higher, one can attach to a running process and start PDB at the current step.
+In a different terminal, execute:
 
 == Troubleshooting ==
 

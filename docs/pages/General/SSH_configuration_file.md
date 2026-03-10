@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-02-03T17:28:41Z"
 page_id: 23199
 display_title: "SSH configuration file"
+language: "en"
 ---
 
 Parent page: SSH

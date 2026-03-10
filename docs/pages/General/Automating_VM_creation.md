@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-15T19:47:03Z"
 page_id: 740
 display_title: "Automating VM creation"
+language: "en"
 ---
 
 Parent page: Cloud

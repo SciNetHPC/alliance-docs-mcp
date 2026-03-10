@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-03T14:48:04Z"
 page_id: 26132
 display_title: "Multi-Instance GPU"
+language: "en"
 ---
 
 Many programs are unable to fully use modern GPUs such as NVidia A100s and H100s.

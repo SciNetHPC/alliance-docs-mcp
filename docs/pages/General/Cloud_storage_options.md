@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-15T19:47:16Z"
 page_id: 20550
 display_title: "Cloud storage options"
+language: "en"
 ---
 
 The existing storage types available in our clouds are:

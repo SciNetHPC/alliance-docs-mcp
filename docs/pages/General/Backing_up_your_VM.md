@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-02-27T20:45:01Z"
 page_id: 8053
 display_title: "Backing up your VM"
+language: "en"
 ---
 
 Parent page: Cloud

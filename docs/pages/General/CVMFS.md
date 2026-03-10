@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-03-11T16:10:27Z"
 page_id: 16159
 display_title: "CVMFS"
+language: "en"
 ---
 
 This page describes the CERN Virtual Machine File System (CVMFS). We use CVMFS to distribute software, data and other content. Refer to accessing CVMFS for instructions on configuring a CVMFS client to access content, and to the official documentation and webpage for further information.

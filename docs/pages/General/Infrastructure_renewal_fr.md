@@ -1,0 +1,112 @@
+---
+title: "Infrastructure renewal/fr"
+url: "https://docs.alliancecan.ca/wiki/Infrastructure_renewal/fr"
+category: "General"
+last_modified: "2026-01-11T12:14:01Z"
+page_id: 26413
+display_title: "Renouvellement de l'infrastructure"
+language: "fr"
+---
+
+=Importante mise à jour de notre infrastructure de calcul informatique de pointe=
+
+L'importante mise à jour de notre infrastructure de calcul informatique de pointe qui se fera à partir de l'hiver 2024-2025 permettra d’améliorer nos services de calcul de haute performance et nos services infonuagiques pour soutenir la recherche au Canada. La mise en service de la plupart des nouveaux systèmes est prévue pour l'été de 2025. Le contenu de la présente page sera  mis à jour au fur et à mesure que les informations sont disponibles.
+
+Près de 80 % de nos équipements qui approchent de leur fin de vie seront remplacés. Le nouveau matériel offrira une vitesse de traitement plus rapide, une plus grande capacité de stockage et une fiabilité améliorée.
+
+=Nouveaux systèmes=
+
+Nouveau système	Système remplacé                                         	Documentation
+Arbutus        	nuage (aucun changement à cette infrastructure virtuelle)	voir cette page
+Rorqual        	Béluga                                                   	voir cette page
+Fir            	Cedar                                                    	voir cette page
+Trillium       	Niagara & Mist                                           	voir cette page
+Nibi           	Graham                                                   	voir cette page
+
+=Capacité des systèmes, baisses et arrêts de services=
+Pendant l'installation et la transition vers les nouveaux systèmes, nous devrons sans doute suspendre ou diminuer les services en raison de contraintes d'alimentation électrique ou d'espace.
+Veuillez tenir compte de ces possibilités dans la planification de votre programme de recherche, des soutenances de thèse ou de mémoire, etc.
+
+Cliquez ici pour la liste des travaux terminés.
+
+Début     	Fin       	État    	Système	Type                	Description
+2026-01   	2026-06-20	en cours	Béluga 	fermeture définitive
+La grappe de calcul Béluga sera remplacée par Rorqual; aucune restauration ou réactivtion n'est planifiée.
+
+Fermeture des espaces de stockage
+* Janvier 2026 – Les quotas pour le stockage sur /project, /home, /scratch et /nearline seront diminués pour permettre uniquement la suppression ou l'archivage des données. Ceci laisse une période de six mois pour effectuer l'extraction et la migration des fichiers.
+
+* 2026-02-28 – Fermeture définitive du stockage sur /scratch. Les fichiers importants doivent être déplacés avant cette date.
+
+* 2026-06-20 – L'accès aux données ne sera plus possible.
+
+Remarque
+*Le nuage Béluga (beluga-cloud) est une infrastructure distincte et ne sera pas touchée par la fermeture définitive de la grappe de calcul Béluga.
+2025-09-30	          	en cours	Niagara	mise hors service
+La grappe Niagara a été fermée définitivement le 30 septembre 2025.
+
+Pour des détails sur la transition, voir Transition de Niagara vers Trillium.
+2025-09-16	          	en cours	Mist   	mise hors service
+La grappe Mist a été fermée définitivement le 16 septembre 2025.
+
+Pour vos nouveaux travaux, veuillez utiliser Trillium (voir  Trillium : Guide de démarrage).
+2025=09=12	          	en cours	Cedar  	mise hors service
+La grappe Cedar a été fermée définitivement le 12 septembre 2025.
+
+Accès aux données
+*Les fichiers stockés sur Cedar sont disponibles sur Fir puisque les deux grappes partagent les mêmes systèmes de fichiers; aucune action n'est requise de votre part.
+
+À compter du 12 septembre, veuillez soumettre vos tâches sur une autre grappe de notre nouvelle infrastructure nationale, y compris Fir.
+2025-09-01	          	en cours	Graham 	mise hors service
+La grappe Graham a été fermée définitivement le 1er septembre 2025.
+
+Accès aux données
+*Les fichiers stockés sur Graham sont aussi disponibles sur Nibi puisque les deux grappes partagent les mêmes systèmes de fichiers; aucune action n'est requise de votre part.
+
+À compter du 1er septembre, veuillez soumettre vos tâches sur une autre grappe de notre nouvelle infrastructure nationale, y compris Nibi.
+
+=Concours pour l'allocation de ressources=
+Le concours pour l'allocation de ressources sera touché par cette transition. Toutefois, le processus pour soumettre une demande reste inchangé. Les allocations 2024-2025 sur une grappe en particulier resteront en vigueur tant que la grappe est en service. Les allocations 2025-2026 seront disponibles partout une fois que toutes les nouvelles grappes sont en service. Pour la plupart, les grappes qui seront remplacées cesseront d'être disponibles avant que toutes les nouvelles grappes soient en fonction : si vous avez à la fois des allocations 2024 et des allocations 2025, il y aura une période pendant laquelle vous n'aurez accès à aucune ressource. Cependant, vous pourrez utiliser votre allocation par défaut (def-xxxxxx) sur une nouvelle grappe dès sa mise en service. Rappelons que les allocations 2025 ne seront disponibles que lorsque toutes les nouvelles grappes sont en service.
+
+=Outils de formation=
+
+D'autres ressources de formation sont disponibles via Explora.
+
+Titre                                                                          	Organisation                                        	Présenté par     	Date                                                   	Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	Public cible                                                                                                                                                                                                     	Format                                                                                                                          	Inscription
+Introduction to HPC on Alliance Clusters (en trois parties de 2 heures chacune)	Université Simon-Fraser/Groupe de l’IRN de la C.-B. 	Alex Razoumov    	Les jeudis 25 septembre, 2 octobre et 9 octobre, 10h HP	Introduction au calcul de haute performance sur les grappes de l'Alliance : matériel; outils et logiciels; coup d'œil sur OpenMP, MPI, HPC Python (Dask, Ray), Chapel, Julia; compilation de codes  séquentiels/partagés/distribués; utilisation de Slurm (en lots et interactivement), étalonnage (benchmarking), soumission de plusieurs tâches, estimation des ressources nécessaires, gestion des permissions. Inclut des démos et des exercices pratiques sur une grappe de formation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	Utilisatrices et utilisateurs nouveaux ou potentiels                                                                                                                                                             	webinaires (3 parties de 2 heures chacune)                                                                                      	Passé
+Migrating to the upgraded national systems                                     	SHARCNET                                            	Sergey Mashchenko	Mercredi 30 juillet 2025, 12h HAE                      	La plupart des systèmes nationaux de l'Alliance ont connu une mise à niveau majeure au cours du printemps et de l'été. Ils ont été reconstruits de A à Z avec du matériel moderne, ce qui a augmenté considérablement la capacité de calcul, de mémoire et de stockage. Les grappes mises à niveau ont de nouveaux noms : Graham est devenue Nibi, Béluga est devenue Rorqual, Cedar est devenue Fir, Niagara est devenue Trillium. La grappe Narval n'a pas été modifiée. Certains des systèmes mis à niveau sont déjà en ligne, mais pas encore à pleine capacité. Il est prévu de les rendre tous disponibles d'ici la fin juillet. Ce webinaire veut répondre aux préoccupations et aux questions des utilisateurs des systèmes existants. Quel sera l'impact des mises à niveau sur mon flux de travail? Y a-t-il des changements significatifs dans la planification des tâches et des systèmes de fichiers? Comment optimiser la capacité de calcul accrue des grappes mises à niveau, notamment en raison de l'augmentation du nombre de CPU par nœud? Le changement le plus important touchera le traitement des données par GPU; le webinaire abordera ce sujet en détail.  Une période de questions sera réservée à la fin; n'hésitez pas à nous faire part de vos questions et préoccupations.	Utilisateurs potentiels des systèmes mis à niveau                                                                                                                                                                	webinaire; les enregistrements et le contenu des webinaires SHARCNET précédents sont disponibles sur http://youtube.sharcnet.ca.	Passé
+Workflow Hacks for Large Datasets in HPC                                       	Université Simon-Fraser /Groupe de l’IRN de la C.-B.	Alex Razoumov    	Mardi 20 mai 2025, 10h HP                              	Au fil des ans, nous avons animé des webinaires sur des outils permettant d'améliorer considérablement les flux de travail comprenant de grands ensembles de données. Dans cette session, nous traiterons de certains de ces précieux outils :• Visualisation in situ : permet le rendu interactif de grands tableaux en mémoire sans avoir à les stocker sur disque.• Compression de données 3D avec perte : réduit la taille des ensembles de données 3D jusqu'à 100 fois sans artefacts visibles, ce qui est idéal pour le stockage et l'archivage.• Stockage distribué : permet de gérer de grandes quantités de données sur plusieurs emplacements.• DAR (Disk ARchhiver) : alternative à TAR moderne et performante qui offre indexation, archivage différentiel et extraction plus rapide.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	Utilisateurs qui travaillent avec de grands ensembles de données                                                                                                                                                 	webinaire ; les enregistrements et le contenu des webinaires précédents sont disponibles sur https://training.westdri.ca.       	Passé
+Mastering GPU Efficiency (en anglais)                                          	SHARCNET                                            	Sergey Mashchenko	en tout temps                                          	Ce cours en ligne que vous suivez à votre rythme offre une formation de base  sur l'utilisation des GPU sur nos systèmes nationaux. Les GPU modernes (tels que NVIDIA A100 et H100) sont des ressources massivement parallèles et très coûteuses. La plupart des tâches GPU ne sont pas en mesure d'utiliser ces GPU efficacement, soit en raison de la taille du problème trop petite pour saturer le GPU, soit en raison du modèle d'utilisation intermittent (en rafale) du GPU. Vous apprendrez à mesurer l'utilisation du GPU par vos tâches à utiliser les deux technologies NVIDIA - MPS (Multi-Process Service) et MIG (Multi-Instance GPU) pour améliorer l'utilisation du GPU.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	Utilisatrices et utilisateurs potentiels des systèmes mis à niveau                                                                                                                                               	Cours en ligne d'une heure avec certificat                                                                                      	Accédez au cours ici (un compte avec l'Alliance est requis)
+Introduction to the Fir cluster (en anglais)                                   	Université Simon-Fraser / West DRI                  	Alex Razoumov    	16 septembre 2025                                      	La nouvelle grappe Fir de l'Université Simon-Fraser est entrée en fonction en août 2025. Nous présenterons un aperçu de la grappe et de son matériel; les différents systèmes de fichiers et leur usage recommandé; les politiques de soumission des tâches; et les meilleures pratiques sur l'utilisation de la grappe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	Utilisatrices et utilisateurs de la grappe Fir                                                                                                                                                                   	webinaire Les enregistrements et le matériel des webinaires précédents se trouvent West DRI – Getting Started (HPC).            	Passé
+Survival guide for the upcoming GPU upgrades (en anglais)                      	SHARCNET                                            	Sergey Mashchenko	EN LIGNE                                               	Nos systèmes nationaux subiront des mises à niveau importantes dans les prochains mois. En particulier, les anciens GPU (P100, V100) seront remplacés par les nouveaux GPU H100 de NVIDIA. La puissance de calcul totale des GPU augmentera d'un facteur de 3,5, mais le nombre de GPU diminuera considérablement, passant de 3200 à 2100. Ceci posera un défi important, car la pratique habituelle consistant à utiliser un GPU entier pour chaque processus ou rang MPI ne sera plus possible dans la plupart des cas. Heureusement, NVIDIA propose deux technologies puissantes pour atténuer cette situation : MPS (Multi-Process Service) et MIG (Multi-Instance GPU). Nous discuterons de ces deux technologies et de la manière dont elles peuvent être utilisées sur nos grappes. Nous verrons comment déterminer l'approche qui fonctionnera le mieux pour un code particulier et une démonstration sera effectuée à la fin.                                                                                                                                                                                                                                                                                                                                                                    	Utilisatrices et utilisateurs potentiels des systèmes mis à niveau, ou devant utiliser une quantité importante de ressources H100 (par exemple, plusieurs GPU à la fois et/ou pour plus de 24 heures d'exécution)	vidéo et diapositives (durée, 1 heure)                                                                                          	(présentation faite le 20 novembre 2024 de 12h à 13h)
+
+= Foire aux questions =
+
+== Mes données seront-elles  migrées sur leur nouveau système? ==
+La migration des données est la responsabilité de chacun des sites hôtes nationaux; vous recevrez l'information sur les actions à prendre.
+
+== Mes fichiers seront-ils supprimés si le centre de données qui héberge mon système ferme pendant la transition? ==
+Non, vos fichiers ne seront pas supprimés. Pendant les activités de renouvellement, chaque site hôte national migrera les données /project et /home du système de stockage existant vers le nouveau système de stockage quand il sera installé. Ces migrations se produisent généralement pendant les arrêts de services, mais les détails spécifiques peuvent varier selon le site. Chaque site hôte national vous informera de toute action susceptible d'avoir un effet sur vos travaux.
+De plus, les systèmes de bandes pour les sauvegardes et les données /nearline ne sont pas remplacés, donc les sauvegardes et les données /nearline resteront inchangées.
+Pour d'autres questions techniques, écrivez à notre soutien technique.
+
+== Les arrêts de service sont-ils prévisibles? ==
+Chacun des sites hôtes nationaux gère les arrêts de service qui seront requis pendant l'installation et la transition; ils seront rapportés sur notre page web sur l'État des systèmes. La présente page wiki sera modifiée au fur et à mesure que l'information est disponible et vous recevrez périodiquement par courriel des avis et des mises à jour.
+
+== Qui peut répondre à mes questions sur la transition? ==
+Le soutien technique tentera de vous informer,  mais il se peut que l'information ne leur soit pas encore connue.
+
+== Les nouveaux systèmes sont-ils compatibles avec mes tâches et mes applications? ==
+Règle générale, oui. Il est possible que certaines applications doivent être recompilées ou reconfigurées selon les nouveaux CPU et GPU. Vous recevrez l'information au fur et à mesure de la transition.
+
+== Les logiciels sur les systèmes existants seront-ils toujours disponibles? ==
+Oui, notre environnement logiciel standard sera disponible sur les nouveaux systèmes.
+
+== Les logiciels commerciaux sous licence seront-ils migrés sur les nouveaux systèmes? ==
+Oui. Dans la mesure du possible, vous aurez le même accès pour ce type d'application (Gaussian, AMS/ADF, etc.). Les fournisseurs pourraient modifier les conditions, mais le risque est faible. Nous vous informerons des cas susceptibles de se présenter.
+
+== Les arrêts de service seront-ils échelonnés? ==
+Nous ferons tout ce qui est possible pour limiter les arrêts de service qui se chevauchent, mais comme nous sommes très contraints par les calendriers de livraison et les délais de financement, il y aura probablement des périodes où plusieurs de nos systèmes seront hors ligne simultanément. Nous vous en informerons le plus tôt possible.
+
+== Est-il possible d'acheter le matériel qui sera retiré de l'infrastructure? ==
+La grande partie de l'équipement est la propriété des établissements hôtes qui s'en départissent selon les standards que chacun établit. En règle générale, le matériel est acheminé au recyclage. Contactez l'établissement hôte pour savoir s'il existe la possibilité de vous en procurer.

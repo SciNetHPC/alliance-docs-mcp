@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2021-03-29T13:58:52Z"
 page_id: 16399
 display_title: "Formation"
+language: "en"
 ---
 
 * Introduction aux nouveaux systèmes nationaux sour la forme de tutoriels sur YouTube

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-05-31T14:47:01Z"
 page_id: 23587
 display_title: "Transferring files with Aspera Connect/ascp"
+language: "en"
 ---
 
 ascp is a software used for transferring data to and from Aspera transfer servers where you have license credentials. A common use case is uploading a dataset to a data repository.

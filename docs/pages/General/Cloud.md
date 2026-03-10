@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-18T17:17:58Z"
 page_id: 538
 display_title: "Cloud"
+language: "en"
 ---
 
 We offer Infrastructure as a Service that supports virtualization.

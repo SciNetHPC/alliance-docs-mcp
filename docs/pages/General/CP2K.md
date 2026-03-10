@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-04-25T15:53:28Z"
 page_id: 17029
 display_title: "CP2K"
+language: "en"
 ---
 
 CP2K is a quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems.

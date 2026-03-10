@@ -5,6 +5,7 @@ category: "Technical Reference"
 last_modified: "2023-02-27T20:48:34Z"
 page_id: 20325
 display_title: "Cloud Technical Glossary"
+language: "en"
 ---
 
 Term                                     	Description

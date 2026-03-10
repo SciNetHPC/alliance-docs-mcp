@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-11-09T18:31:50Z"
 page_id: 11093
 display_title: "MXNet"
+language: "en"
 ---
 
 Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scalable to many GPUs and machines.

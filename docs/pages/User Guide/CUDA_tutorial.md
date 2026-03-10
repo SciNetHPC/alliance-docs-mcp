@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2019-03-05T21:21:42Z"
 page_id: 4410
 display_title: "CUDA tutorial"
+language: "en"
 ---
 
 =Introduction=

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-02-27T21:02:02Z"
 page_id: 15396
 display_title: "Setting up GUI Desktop on a VM"
+language: "en"
 ---
 
 Some software that you can install on your virtual machine (VM, or instance) are only, or best accessed, through their graphical user interface (GUI). It is possible to use a GUI through SSH + X11 forwarding. However, you may observe better performance when using VNC to connect to a remote desktop running on your VM.

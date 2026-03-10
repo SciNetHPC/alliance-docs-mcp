@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-03-30T20:50:21Z"
 page_id: 722
 display_title: "Virtual machine flavors"
+language: "en"
 ---
 
 Parent page: Cloud

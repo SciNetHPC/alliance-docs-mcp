@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-10-24T20:38:45Z"
 page_id: 26343
 display_title: "Snowflurry"
+language: "en"
 ---
 
 Snowflurry is an open-source quantum computing library developed in  Julia by Anyon Systems that allows you to build, simulate, and run quantum circuits. A related library called SnowflurryPlots allows you to visualize the simulation results in a bar chart. Useful to explore quantum computing, its features are described in the documentation and the installation guide is available on the GitHub page. Like the PennyLane library, Snowflurry can be used to run quantum circuits on the MonarQ quantum computer.

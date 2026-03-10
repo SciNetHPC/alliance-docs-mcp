@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-29T14:36:01Z"
 page_id: 26932
 display_title: "Trillium"
+language: "en"
 ---
 
 Availability: Aug/07 2025

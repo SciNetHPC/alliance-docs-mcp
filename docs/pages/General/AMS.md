@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-23T22:25:24Z"
 page_id: 15810
 display_title: "AMS"
+language: "en"
 ---
 
 ==Introduction==

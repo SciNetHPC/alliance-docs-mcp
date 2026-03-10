@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-07-19T12:51:41Z"
 page_id: 18540
 display_title: "Jupyter"
+language: "en"
 ---
 
 = The Jupyter vocabulary and related wiki pages =

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-01-29T18:18:41Z"
 page_id: 9029
 display_title: "Testing With Graphics"
+language: "en"
 ---
 
 If you need to use graphics while testing your code, e.g. when using a debugger such as DDT or DDD, you have the following options:

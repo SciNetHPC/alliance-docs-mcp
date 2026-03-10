@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-10-07T18:13:19Z"
 page_id: 29717
 display_title: "Resource Allocation Competition"
+language: "en"
 ---
 
 The Resource Allocation Competition (RAC) enables faculty members and their research groups to access compute, storage and cloud resources beyond what can be obtained via the Rapid Access Service (RAS).

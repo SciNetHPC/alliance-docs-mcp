@@ -5,6 +5,7 @@ category: "Cybersecurity"
 last_modified: "2022-10-11T20:02:20Z"
 page_id: 20830
 display_title: "Cybersecurity: Personal computer health check"
+language: "en"
 ---
 
 The following questions are designed to assess the cybersecurity posture of your computer.  Let’s answer the questions to check whether your computer is secured.

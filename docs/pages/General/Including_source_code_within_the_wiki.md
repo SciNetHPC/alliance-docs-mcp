@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2016-05-19T21:57:56Z"
 page_id: 232
 display_title: "Including source code within the wiki"
+language: "en"
 ---
 
 __NOTOC__

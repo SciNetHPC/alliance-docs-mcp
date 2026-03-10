@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T12:53:58Z"
 page_id: 770
 display_title: "SSH Keys"
+language: "en"
 ---
 
 Parent page: SSH

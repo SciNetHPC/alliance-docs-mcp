@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-10-07T15:31:51Z"
 page_id: 780
 display_title: "OpenStack command line clients"
+language: "en"
 ---
 
 Parent page: Managing your cloud resources with OpenStack

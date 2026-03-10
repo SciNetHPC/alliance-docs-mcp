@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-14T14:09:01Z"
 page_id: 8518
 display_title: "VNC"
+language: "en"
 ---
 
 To remotely start the graphical user interface (gui) of a program, X11 forwarding over SSH is commonly used. However the  performance of this approach is often too slow to perform smooth complex graphics rotations.  A much better alternative is to use VNC to connect to a remote desktop.

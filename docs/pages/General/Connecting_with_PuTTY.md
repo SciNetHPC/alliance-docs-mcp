@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-04-24T18:42:53Z"
 page_id: 1658
 display_title: "Connecting with PuTTY"
+language: "en"
 ---
 
 Start up PuTTY and enter the host name or IP address of the machine you wish to connect to. You may also save a collection of settings by entering a session name in the Save Sessions text box and clicking the Save button. You can set the username to use when logging into a particular host under the Connection->Data section in the Auto-login username text box to saving typing the username when connecting.

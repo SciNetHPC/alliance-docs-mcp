@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-10-20T17:59:56Z"
 page_id: 10987
 display_title: "Béluga"
+language: "en"
 ---
 
 Availability: March, 2019

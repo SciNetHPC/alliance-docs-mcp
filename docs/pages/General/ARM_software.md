@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-03T20:56:23Z"
 page_id: 5985
 display_title: "ARM software"
+language: "en"
 ---
 
 = Introduction =

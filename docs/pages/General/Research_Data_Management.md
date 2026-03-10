@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-02T17:52:48Z"
 page_id: 14836
 display_title: "Research Data Management"
+language: "en"
 ---
 
 Research data management is a crucial aspect of the data lifecycle and ensures that data is discoverable, accessible and reusable during and following the completion of a project. In Canada, the Alliance is tasked with:

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-02-27T20:58:41Z"
 page_id: 21639
 display_title: "OpenStack dashboard GUI"
+language: "en"
 ---
 
 == OpenStack dashboard GUI ==

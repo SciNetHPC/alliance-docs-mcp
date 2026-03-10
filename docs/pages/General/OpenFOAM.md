@@ -1,10 +1,11 @@
 ---
-title: "OpenFOAM"
-url: "https://docs.alliancecan.ca/wiki/OpenFOAM"
+title: "OpenFOAM/en"
+url: "https://docs.alliancecan.ca/wiki/OpenFOAM/en"
 category: "General"
-last_modified: "2026-01-07T14:10:05Z"
-page_id: 5185
+last_modified: "2026-01-07T14:10:09Z"
+page_id: 6747
 display_title: "OpenFOAM"
+language: "en"
 ---
 
 The OpenFOAM (Open Field Operation and Manipulation) CFD Toolbox is a free, open source software package for computational fluid dynamics. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to solid dynamics and electromagnetics.

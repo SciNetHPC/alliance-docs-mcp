@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-07-19T21:14:01Z"
 page_id: 8006
 display_title: "Materials Studio"
+language: "en"
 ---
 
 The Alliance does not have permission to install Materials Studio centrally on all clusters. If you have a license, follow these instructions to install the application in your account. Please note that the current instructions are only valid for older standard software environments, so before beginning you will need to use a command like module load StdEnv/2016.4 if you are using the default 2020 standard software environment.

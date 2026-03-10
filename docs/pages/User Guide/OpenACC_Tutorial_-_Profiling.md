@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2022-12-20T22:27:07Z"
 page_id: 1448
 display_title: "OpenACC Tutorial - Profiling"
+language: "en"
 ---
 
 == Code profiling ==

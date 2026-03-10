@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-12-01T18:13:42Z"
 page_id: 24675
 display_title: "OpenMolcas"
+language: "en"
 ---
 
 ==Introduction==

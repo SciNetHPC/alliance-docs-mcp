@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-02T14:59:54Z"
 page_id: 4505
 display_title: "Anaconda"
+language: "en"
 ---
 
 Anaconda is a Python distribution.

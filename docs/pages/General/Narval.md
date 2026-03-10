@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-16T19:17:02Z"
 page_id: 17288
 display_title: "Narval"
+language: "en"
 ---
 
 Availability: since October 2021

@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2025-08-13T21:28:23Z"
 page_id: 29846
 display_title: "Alliance CCV submission guide"
+language: "en"
 ---
 
 == General information ==

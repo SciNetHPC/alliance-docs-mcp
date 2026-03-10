@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-04T21:29:39Z"
 page_id: 31074
 display_title: "Account renewal FAQ"
+language: "en"
 ---
 
 == General questions ==

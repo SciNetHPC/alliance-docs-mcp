@@ -2,16 +2,17 @@
 title: "Services d'informatique quantique/en"
 url: "https://docs.alliancecan.ca/wiki/Services_d%27informatique_quantique/en"
 category: "General"
-last_modified: "2025-11-28T18:40:04Z"
+last_modified: "2026-01-13T12:45:29Z"
 page_id: 24113
 display_title: "Quantum computing services"
+language: "en"
 ---
 
 == Summary ==
 
-Our team of quantum computing analysts provides expertise, support and training on quantum computing and hybrid classical-quantum computing. As of January, Calcul Québec offers access to a 24 qubit superconducting quantum computer called MonarQ, available via the Narval cluster. See our page MonarQ for more details.
+Our team of quantum computing analysts provides expertise, support and training on quantum computing and hybrid classical-quantum computing. As of January, Calcul Québec offers access to a 24 qubit superconducting quantum computer called MonarQ, available via the Narval cluster. See our page v for more details.
 
-See Getting started on the MonarQ page to get access to MonarQ.
+See Getting started with MonarQ.
 
 What is quantum computing?
 

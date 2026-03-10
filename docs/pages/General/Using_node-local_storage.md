@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:04:31Z"
 page_id: 14251
 display_title: "Using node-local storage"
+language: "en"
 ---
 
 When Slurm starts a job, it creates a temporary directory on each node assigned to the job.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-10T16:05:44Z"
 page_id: 22441
 display_title: "Multifactor authentication"
+language: "en"
 ---
 
 Multifactor authentication (MFA) allows you to protect your account with more than a password. Once your account is configured to use this feature, you will need to enter your username and password as usual, and then perform a second action (the second factor) to access most of our services.

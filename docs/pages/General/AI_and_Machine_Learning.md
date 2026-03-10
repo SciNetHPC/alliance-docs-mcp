@@ -1,10 +1,11 @@
 ---
-title: "AI and Machine Learning"
-url: "https://docs.alliancecan.ca/wiki/AI_and_Machine_Learning"
+title: "AI and Machine Learning/en"
+url: "https://docs.alliancecan.ca/wiki/AI_and_Machine_Learning/en"
 category: "General"
-last_modified: "2024-10-16T16:55:03Z"
-page_id: 3658
+last_modified: "2026-02-27T12:53:02Z"
+page_id: 11862
 display_title: "AI and Machine Learning"
+language: "en"
 ---
 
 To get the most out of our clusters for machine learning applications, special care must be taken. A cluster is a complicated beast that is very different from your local machine that you use for prototyping. Notably, a cluster uses a distributed filesystem, linking many storage devices seamlessly. Accessing a file on /project may feel the same as accessing one from the current node, but under the hood, these two IO operations have very different performance implications. In short, you need to choose wisely where to put your data.
@@ -90,8 +91,6 @@ Weights & Biases (wandb) and Comet.ml can help you get the most out of your comp
 
 * allowing easier tracking and analysis of training runs;
 * providing Bayesian hyperparameter search.
-
-Note that Comet and Wandb are not currently available on Graham.
 
 == Large-scale machine learning (big data) ==
 

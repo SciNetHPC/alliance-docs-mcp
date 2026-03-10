@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2020-06-23T19:14:53Z"
 page_id: 13869
 display_title: "TestPage"
+language: "en"
 ---
 
 This just a test page to check the functionality after the MW upgrade

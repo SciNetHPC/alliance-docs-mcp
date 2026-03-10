@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-16T19:13:42Z"
 page_id: 28933
 display_title: "R-INLA"
+language: "en"
 ---
 
 R-INLA is a package in R that do approximate Bayesian inference for Latent Gaussian Models.

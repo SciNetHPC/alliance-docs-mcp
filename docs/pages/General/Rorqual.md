@@ -2,9 +2,10 @@
 title: "Rorqual/en"
 url: "https://docs.alliancecan.ca/wiki/Rorqual/en"
 category: "General"
-last_modified: "2026-01-14T13:02:33Z"
+last_modified: "2026-03-05T20:34:52Z"
 page_id: 26842
 display_title: "Rorqual"
+language: "en"
 ---
 
 Availability: June 19, 2025
@@ -73,7 +74,7 @@ nodes	cores	available memory 	storage                     	CPU                  
 670  	192  	750G or 768000M  	1 x SATA SSD, 480G (6Gbit/s)	2 x AMD EPYC 9654 (Zen 4) @ 2.40 GHz, 384MB cache L3
 8    	192  	750G or 768000M  	1 x NVMe SSD, 3.84TB        	2 x AMD EPYC 9654 (Zen 4) @ 2.40 GHz, 384MB cache L3
 8    	192  	3013G or 3086250M	1 x SATA SSD, 480G (6Gbit/s)	2 x AMD EPYC 9654 (Zen 4) @ 2.40 GHz, 384MB cache L3
-81   	64   	498G or 510000M  	1 x NVMe SSD, 3.84TB        	2 x Intel Xeon Gold 6448Y @ 2.10 GHz, 60MB cache L3 	4 x NVidia H100 SXM5 (80GB)
+81   	64   	498G or 510000M  	1 x NVMe SSD, 3.84TB        	2 x Intel Xeon Gold 6448Y @ 2.10 GHz, 60MB cache L3 	4 x NVidia H100 SXM5 (80GB), connected via NVLink
 
 * To get a larger $SLURM_TMPDIR space, a job can be submitted with --tmp=xG, where x is a value between 370 and 3360.
 

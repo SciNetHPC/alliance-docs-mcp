@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-01-22T22:28:17Z"
 page_id: 17360
 display_title: "GIS"
+language: "en"
 ---
 
 GIS is an acronym for a geographic information system.

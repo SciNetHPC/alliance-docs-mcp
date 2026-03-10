@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-16T18:27:00Z"
 page_id: 2629
 display_title: "R"
+language: "en"
 ---
 
 R is a system for statistical computation and graphics. It consists of a language plus a runtime environment with graphics, a debugger, access to certain system functions, and the ability to run programs stored in script files.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-17T13:12:57Z"
 page_id: 2144
 display_title: "Transferring data"
+language: "en"
 ---
 
 Please use data transfer nodes, also called data mover nodes, instead of login nodes whenever you are transferring data to and from our clusters. If a data transfer node is available, its URL will be given near the top of the main page for each cluster, which you can find in the sidebar on the left.

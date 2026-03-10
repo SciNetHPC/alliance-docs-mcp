@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-05-01T20:09:02Z"
 page_id: 21279
 display_title: "Managing your Linux VM"
+language: "en"
 ---
 
 The majority of researchers use the Linux Operating System on their VMs.  Common Linux distributions used are AlmaLunix, CentOS, Debian, Fedora, and Ubuntu.  This page will help you with some common tasks to manage your Linux VM.  VMs can also run the Microsoft Windows operating system.  Some Windows management tasks are described  here.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-03-20T15:18:44Z"
 page_id: 6677
 display_title: "Torch"
+language: "en"
 ---
 
 "Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation."

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-07-08T22:19:58Z"
 page_id: 14372
 display_title: "FreeSurfer"
+language: "en"
 ---
 
 =Introduction=

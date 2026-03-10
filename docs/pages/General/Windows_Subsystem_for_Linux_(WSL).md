@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-04-02T21:23:48Z"
 page_id: 25182
 display_title: "Windows Subsystem for Linux (WSL)"
+language: "en"
 ---
 
 = Introduction =

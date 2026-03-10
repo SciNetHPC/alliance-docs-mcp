@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-03-21T14:12:37Z"
 page_id: 1665
 display_title: "Connecting with MobaXTerm"
+language: "en"
 ---
 
 Connecting with MobaXterm works in basically the same way as PuTTY (see Connecting with PuTTY) however, there is more functionality combined into MobaXterm than PuTTY. MobaXterm has a built-in SFTP client to transfer files as well as a built-in X11 server to allow you to run graphical programs remotely without the need to install a third-party X11 server. If you have already been using  PuTTY and have saved sessions, MobaXterm will use these saved sessions so that you do not have to re-enter the settings.

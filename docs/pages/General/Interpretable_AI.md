@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-06T14:07:27Z"
 page_id: 32081
 display_title: "Interpretable AI"
+language: "en"
 ---
 
 Interpretable AI (IAI) is a suite of machine learning tools that aim for full transparency and understand-ability by humans. IAI provides a python interface for their algorithms and can only be used under license. IAI provides a free license for academic use which can be accessed on Alliance systems. For licensing issues please contact technical support.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-25T14:21:43Z"
 page_id: 30421
 display_title: "RAC FAQ"
+language: "en"
 ---
 
 If you have questions about the terminology, please consult our Technical Glossary.

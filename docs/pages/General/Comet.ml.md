@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T15:40:47Z"
 page_id: 12614
 display_title: "Comet.ml"
+language: "en"
 ---
 
 Comet is a meta machine learning platform designed to help AI practitioners and teams build reliable machine learning models for real-world applications by streamlining the machine learning model lifecycle. By using Comet, users can track, compare, explain and reproduce their machine learning experiments. Comet can also greatly accelerate hyperparameter search, by providing a module for the Bayesian exploration of hyperparameter space.

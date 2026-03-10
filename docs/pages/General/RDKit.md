@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-01-27T21:11:16Z"
 page_id: 27750
 display_title: "RDKit"
+language: "en"
 ---
 
 RDKit is a collection of cheminformatics and machine-learning software written in C++ and Python.

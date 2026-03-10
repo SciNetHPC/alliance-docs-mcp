@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-18T17:48:59Z"
 page_id: 27116
 display_title: "AlphaFold3"
+language: "en"
 ---
 
 This page discusses how to use AlphaFold v3.0.

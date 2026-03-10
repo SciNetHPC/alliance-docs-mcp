@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-21T14:03:13Z"
 page_id: 6116
 display_title: "CUDA"
+language: "en"
 ---
 
 "CUDA® is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs)."NVIDIA CUDA Home Page. CUDA is a registered trademark of NVIDIA.

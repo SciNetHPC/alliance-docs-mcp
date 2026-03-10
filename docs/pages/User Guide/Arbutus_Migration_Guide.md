@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2023-02-27T21:17:50Z"
 page_id: 9289
 display_title: "Arbutus Migration Guide"
+language: "en"
 ---
 
 This document aims to describe how to migrate virtual machine (VM) instances from the legacy West Cloud to the new Arbutus Cloud.

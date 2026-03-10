@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-23T17:58:50Z"
 page_id: 11178
 display_title: "Delft3D"
+language: "en"
 ---
 
 Delft3D is a 3D modeling suite to investigate hydrodynamics, sediment transport and morphology and water quality for fluvial, estuarine and coastal environments.

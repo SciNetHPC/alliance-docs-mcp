@@ -2,9 +2,10 @@
 title: "Qiskit/en"
 url: "https://docs.alliancecan.ca/wiki/Qiskit/en"
 category: "General"
-last_modified: "2025-03-31T21:16:04Z"
+last_modified: "2026-03-09T13:34:48Z"
 page_id: 26302
 display_title: "Qiskit"
+language: "en"
 ---
 
 Developed in Python by IBM, Qiskit is an open-source quantum computing library. Like PennyLane and Snowflurry, it allows you to build, simulate and run quantum circuits.
@@ -38,15 +39,6 @@ Define the circuit. Apply an Hadamard gate to create a superposition state on th
     circuit.h(0)
     circuit.cx(0,1)
     circuit.measure_all()
-
-Nous voulons utiliser le simulateur par défaut, soit AerSimulator étant le simulateur par défaut. Nous obtenons le dénombrement des états finaux des qubits après 1000 mesures.
-    simulator = AerSimulator()
-    result = simulator.run(circuit, shots=1000).result()
-    counts = result.get_counts()
-    print(counts)
-    {'00': 489, '11': 535}
-Nous affichons un histogramme des résultats avec la commande
-    plot_histogram(counts)
 
 We will use the default simulator AerSimulator. This provides the final number of qubits after having made 1000 measurements.
     simulator = AerSimulator()

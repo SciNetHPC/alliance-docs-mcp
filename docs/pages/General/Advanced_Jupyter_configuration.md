@@ -2,9 +2,10 @@
 title: "Advanced Jupyter configuration/en"
 url: "https://docs.alliancecan.ca/wiki/Advanced_Jupyter_configuration/en"
 category: "General"
-last_modified: "2025-09-23T21:59:54Z"
+last_modified: "2026-01-07T14:06:27Z"
 page_id: 18533
 display_title: "Advanced Jupyter configuration"
+language: "en"
 ---
 
 = Introduction =

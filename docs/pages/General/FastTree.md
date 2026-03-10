@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-12-17T21:19:57Z"
 page_id: 27265
 display_title: "FastTree"
+language: "en"
 ---
 
 FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences. FastTree can handle alignments with up to a million sequences in a reasonable amount of time and memory.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-09T20:49:42Z"
 page_id: 12030
 display_title: "Terraform"
+language: "en"
 ---
 
 Terraform is a tool for defining and provisioning data centre infrastructure, including virtual machines.  Terraform is seeing growing use within the Alliance Federation.  Its infrastructure-as-code model allows one to maintain OpenStack resources as a collection of definitions which can be easily updated using favourite text editors, shared among members of a group, and stored in version control.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-18T21:44:02Z"
 page_id: 31905
 display_title: "Uv"
+language: "en"
 ---
 
 uv is an extremely fast Python package and project manager written in Rust. While you may be able to use it to install some packages, it will likely fail for others.

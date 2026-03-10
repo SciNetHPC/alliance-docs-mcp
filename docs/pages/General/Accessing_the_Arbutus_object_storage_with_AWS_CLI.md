@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-06-20T18:17:26Z"
 page_id: 22460
 display_title: "Accessing the Arbutus object storage with AWS CLI"
+language: "en"
 ---
 
 This page contains instructions on how to set up and access Arbutus object storage with the AWS Command Line Interface (CLI), one of the  object storage clients  available for this storage type.

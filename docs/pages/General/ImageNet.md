@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-20T12:29:16Z"
 page_id: 17342
 display_title: "ImageNet"
+language: "en"
 ---
 
 The Digital Research Alliance of Canada makes available on the Nibi cluster a copy of the ImageNet dataset, stored in the /datashare space. For the time being, this dataset is available only on Nibi and you must opt-in to access this dataset by agreeing that you have registered for an ImageNet license:

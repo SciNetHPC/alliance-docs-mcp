@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-22T14:31:02Z"
 page_id: 2538
 display_title: "Running jobs"
+language: "en"
 ---
 
 This page is intended for the user who is already familiar with the concepts of job scheduling and job scripts, and who wants guidance on submitting jobs to our clusters.

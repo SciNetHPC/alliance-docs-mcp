@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-11-11T17:17:59Z"
 page_id: 21607
 display_title: "MetaPhlAn"
+language: "en"
 ---
 
 MetaPhlAn is a "computational tool for profiling the composition of microbial communities (Bacteria, Archaea and Eukaryotes) from metagenomic shotgun sequencing data (i.e. not 16S) with species-level. With StrainPhlAn, it is possible to perform accurate strain-level microbial profiling", according to its GitHub repository. While the software stack on our clusters does contain modules for a couple of older versions (2.2.0 and 2.8) of this software, we now expect users to install recent versions using a  Python virtual environment.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-07-18T19:40:02Z"
 page_id: 11774
 display_title: "Archiving and compressing files"
+language: "en"
 ---
 
 Parent page: Storage and file management

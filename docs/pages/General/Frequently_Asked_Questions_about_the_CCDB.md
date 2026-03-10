@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-03T19:32:33Z"
 page_id: 8741
 display_title: "Frequently Asked Questions about the CCDB"
+language: "en"
 ---
 
 = CCDB basics =

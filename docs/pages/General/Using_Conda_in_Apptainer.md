@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-03T14:48:20Z"
 page_id: 32061
 display_title: "Using Conda in Apptainer"
+language: "en"
 ---
 
 We will preface this tutorial on how to use Conda inside a container with the following important notes:

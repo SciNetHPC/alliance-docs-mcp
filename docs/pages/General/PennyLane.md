@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-02T14:37:29Z"
 page_id: 26337
 display_title: "PennyLane"
+language: "en"
 ---
 
 PennyLane is an open-source software platform for differentiable quantum computing that was launched in 2018 by Xanadu, a quantum technology company based in Toronto, Canada. It allows quantum circuits to be designed and run on a variety of quantum simulators and hardware. PennyLane is designed to facilitate the simulation, optimization, and training of hybrid quantum algorithms, which combine classical and quantum processing. The first version was published as an open-source project on GitHub.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-05-16T19:45:01Z"
 page_id: 25586
 display_title: "Computational fluid dynamics"
+language: "en"
 ---
 
 Computational fluid dynamics (CFD) is the domain of numerical analysis and physics concerned with the accurate and efficient simulation of fluid motions using computer software.

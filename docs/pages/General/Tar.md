@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-07-03T12:59:08Z"
 page_id: 1577
 display_title: "Tar/en"
+language: "en"
 ---
 
 Archiving means creating one file that contains a number of smaller files within it. Archiving data can improve the efficiency of file storage, and of file transfers. It is faster for the secure copy protocol (scp), for example, to transfer one archive file of a reasonable size than thousands of small files of equal total size.

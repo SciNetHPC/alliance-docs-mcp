@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-06-28T14:07:49Z"
 page_id: 25885
 display_title: "Parasail"
+language: "en"
 ---
 
 parasail is a SIMD C (C99) library containing implementations of the Smith-Waterman (local), Needleman-Wunsch (global), and various semi-global pairwise sequence alignment algorithms.

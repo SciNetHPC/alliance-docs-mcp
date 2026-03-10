@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2021-03-24T20:04:53Z"
 page_id: 14911
 display_title: "Événements passés"
+language: "en"
 ---
 
 ==== Événements futurs ====

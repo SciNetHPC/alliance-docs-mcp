@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-12T14:54:51Z"
 page_id: 9401
 display_title: "GDB"
+language: "en"
 ---
 
 GDB is a debugger used to investigate software problem.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-21T14:04:10Z"
 page_id: 20857
 display_title: "CephFS"
+language: "en"
 ---
 
 CephFS provides a common filesystem that can be shared amongst multiple OpenStack VM hosts. Access to the service is granted via requests to cloud@tech.alliancecan.ca.

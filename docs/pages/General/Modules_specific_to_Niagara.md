@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-01-29T18:20:03Z"
 page_id: 6935
 display_title: "Modules specific to Niagara"
+language: "en"
 ---
 
 Module              	Versions                                                    	Documentation	Description

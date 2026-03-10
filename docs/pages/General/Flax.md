@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-07-21T18:31:54Z"
 page_id: 20509
 display_title: "Flax"
+language: "en"
 ---
 
 Flax is a neural network library and ecosystem for JAX that is designed for flexibility. Its API for building models is similar to that of PyTorch and Keras where models are expressed as sequences of modules. Similarities however stop there - being based on JAX, Flax's API for training models is designed around functional programming.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2020-11-30T17:54:41Z"
 page_id: 15290
 display_title: "OpenACC"
+language: "en"
 ---
 
 OpenACC makes it relatively easy to offload vectorized code to accelerators such as GPUs, for example. Unlike CUDA and OpenCL where kernels need to be coded explicitly, OpenACC minimizes the amount of modifications to do on a serial or OpenMP code. The compiler converts the OpenACC code into a binary executable that can make use of accelerators. The performance of OpenACC codes can be similar to the one of a CUDA code, except that OpenACC requires less code development.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-04-24T12:49:19Z"
 page_id: 16844
 display_title: "Recent changes to the software environment"
+language: "en"
 ---
 
 Installation of software packages within the Alliance software environment is always performed using scripts. We use multiple tools, including EasyBuild, Gentoo Overlays (starting in 2020), and NixOS (formerly). This software environment can be used on any computer in the world thanks to CVMFS.

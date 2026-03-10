@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:44:13Z"
 page_id: 11482
 display_title: "Mounting /project space on a VM in the cloud"
+language: "en"
 ---
 
 ===Introduction===

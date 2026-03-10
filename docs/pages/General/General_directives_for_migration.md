@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-11-27T16:49:01Z"
 page_id: 1608
 display_title: "General directives for migration"
+language: "en"
 ---
 
 This page explains issues related to transferring your data between our facilities and our regional partners.

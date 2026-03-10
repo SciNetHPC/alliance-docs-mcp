@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2026-02-06T23:17:41Z"
 page_id: 15409
 display_title: "Cloud troubleshooting guide"
+language: "en"
 ---
 
 This page describes how to troubleshoot some issues that come up frequently when using our cloud service to operate a virtual machine (VM, also known as an "instance").  This includes solutions you can try yourself, and advice about submitting a support ticket, including what information to include in the ticket.  Not all issues can be solved by you, the user; some things require a system administrator.  If you work through this guide and it advises you to submit a ticket, it is likely an issue which you cannot easily solve yourself.

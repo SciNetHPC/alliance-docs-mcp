@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-06-11T18:00:31Z"
 page_id: 10335
 display_title: "Using a resource allocation"
+language: "en"
 ---
 
 =Introduction to RAC=

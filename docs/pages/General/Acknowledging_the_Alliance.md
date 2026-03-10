@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-13T21:28:03Z"
 page_id: 29798
 display_title: "Acknowledging the Alliance"
+language: "en"
 ---
 
 Acknowledging the Alliance and our regional partner organizations

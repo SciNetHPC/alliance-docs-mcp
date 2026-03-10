@@ -5,6 +5,7 @@ category: "Technical Reference"
 last_modified: "2025-10-08T21:51:02Z"
 page_id: 15766
 display_title: "RAPIDS"
+language: "en"
 ---
 
 =Overview=

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-10-17T15:14:01Z"
 page_id: 4342
 display_title: "Project layout"
+language: "en"
 ---
 
 : Parent page: Storage and file management

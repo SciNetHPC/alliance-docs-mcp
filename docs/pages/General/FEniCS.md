@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-09T19:11:02Z"
 page_id: 3859
 display_title: "FEniCS/en"
+language: "en"
 ---
 
 FEniCS is a popular open-source computing platform for solving partial differential equations (PDEs).

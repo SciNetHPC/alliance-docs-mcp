@@ -1,10 +1,11 @@
 ---
-title: "Tensorboard"
-url: "https://docs.alliancecan.ca/wiki/Tensorboard"
+title: "Tensorboard/en"
+url: "https://docs.alliancecan.ca/wiki/Tensorboard/en"
 category: "General"
-last_modified: "2026-01-20T19:45:56Z"
-page_id: 32185
+last_modified: "2026-01-20T19:45:59Z"
+page_id: 32342
 display_title: "Tensorboard"
+language: "en"
 ---
 
 TensorBoard is a suite of web applications for inspecting and understanding your AI and Machine Learning runs. It includes visual tools to track performance and evaluation metrics, profile code, explore intermediate layers inside models, visualize embeddings and more. Originally built for TensorFlow, it also supports other frameworks such as PyTorch and Jax.

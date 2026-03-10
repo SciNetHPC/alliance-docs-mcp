@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-11-05T16:33:58Z"
 page_id: 20282
 display_title: "CASTEP"
+language: "en"
 ---
 
 ==Installing CASTEP==

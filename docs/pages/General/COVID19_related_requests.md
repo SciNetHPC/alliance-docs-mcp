@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2021-03-04T21:24:41Z"
 page_id: 13508
 display_title: "COVID19 related requests"
+language: "en"
 ---
 
 In the context of the COVID-19 pandemic, Compute Canada is ready to help researchers working on this topic. If this is your case, when you contact Technical support, please be as specific as possible when describing your needs. Here are a few scenarios that could apply to you, and what information you should provide.

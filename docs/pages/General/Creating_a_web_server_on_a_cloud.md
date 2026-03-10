@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-06-01T21:01:58Z"
 page_id: 687
 display_title: "Creating a web server on a cloud"
+language: "en"
 ---
 
 Parent page: Cloud

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-11-04T16:33:01Z"
 page_id: 1935
 display_title: "MPI"
+language: "en"
 ---
 
 == A Primer on Parallel Programming ==

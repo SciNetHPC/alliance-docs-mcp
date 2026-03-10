@@ -1,0 +1,71 @@
+---
+title: "Trillium/fr"
+url: "https://docs.alliancecan.ca/wiki/Trillium/fr"
+category: "General"
+last_modified: "2026-01-29T14:47:58Z"
+page_id: 26934
+display_title: "Trillium"
+language: "fr"
+---
+
+Disponibilité : 7 août 2025
+Nœud de connexion : trillium.alliancecan.ca et trillium-gpu.alliancecan.ca
+Globus collections: alliancecan#trillium (file system)
+alliancecan#hpss (archive/nearline)
+Nœud de copie (rsync, scp, sftp ...) :  tri-dm{2,3,4}.scinet.utoronto.ca
+Nœud d'automatisation : robot3.scinet.utoronto.ca
+Open OnDemand : ondemand.scinet.utoronto.ca  (inclut JupyterLab)
+Portail :  my.scinet.utoronto.ca
+
+La grappe Trillium est conçue pour prendre en charge des tâches massivement parallèles. Construite par Lenovo Canada, elle est hébergée par SciNet à l'Université de Toronto.
+
+L'utilisation de Trillum est semblable à celle des autres grappes nationales  avec cependant certaines particularités. Pour les détails, voir Trillium : Guide de démarrage.
+
+Si vous aviez accès à Niagara nous vous encourageons fortement de prendre connaissance de la page Transition de Niagara à Trillium.
+
+=Installation et transition=
+En raison de la capacité d'alimentation électrique et de refroidissement, une portion importante de la grappe Niagara sera fermée pendant une période intermédiaire afin d'effectuer les tests d'acceptation et la transition vers le nouveau système. Nous vous tiendrons au courant lorsque nous aurons une meilleure idée du calendrier d'installation de Trillium.
+
+=Stockage=
+Stockage parallèle : 29 pétaoctets, SSD NVMe de VAST Data.
+
+=Réseau haute performance=
+* Réseautique Infiniband Nvidia NDR
+** 400 Gbit/s pour les nœuds CPU
+** 800 Gbit/s pour les nœuds GPU
+** réseau entièrement non bloquant; les nœuds peuvent communiquer entre eux simultanément sur toute la bande passante
+
+=Caractéristiques des nœuds=
+
+nœuds	cœurs	mémoire disponible	CPU                                                   	GPU
+1224 	192  	749G ou 767000M   	2 x AMD EPYC 9655 (Zen 5) @ 2.6 GHz, cache L3 de 384MB
+63   	96   	749G ou 767000M   	1 x AMD EPYC 9654 (Zen 4) @ 2.4 GHz, cache L3 de 384MB	4 x NVidia H100 SXM (80GB de mémoire), connexion via NVLink
+
+= Données techniques =
+
+== Refroidissement et efficacité énergétique ==
+
+Le refroidissement se fait par une eau de 35 à 40 °C, ce qui a les effets suivants%nbsp;:
+
+* indicateur d'efficacité énergétique (PUE) sous 1.03;
+* refroidisseurs à sec en circuit fermé, sans tours d'évaporation et consommation de nouvelle eau;
+* excédent de chaleur utilisé par des installations voisines pour minimiser l'empreinte énergétique.
+
+==Système de stockage==
+
+Le système de fichiers VAST haute performance est composé d'un pool de stockage unifié de 29PB soutenu par NVMe avec les caractéristiques suivantes :
+
+* capacité effective de 29PB (dédupliquée via VAST);
+* capacité de mémoire flash brute de 16.7PB;
+* bande passante de 714GB/s en lecture et de 275GB/s en écriture;
+* 10 millions d'IOPS en lecture et 2 millions d'IOPS en écriture;
+* protocoles d'accès POSIX et S3 sous un espace de nommage unifié;
+* 48 CBoxes et 14 DBoxes pour les services de données.
+
+== Sauvegarde et archivage ==
+
+L'archivage sur ruban /nearline HPSS dispose de 114PB additionnels.
+
+* Archivage en deux copies dans des bibliothèques géographiquement distinctes;
+* utilisé à des fins de sauvegarde et d'archivage;
+* sauvegardes gérées par le logiciel Atempo.

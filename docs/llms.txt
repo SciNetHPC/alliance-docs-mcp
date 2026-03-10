@@ -1,446 +1,1101 @@
 # Alliance Documentation - Page Directory
-# Generated: 2026-03-01T06:33:57.313419+00:00
-# Total pages: 443
+# Generated: 2026-03-09T19:56:17.514429+00:00
+# Total pages: 1098
 
+- A tutorial on 'tar' (User Guide): https://docs.alliancecan.ca/wiki/A_tutorial_on_%27tar%27
 - A tutorial on 'tar' (User Guide): https://docs.alliancecan.ca/wiki/A_tutorial_on_%27tar%27/en
+- A tutorial on 'tar'/fr (User Guide): https://docs.alliancecan.ca/wiki/A_tutorial_on_%27tar%27/fr
+- ABINIT (General): https://docs.alliancecan.ca/wiki/ABINIT
 - ABINIT (General): https://docs.alliancecan.ca/wiki/ABINIT/en
+- ABINIT/fr (General): https://docs.alliancecan.ca/wiki/ABINIT/fr
 - ACPYPE (General): https://docs.alliancecan.ca/wiki/ACPYPE
+- ADF (General): https://docs.alliancecan.ca/wiki/ADF
 - ADF (General): https://docs.alliancecan.ca/wiki/ADF/en
-- AI and Machine Learning (General): https://docs.alliancecan.ca/wiki/AI_and_Machine_Learning/en
+- ADF/fr (General): https://docs.alliancecan.ca/wiki/ADF/fr
 - AI and Machine Learning (General): https://docs.alliancecan.ca/wiki/AI_and_Machine_Learning
+- AI and Machine Learning (General): https://docs.alliancecan.ca/wiki/AI_and_Machine_Learning/en
+- AI and Machine Learning/fr (General): https://docs.alliancecan.ca/wiki/AI_and_Machine_Learning/fr
+- AMBER (General): https://docs.alliancecan.ca/wiki/AMBER
 - AMBER (General): https://docs.alliancecan.ca/wiki/AMBER/en
+- AMBER/fr (General): https://docs.alliancecan.ca/wiki/AMBER/fr
+- AMS (General): https://docs.alliancecan.ca/wiki/AMS
 - AMS (General): https://docs.alliancecan.ca/wiki/AMS/en
+- AMS/fr (General): https://docs.alliancecan.ca/wiki/AMS/fr
+- ARM software (General): https://docs.alliancecan.ca/wiki/ARM_software
 - ARM software (General): https://docs.alliancecan.ca/wiki/ARM_software/en
+- ARM software/fr (General): https://docs.alliancecan.ca/wiki/ARM_software/fr
 - Abaqus (General): https://docs.alliancecan.ca/wiki/Abaqus
-- Abaqus/en (General): https://docs.alliancecan.ca/wiki/Abaqus/en
+- Abaqus (General): https://docs.alliancecan.ca/wiki/Abaqus/en
+- Abaqus/fr (General): https://docs.alliancecan.ca/wiki/Abaqus/fr
+- Access to files of users leaving a project (User Guide): https://docs.alliancecan.ca/wiki/Access_to_files_of_users_leaving_a_project
 - Access to files of users leaving a project (User Guide): https://docs.alliancecan.ca/wiki/Access_to_files_of_users_leaving_a_project/en
+- Access to files of users leaving a project/fr (User Guide): https://docs.alliancecan.ca/wiki/Access_to_files_of_users_leaving_a_project/fr
+- Accessing CVMFS (General): https://docs.alliancecan.ca/wiki/Accessing_CVMFS
 - Accessing CVMFS (General): https://docs.alliancecan.ca/wiki/Accessing_CVMFS/en
+- Accessing CVMFS/fr (General): https://docs.alliancecan.ca/wiki/Accessing_CVMFS/fr
+- Accessing object storage with WinSCP (General): https://docs.alliancecan.ca/wiki/Accessing_object_storage_with_WinSCP
 - Accessing object storage with WinSCP (General): https://docs.alliancecan.ca/wiki/Accessing_object_storage_with_WinSCP/en
+- Accessing object storage with WinSCP/fr (General): https://docs.alliancecan.ca/wiki/Accessing_object_storage_with_WinSCP/fr
+- Accessing object storage with s3cmd (General): https://docs.alliancecan.ca/wiki/Accessing_object_storage_with_s3cmd
 - Accessing object storage with s3cmd (General): https://docs.alliancecan.ca/wiki/Accessing_object_storage_with_s3cmd/en
+- Accessing object storage with s3cmd/fr (General): https://docs.alliancecan.ca/wiki/Accessing_object_storage_with_s3cmd/fr
+- Accessing the Arbutus object storage with AWS CLI (General): https://docs.alliancecan.ca/wiki/Accessing_the_Arbutus_object_storage_with_AWS_CLI
 - Accessing the Arbutus object storage with AWS CLI (General): https://docs.alliancecan.ca/wiki/Accessing_the_Arbutus_object_storage_with_AWS_CLI/en
+- Accessing the Arbutus object storage with AWS CLI/fr (General): https://docs.alliancecan.ca/wiki/Accessing_the_Arbutus_object_storage_with_AWS_CLI/fr
+- Account renewal (General): https://docs.alliancecan.ca/wiki/Account_renewal
 - Account renewal (General): https://docs.alliancecan.ca/wiki/Account_renewal/en
+- Account renewal FAQ (General): https://docs.alliancecan.ca/wiki/Account_renewal_FAQ
 - Account renewal FAQ (General): https://docs.alliancecan.ca/wiki/Account_renewal_FAQ/en
+- Account renewal FAQ/fr (General): https://docs.alliancecan.ca/wiki/Account_renewal_FAQ/fr
+- Account renewal/fr (General): https://docs.alliancecan.ca/wiki/Account_renewal/fr
+- Acknowledging the Alliance (General): https://docs.alliancecan.ca/wiki/Acknowledging_the_Alliance
 - Acknowledging the Alliance (General): https://docs.alliancecan.ca/wiki/Acknowledging_the_Alliance/en
+- Acknowledging the Alliance/fr (General): https://docs.alliancecan.ca/wiki/Acknowledging_the_Alliance/fr
 - Advanced Job Submission (General): https://docs.alliancecan.ca/wiki/Advanced_Job_Submission
+- Advanced Jupyter configuration (General): https://docs.alliancecan.ca/wiki/Advanced_Jupyter_configuration
 - Advanced Jupyter configuration (General): https://docs.alliancecan.ca/wiki/Advanced_Jupyter_configuration/en
+- Advanced Jupyter configuration/fr (General): https://docs.alliancecan.ca/wiki/Advanced_Jupyter_configuration/fr
+- Advanced MPI scheduling (General): https://docs.alliancecan.ca/wiki/Advanced_MPI_scheduling
 - Advanced MPI scheduling (General): https://docs.alliancecan.ca/wiki/Advanced_MPI_scheduling/en
+- Advanced MPI scheduling/fr (General): https://docs.alliancecan.ca/wiki/Advanced_MPI_scheduling/fr
 - AiiDA (General): https://docs.alliancecan.ca/wiki/AiiDA
+- Alliance CCV submission guide (User Guide): https://docs.alliancecan.ca/wiki/Alliance_CCV_submission_guide
 - Alliance CCV submission guide (User Guide): https://docs.alliancecan.ca/wiki/Alliance_CCV_submission_guide/en
+- Alliance CCV submission guide/fr (User Guide): https://docs.alliancecan.ca/wiki/Alliance_CCV_submission_guide/fr
+- Allocations and compute scheduling (General): https://docs.alliancecan.ca/wiki/Allocations_and_compute_scheduling
 - Allocations and compute scheduling (General): https://docs.alliancecan.ca/wiki/Allocations_and_compute_scheduling/en
+- Allocations and compute scheduling/fr (General): https://docs.alliancecan.ca/wiki/Allocations_and_compute_scheduling/fr
+- AlphaFold2 (General): https://docs.alliancecan.ca/wiki/AlphaFold2
 - AlphaFold2 (General): https://docs.alliancecan.ca/wiki/AlphaFold2/en
+- AlphaFold2/fr (General): https://docs.alliancecan.ca/wiki/AlphaFold2/fr
+- AlphaFold3 (General): https://docs.alliancecan.ca/wiki/AlphaFold3
 - AlphaFold3 (General): https://docs.alliancecan.ca/wiki/AlphaFold3/en
+- AlphaFold3/fr (General): https://docs.alliancecan.ca/wiki/AlphaFold3/fr
+- Altair FEKO (General): https://docs.alliancecan.ca/wiki/Altair_FEKO
 - Altair FEKO (General): https://docs.alliancecan.ca/wiki/Altair_FEKO/en
+- Altair FEKO/fr (General): https://docs.alliancecan.ca/wiki/Altair_FEKO/fr
+- Anaconda (General): https://docs.alliancecan.ca/wiki/Anaconda
 - Anaconda (General): https://docs.alliancecan.ca/wiki/Anaconda/en
+- Anaconda/fr (General): https://docs.alliancecan.ca/wiki/Anaconda/fr
 - Ansys (General): https://docs.alliancecan.ca/wiki/Ansys
-- Ansys/en (General): https://docs.alliancecan.ca/wiki/Ansys/en
+- Ansys (General): https://docs.alliancecan.ca/wiki/Ansys/en
+- Ansys/fr (General): https://docs.alliancecan.ca/wiki/Ansys/fr
 - AnsysEDT (General): https://docs.alliancecan.ca/wiki/AnsysEDT
-- AnsysEDT/en (General): https://docs.alliancecan.ca/wiki/AnsysEDT/en
+- AnsysEDT (General): https://docs.alliancecan.ca/wiki/AnsysEDT/en
+- AnsysEDT/fr (General): https://docs.alliancecan.ca/wiki/AnsysEDT/fr
+- Apache Spark (General): https://docs.alliancecan.ca/wiki/Apache_Spark
 - Apache Spark (General): https://docs.alliancecan.ca/wiki/Apache_Spark/en
+- Apache Spark/fr (General): https://docs.alliancecan.ca/wiki/Apache_Spark/fr
 - Apply for a CCDB account (General): https://docs.alliancecan.ca/wiki/Apply_for_a_CCDB_account
-- Apply for a CCDB account/en (General): https://docs.alliancecan.ca/wiki/Apply_for_a_CCDB_account/en
-- Apptainer/en (General): https://docs.alliancecan.ca/wiki/Apptainer/en
+- Apply for a CCDB account (General): https://docs.alliancecan.ca/wiki/Apply_for_a_CCDB_account/en
+- Apply for a CCDB account/fr (General): https://docs.alliancecan.ca/wiki/Apply_for_a_CCDB_account/fr
+- Apptainer (General): https://docs.alliancecan.ca/wiki/Apptainer
+- Apptainer (General): https://docs.alliancecan.ca/wiki/Apptainer/en
+- Apptainer/fr (General): https://docs.alliancecan.ca/wiki/Apptainer/fr
+- Arbutus (General): https://docs.alliancecan.ca/wiki/Arbutus
 - Arbutus (General): https://docs.alliancecan.ca/wiki/Arbutus/en
+- Arbutus Migration Guide (User Guide): https://docs.alliancecan.ca/wiki/Arbutus_Migration_Guide
 - Arbutus Migration Guide (User Guide): https://docs.alliancecan.ca/wiki/Arbutus_Migration_Guide/en
+- Arbutus Migration Guide/fr (User Guide): https://docs.alliancecan.ca/wiki/Arbutus_Migration_Guide/fr
+- Arbutus object storage (General): https://docs.alliancecan.ca/wiki/Arbutus_object_storage
 - Arbutus object storage (General): https://docs.alliancecan.ca/wiki/Arbutus_object_storage/en
+- Arbutus object storage clients (General): https://docs.alliancecan.ca/wiki/Arbutus_object_storage_clients
 - Arbutus object storage clients (General): https://docs.alliancecan.ca/wiki/Arbutus_object_storage_clients/en
+- Arbutus object storage clients/fr (General): https://docs.alliancecan.ca/wiki/Arbutus_object_storage_clients/fr
+- Arbutus object storage/fr (General): https://docs.alliancecan.ca/wiki/Arbutus_object_storage/fr
 - Arbutus user documentation (User Guide): https://docs.alliancecan.ca/wiki/Arbutus_user_documentation
+- Arbutus/fr (General): https://docs.alliancecan.ca/wiki/Arbutus/fr
+- Archiving and compressing files (General): https://docs.alliancecan.ca/wiki/Archiving_and_compressing_files
 - Archiving and compressing files (General): https://docs.alliancecan.ca/wiki/Archiving_and_compressing_files/en
+- Archiving and compressing files/fr (General): https://docs.alliancecan.ca/wiki/Archiving_and_compressing_files/fr
+- Arrow (General): https://docs.alliancecan.ca/wiki/Arrow
 - Arrow (General): https://docs.alliancecan.ca/wiki/Arrow/en
+- Arrow/fr (General): https://docs.alliancecan.ca/wiki/Arrow/fr
 - Astronomy and High Energy Physics Interactive Analysis Facility (General): https://docs.alliancecan.ca/wiki/Astronomy_and_High_Energy_Physics_Interactive_Analysis_Facility
+- Authoring guidelines (User Guide): https://docs.alliancecan.ca/wiki/Authoring_guidelines
 - Authoring guidelines (User Guide): https://docs.alliancecan.ca/wiki/Authoring_guidelines/en
+- Authoring guidelines/fr (User Guide): https://docs.alliancecan.ca/wiki/Authoring_guidelines/fr
+- Automating VM creation (General): https://docs.alliancecan.ca/wiki/Automating_VM_creation
 - Automating VM creation (General): https://docs.alliancecan.ca/wiki/Automating_VM_creation/en
-- Automation in the context of multifactor authentication/en (General): https://docs.alliancecan.ca/wiki/Automation_in_the_context_of_multifactor_authentication/en
+- Automating VM creation/fr (General): https://docs.alliancecan.ca/wiki/Automating_VM_creation/fr
+- Automation in the context of multifactor authentication (General): https://docs.alliancecan.ca/wiki/Automation_in_the_context_of_multifactor_authentication
+- Automation in the context of multifactor authentication (General): https://docs.alliancecan.ca/wiki/Automation_in_the_context_of_multifactor_authentication/en
+- Automation in the context of multifactor authentication/fr (General): https://docs.alliancecan.ca/wiki/Automation_in_the_context_of_multifactor_authentication/fr
+- Autotools (General): https://docs.alliancecan.ca/wiki/Autotools
 - Autotools (General): https://docs.alliancecan.ca/wiki/Autotools/en
+- Autotools/fr (General): https://docs.alliancecan.ca/wiki/Autotools/fr
+- Available Python wheels (General): https://docs.alliancecan.ca/wiki/Available_Python_wheels
+- Available Python wheels (General): https://docs.alliancecan.ca/wiki/Available_Python_wheels/en
+- Available Python wheels/fr (General): https://docs.alliancecan.ca/wiki/Available_Python_wheels/fr
+- Available software (General): https://docs.alliancecan.ca/wiki/Available_software
 - Available software (General): https://docs.alliancecan.ca/wiki/Available_software/en
+- Available software/fr (General): https://docs.alliancecan.ca/wiki/Available_software/fr
+- BEAST (General): https://docs.alliancecan.ca/wiki/BEAST
 - BEAST (General): https://docs.alliancecan.ca/wiki/BEAST/en
+- BEAST/fr (General): https://docs.alliancecan.ca/wiki/BEAST/fr
+- BLAS and LAPACK (General): https://docs.alliancecan.ca/wiki/BLAS_and_LAPACK
 - BLAS and LAPACK (General): https://docs.alliancecan.ca/wiki/BLAS_and_LAPACK/en
+- BLAS and LAPACK/fr (General): https://docs.alliancecan.ca/wiki/BLAS_and_LAPACK/fr
+- BLAST (General): https://docs.alliancecan.ca/wiki/BLAST
 - BLAST (General): https://docs.alliancecan.ca/wiki/BLAST/en
-- BUSCO/en (General): https://docs.alliancecan.ca/wiki/BUSCO/en
+- BLAST/fr (General): https://docs.alliancecan.ca/wiki/BLAST/fr
+- BUSCO (General): https://docs.alliancecan.ca/wiki/BUSCO
+- BUSCO (General): https://docs.alliancecan.ca/wiki/BUSCO/en
+- BUSCO/fr (General): https://docs.alliancecan.ca/wiki/BUSCO/fr
+- Backing up your VM (General): https://docs.alliancecan.ca/wiki/Backing_up_your_VM
 - Backing up your VM (General): https://docs.alliancecan.ca/wiki/Backing_up_your_VM/en
+- Backing up your VM/fr (General): https://docs.alliancecan.ca/wiki/Backing_up_your_VM/fr
+- Best practices for job submission (General): https://docs.alliancecan.ca/wiki/Best_practices_for_job_submission
 - Best practices for job submission (General): https://docs.alliancecan.ca/wiki/Best_practices_for_job_submission/en
+- Best practices for job submission/fr (General): https://docs.alliancecan.ca/wiki/Best_practices_for_job_submission/fr
+- Bioinformatics (General): https://docs.alliancecan.ca/wiki/Bioinformatics
 - Bioinformatics (General): https://docs.alliancecan.ca/wiki/Bioinformatics/en
+- Bioinformatics/fr (General): https://docs.alliancecan.ca/wiki/Bioinformatics/fr
+- Biomolecular simulation (General): https://docs.alliancecan.ca/wiki/Biomolecular_simulation
 - Biomolecular simulation (General): https://docs.alliancecan.ca/wiki/Biomolecular_simulation/en
+- Biomolecular simulation/fr (General): https://docs.alliancecan.ca/wiki/Biomolecular_simulation/fr
 - Biorepo containers (General): https://docs.alliancecan.ca/wiki/Biorepo_containers
 - BraCeR (General): https://docs.alliancecan.ca/wiki/BraCeR
+- Build tools (General): https://docs.alliancecan.ca/wiki/Build_tools
 - Build tools (General): https://docs.alliancecan.ca/wiki/Build_tools/en
+- Build tools/fr (General): https://docs.alliancecan.ca/wiki/Build_tools/fr
+- Building a Software Carpentry style lesson on the wiki (General): https://docs.alliancecan.ca/wiki/Building_a_Software_Carpentry_style_lesson_on_the_wiki
 - Building a Software Carpentry style lesson on the wiki (General): https://docs.alliancecan.ca/wiki/Building_a_Software_Carpentry_style_lesson_on_the_wiki/en
+- Building a Software Carpentry style lesson on the wiki/fr (General): https://docs.alliancecan.ca/wiki/Building_a_Software_Carpentry_style_lesson_on_the_wiki/fr
 - Building a web portal (General): https://docs.alliancecan.ca/wiki/Building_a_web_portal
+- Béluga (General): https://docs.alliancecan.ca/wiki/B%C3%A9luga
 - Béluga (General): https://docs.alliancecan.ca/wiki/B%C3%A9luga/en
+- Béluga/fr (General): https://docs.alliancecan.ca/wiki/B%C3%A9luga/fr
+- C (General): https://docs.alliancecan.ca/wiki/C
 - C (General): https://docs.alliancecan.ca/wiki/C/en
+- C++ (General): https://docs.alliancecan.ca/wiki/C%2B%2B
 - C++ (General): https://docs.alliancecan.ca/wiki/C%2B%2B/en
+- C++/fr (General): https://docs.alliancecan.ca/wiki/C%2B%2B/fr
+- C/fr (General): https://docs.alliancecan.ca/wiki/C/fr
+- CASTEP (General): https://docs.alliancecan.ca/wiki/CASTEP
 - CASTEP (General): https://docs.alliancecan.ca/wiki/CASTEP/en
+- CASTEP/fr (General): https://docs.alliancecan.ca/wiki/CASTEP/fr
 - CESM (General): https://docs.alliancecan.ca/wiki/CESM
+- CFOUR (General): https://docs.alliancecan.ca/wiki/CFOUR
 - CFOUR (General): https://docs.alliancecan.ca/wiki/CFOUR/en
+- CFOUR/fr (General): https://docs.alliancecan.ca/wiki/CFOUR/fr
+- CMake (General): https://docs.alliancecan.ca/wiki/CMake
 - CMake (General): https://docs.alliancecan.ca/wiki/CMake/en
+- CMake/fr (General): https://docs.alliancecan.ca/wiki/CMake/fr
 - COMSOL (General): https://docs.alliancecan.ca/wiki/COMSOL
-- COMSOL/en (General): https://docs.alliancecan.ca/wiki/COMSOL/en
+- COMSOL (General): https://docs.alliancecan.ca/wiki/COMSOL/en
+- COMSOL/fr (General): https://docs.alliancecan.ca/wiki/COMSOL/fr
+- COVID19 related requests (General): https://docs.alliancecan.ca/wiki/COVID19_related_requests
 - COVID19 related requests (General): https://docs.alliancecan.ca/wiki/COVID19_related_requests/en
+- COVID19 related requests/fr (General): https://docs.alliancecan.ca/wiki/COVID19_related_requests/fr
+- CP2K (General): https://docs.alliancecan.ca/wiki/CP2K
 - CP2K (General): https://docs.alliancecan.ca/wiki/CP2K/en
+- CP2K/fr (General): https://docs.alliancecan.ca/wiki/CP2K/fr
+- CPLEX (General): https://docs.alliancecan.ca/wiki/CPLEX
 - CPLEX (General): https://docs.alliancecan.ca/wiki/CPLEX/en
+- CPLEX/fr (General): https://docs.alliancecan.ca/wiki/CPLEX/fr
+- CPMD (General): https://docs.alliancecan.ca/wiki/CPMD
 - CPMD (General): https://docs.alliancecan.ca/wiki/CPMD/en
+- CPMD/fr (General): https://docs.alliancecan.ca/wiki/CPMD/fr
 - CUDA (General): https://docs.alliancecan.ca/wiki/CUDA
+- CUDA (General): https://docs.alliancecan.ca/wiki/CUDA/en
+- CUDA tutorial (User Guide): https://docs.alliancecan.ca/wiki/CUDA_tutorial
 - CUDA tutorial (User Guide): https://docs.alliancecan.ca/wiki/CUDA_tutorial/en
-- CUDA/en (General): https://docs.alliancecan.ca/wiki/CUDA/en
+- CUDA tutorial/fr (User Guide): https://docs.alliancecan.ca/wiki/CUDA_tutorial/fr
+- CUDA/fr (General): https://docs.alliancecan.ca/wiki/CUDA/fr
+- CVMFS (General): https://docs.alliancecan.ca/wiki/CVMFS
 - CVMFS (General): https://docs.alliancecan.ca/wiki/CVMFS/en
+- CVMFS/fr (General): https://docs.alliancecan.ca/wiki/CVMFS/fr
+- Cedar (General): https://docs.alliancecan.ca/wiki/Cedar
 - Cedar (General): https://docs.alliancecan.ca/wiki/Cedar/en
+- Cedar/fr (General): https://docs.alliancecan.ca/wiki/Cedar/fr
 - Cellranger (General): https://docs.alliancecan.ca/wiki/Cellranger
 - CephFS (General): https://docs.alliancecan.ca/wiki/CephFS
-- CephFS/en (General): https://docs.alliancecan.ca/wiki/CephFS/en
+- CephFS (General): https://docs.alliancecan.ca/wiki/CephFS/en
+- CephFS/fr (General): https://docs.alliancecan.ca/wiki/CephFS/fr
 - Changing username (User Guide): https://docs.alliancecan.ca/wiki/Changing_username
+- Chapel (General): https://docs.alliancecan.ca/wiki/Chapel
 - Chapel (General): https://docs.alliancecan.ca/wiki/Chapel/en
+- Chapel/fr (General): https://docs.alliancecan.ca/wiki/Chapel/fr
 - CheckV (General): https://docs.alliancecan.ca/wiki/CheckV/en
+- CirQ (General): https://docs.alliancecan.ca/wiki/CirQ
 - CirQ (General): https://docs.alliancecan.ca/wiki/CirQ/en
+- CirQ/fr (General): https://docs.alliancecan.ca/wiki/CirQ/fr
 - Classiq (General): https://docs.alliancecan.ca/wiki/Classiq
+- Cloud (General): https://docs.alliancecan.ca/wiki/Cloud
 - Cloud (General): https://docs.alliancecan.ca/wiki/Cloud/en
 - Cloud Account Lifecycle Management (General): https://docs.alliancecan.ca/wiki/Cloud_Account_Lifecycle_Management
+- Cloud Images/fr (General): https://docs.alliancecan.ca/wiki/Cloud_Images/fr
+- Cloud Quick Start (General): https://docs.alliancecan.ca/wiki/Cloud_Quick_Start
 - Cloud Quick Start (General): https://docs.alliancecan.ca/wiki/Cloud_Quick_Start/en
+- Cloud Quick Start/fr (General): https://docs.alliancecan.ca/wiki/Cloud_Quick_Start/fr
+- Cloud RAS Allocations (General): https://docs.alliancecan.ca/wiki/Cloud_RAS_Allocations
 - Cloud RAS Allocations (General): https://docs.alliancecan.ca/wiki/Cloud_RAS_Allocations/en
+- Cloud RAS Allocations/fr (General): https://docs.alliancecan.ca/wiki/Cloud_RAS_Allocations/fr
+- Cloud Technical Glossary (Technical Reference): https://docs.alliancecan.ca/wiki/Cloud_Technical_Glossary
 - Cloud Technical Glossary (Technical Reference): https://docs.alliancecan.ca/wiki/Cloud_Technical_Glossary/en
-- Cloud resources (General): https://docs.alliancecan.ca/wiki/Cloud_resources/en
+- Cloud Technical Glossary/fr (Technical Reference): https://docs.alliancecan.ca/wiki/Cloud_Technical_Glossary/fr
 - Cloud resources (General): https://docs.alliancecan.ca/wiki/Cloud_resources
+- Cloud resources (General): https://docs.alliancecan.ca/wiki/Cloud_resources/en
+- Cloud resources/fr (General): https://docs.alliancecan.ca/wiki/Cloud_resources/fr
+- Cloud shared security responsibility model (General): https://docs.alliancecan.ca/wiki/Cloud_shared_security_responsibility_model
 - Cloud shared security responsibility model (General): https://docs.alliancecan.ca/wiki/Cloud_shared_security_responsibility_model/en
+- Cloud shared security responsibility model/fr (General): https://docs.alliancecan.ca/wiki/Cloud_shared_security_responsibility_model/fr
+- Cloud storage options (General): https://docs.alliancecan.ca/wiki/Cloud_storage_options
 - Cloud storage options (General): https://docs.alliancecan.ca/wiki/Cloud_storage_options/en
-- Cloud troubleshooting guide/en (User Guide): https://docs.alliancecan.ca/wiki/Cloud_troubleshooting_guide/en
+- Cloud storage options/fr (General): https://docs.alliancecan.ca/wiki/Cloud_storage_options/fr
+- Cloud troubleshooting guide (User Guide): https://docs.alliancecan.ca/wiki/Cloud_troubleshooting_guide
+- Cloud troubleshooting guide (User Guide): https://docs.alliancecan.ca/wiki/Cloud_troubleshooting_guide/en
+- Cloud troubleshooting guide/fr (User Guide): https://docs.alliancecan.ca/wiki/Cloud_troubleshooting_guide/fr
+- Cloud/fr (General): https://docs.alliancecan.ca/wiki/Cloud/fr
 - Clusterstats (General): https://docs.alliancecan.ca/wiki/Clusterstats
+- Comet.ml (General): https://docs.alliancecan.ca/wiki/Comet.ml
 - Comet.ml (General): https://docs.alliancecan.ca/wiki/Comet.ml/en
+- Comet.ml/fr (General): https://docs.alliancecan.ca/wiki/Comet.ml/fr
+- Computational chemistry (General): https://docs.alliancecan.ca/wiki/Computational_chemistry
 - Computational chemistry (General): https://docs.alliancecan.ca/wiki/Computational_chemistry/en
+- Computational chemistry/fr (General): https://docs.alliancecan.ca/wiki/Computational_chemistry/fr
+- Computational fluid dynamics (General): https://docs.alliancecan.ca/wiki/Computational_fluid_dynamics
 - Computational fluid dynamics (General): https://docs.alliancecan.ca/wiki/Computational_fluid_dynamics/en
+- Computational fluid dynamics/fr (General): https://docs.alliancecan.ca/wiki/Computational_fluid_dynamics/fr
+- Configuring Apache to use SSL (General): https://docs.alliancecan.ca/wiki/Configuring_Apache_to_use_SSL
 - Configuring Apache to use SSL (General): https://docs.alliancecan.ca/wiki/Configuring_Apache_to_use_SSL/en
+- Configuring Apache to use SSL/fr (General): https://docs.alliancecan.ca/wiki/Configuring_Apache_to_use_SSL/fr
+- Configuring WSL as a ControlMaster relay server (General): https://docs.alliancecan.ca/wiki/Configuring_WSL_as_a_ControlMaster_relay_server
 - Configuring WSL as a ControlMaster relay server (General): https://docs.alliancecan.ca/wiki/Configuring_WSL_as_a_ControlMaster_relay_server/en
+- Configuring WSL as a ControlMaster relay server/fr (General): https://docs.alliancecan.ca/wiki/Configuring_WSL_as_a_ControlMaster_relay_server/fr
+- Configuring a data or web server (General): https://docs.alliancecan.ca/wiki/Configuring_a_data_or_web_server
 - Configuring a data or web server (General): https://docs.alliancecan.ca/wiki/Configuring_a_data_or_web_server/en
+- Configuring a data or web server/fr (General): https://docs.alliancecan.ca/wiki/Configuring_a_data_or_web_server/fr
+- Connecting with MobaXTerm (General): https://docs.alliancecan.ca/wiki/Connecting_with_MobaXTerm
 - Connecting with MobaXTerm (General): https://docs.alliancecan.ca/wiki/Connecting_with_MobaXTerm/en
+- Connecting with MobaXTerm/fr (General): https://docs.alliancecan.ca/wiki/Connecting_with_MobaXTerm/fr
+- Connecting with PuTTY (General): https://docs.alliancecan.ca/wiki/Connecting_with_PuTTY
 - Connecting with PuTTY (General): https://docs.alliancecan.ca/wiki/Connecting_with_PuTTY/en
+- Connecting with PuTTY/fr (General): https://docs.alliancecan.ca/wiki/Connecting_with_PuTTY/fr
+- Creating a web server on a cloud (General): https://docs.alliancecan.ca/wiki/Creating_a_web_server_on_a_cloud
 - Creating a web server on a cloud (General): https://docs.alliancecan.ca/wiki/Creating_a_web_server_on_a_cloud/en
+- Creating a web server on a cloud/fr (General): https://docs.alliancecan.ca/wiki/Creating_a_web_server_on_a_cloud/fr
 - Cybersecurity Basics/Health Check (General): https://docs.alliancecan.ca/wiki/Cybersecurity_Basics/Health_Check
+- Cybersecurity for your personal computer (General): https://docs.alliancecan.ca/wiki/Cybersecurity_for_your_personal_computer
 - Cybersecurity for your personal computer (General): https://docs.alliancecan.ca/wiki/Cybersecurity_for_your_personal_computer/en
+- Cybersecurity for your personal computer/fr (General): https://docs.alliancecan.ca/wiki/Cybersecurity_for_your_personal_computer/fr
+- Cybersecurity: Personal computer health check (Cybersecurity): https://docs.alliancecan.ca/wiki/Cybersecurity:_Personal_computer_health_check
 - Cybersecurity: Personal computer health check (Cybersecurity): https://docs.alliancecan.ca/wiki/Cybersecurity:_Personal_computer_health_check/en
+- Cybersecurity: Personal computer health check/fr (Cybersecurity): https://docs.alliancecan.ca/wiki/Cybersecurity:_Personal_computer_health_check/fr
 - DBaaS (General): https://docs.alliancecan.ca/wiki/DBaaS/en
+- DL POLY (General): https://docs.alliancecan.ca/wiki/DL_POLY
 - DL POLY (General): https://docs.alliancecan.ca/wiki/DL_POLY/en
+- DL POLY/fr (General): https://docs.alliancecan.ca/wiki/DL_POLY/fr
+- Dalton (General): https://docs.alliancecan.ca/wiki/Dalton
 - Dalton (General): https://docs.alliancecan.ca/wiki/Dalton/en
+- Dalton/fr (General): https://docs.alliancecan.ca/wiki/Dalton/fr
+- Dar (General): https://docs.alliancecan.ca/wiki/Dar
 - Dar (General): https://docs.alliancecan.ca/wiki/Dar/en
-- Dask/en (General): https://docs.alliancecan.ca/wiki/Dask/en
+- Dar/fr (General): https://docs.alliancecan.ca/wiki/Dar/fr
+- Dask (General): https://docs.alliancecan.ca/wiki/Dask
+- Dask (General): https://docs.alliancecan.ca/wiki/Dask/en
+- Dask/fr (General): https://docs.alliancecan.ca/wiki/Dask/fr
 - Data backup and restoration (General): https://docs.alliancecan.ca/wiki/Data_backup_and_restoration
-- Data management at Niagara (General): https://docs.alliancecan.ca/wiki/Data_management_at_Niagara/en
+- Data management at Trillium (General): https://docs.alliancecan.ca/wiki/Data_management_at_Trillium
+- Data management at Trillium (General): https://docs.alliancecan.ca/wiki/Data_management_at_Trillium/en
+- Data management at Trillium/fr (General): https://docs.alliancecan.ca/wiki/Data_management_at_Trillium/fr
+- Data protection, privacy, and confidentiality (General): https://docs.alliancecan.ca/wiki/Data_protection,_privacy,_and_confidentiality
 - Data protection, privacy, and confidentiality (General): https://docs.alliancecan.ca/wiki/Data_protection,_privacy,_and_confidentiality/en
+- Data protection, privacy, and confidentiality/fr (General): https://docs.alliancecan.ca/wiki/Data_protection,_privacy,_and_confidentiality/fr
+- Database servers (General): https://docs.alliancecan.ca/wiki/Database_servers
 - Database servers (General): https://docs.alliancecan.ca/wiki/Database_servers/en
+- Database servers/fr (General): https://docs.alliancecan.ca/wiki/Database_servers/fr
+- Debugging and profiling (General): https://docs.alliancecan.ca/wiki/Debugging_and_profiling
 - Debugging and profiling (General): https://docs.alliancecan.ca/wiki/Debugging_and_profiling/en
+- Debugging and profiling/fr (General): https://docs.alliancecan.ca/wiki/Debugging_and_profiling/fr
+- Dedalus (General): https://docs.alliancecan.ca/wiki/Dedalus
 - Dedalus (General): https://docs.alliancecan.ca/wiki/Dedalus/en
+- Dedalus/fr (General): https://docs.alliancecan.ca/wiki/Dedalus/fr
 - Deepspeed (General): https://docs.alliancecan.ca/wiki/Deepspeed
 - Delft3D (General): https://docs.alliancecan.ca/wiki/Delft3D
-- Diskusage Explorer/en (General): https://docs.alliancecan.ca/wiki/Diskusage_Explorer/en
+- Diskusage Explorer (General): https://docs.alliancecan.ca/wiki/Diskusage_Explorer
+- Diskusage Explorer (General): https://docs.alliancecan.ca/wiki/Diskusage_Explorer/en
+- Diskusage Explorer/fr (General): https://docs.alliancecan.ca/wiki/Diskusage_Explorer/fr
+- DummyWheel (General): https://docs.alliancecan.ca/wiki/DummyWheel
+- DummyWheel (General): https://docs.alliancecan.ca/wiki/DummyWheel/en
+- DummyWheel/fr (General): https://docs.alliancecan.ca/wiki/DummyWheel/fr
+- EasyBuild (General): https://docs.alliancecan.ca/wiki/EasyBuild
 - EasyBuild (General): https://docs.alliancecan.ca/wiki/EasyBuild/en
+- EasyBuild/fr (General): https://docs.alliancecan.ca/wiki/EasyBuild/fr
 - Estimer et prévenir le gaspillage des ressources (General): https://docs.alliancecan.ca/wiki/Estimer_et_pr%C3%A9venir_le_gaspillage_des_ressources
-- FEniCS/en (General): https://docs.alliancecan.ca/wiki/FEniCS/en
+- FEniCS (General): https://docs.alliancecan.ca/wiki/FEniCS
+- FEniCS (General): https://docs.alliancecan.ca/wiki/FEniCS/en
+- FEniCS/fr (General): https://docs.alliancecan.ca/wiki/FEniCS/fr
+- FMRIPrep (General): https://docs.alliancecan.ca/wiki/FMRIPrep
 - FMRIPrep (General): https://docs.alliancecan.ca/wiki/FMRIPrep/en
+- FMRIPrep/fr (General): https://docs.alliancecan.ca/wiki/FMRIPrep/fr
+- FTP server in the Cloud (General): https://docs.alliancecan.ca/wiki/FTP_server_in_the_Cloud
 - FTP server in the Cloud (General): https://docs.alliancecan.ca/wiki/FTP_server_in_the_Cloud/en
+- FTP server in the Cloud/fr (General): https://docs.alliancecan.ca/wiki/FTP_server_in_the_Cloud/fr
+- Faiss (General): https://docs.alliancecan.ca/wiki/Faiss
 - Faiss (General): https://docs.alliancecan.ca/wiki/Faiss/en
+- Faiss/fr (General): https://docs.alliancecan.ca/wiki/Faiss/fr
+- FastTree (General): https://docs.alliancecan.ca/wiki/FastTree
 - FastTree (General): https://docs.alliancecan.ca/wiki/FastTree/en
-- Fir/en (General): https://docs.alliancecan.ca/wiki/Fir/en
+- FastTree/fr (General): https://docs.alliancecan.ca/wiki/FastTree/fr
+- Fir (General): https://docs.alliancecan.ca/wiki/Fir
+- Fir (General): https://docs.alliancecan.ca/wiki/Fir/en
+- Fir/fr (General): https://docs.alliancecan.ca/wiki/Fir/fr
 - Firedrake (General): https://docs.alliancecan.ca/wiki/Firedrake
 - Flax (General): https://docs.alliancecan.ca/wiki/Flax
 - Formation (General): https://docs.alliancecan.ca/wiki/Formation
+- Fortran (General): https://docs.alliancecan.ca/wiki/Fortran
 - Fortran (General): https://docs.alliancecan.ca/wiki/Fortran/en
+- Fortran/fr (General): https://docs.alliancecan.ca/wiki/Fortran/fr
+- FreeSurfer (General): https://docs.alliancecan.ca/wiki/FreeSurfer
 - FreeSurfer (General): https://docs.alliancecan.ca/wiki/FreeSurfer/en
+- FreeSurfer/fr (General): https://docs.alliancecan.ca/wiki/FreeSurfer/fr
+- Frequently Asked Questions (General): https://docs.alliancecan.ca/wiki/Frequently_Asked_Questions
+- Frequently Asked Questions (General): https://docs.alliancecan.ca/wiki/Frequently_Asked_Questions/en
+- Frequently Asked Questions about the CCDB (General): https://docs.alliancecan.ca/wiki/Frequently_Asked_Questions_about_the_CCDB
 - Frequently Asked Questions about the CCDB (General): https://docs.alliancecan.ca/wiki/Frequently_Asked_Questions_about_the_CCDB/en
-- Frequently Asked Questions/en (General): https://docs.alliancecan.ca/wiki/Frequently_Asked_Questions/en
+- Frequently Asked Questions about the CCDB/fr (General): https://docs.alliancecan.ca/wiki/Frequently_Asked_Questions_about_the_CCDB/fr
+- Frequently Asked Questions/fr (General): https://docs.alliancecan.ca/wiki/Frequently_Asked_Questions/fr
+- GAMESS-US (General): https://docs.alliancecan.ca/wiki/GAMESS-US
 - GAMESS-US (General): https://docs.alliancecan.ca/wiki/GAMESS-US/en
+- GAMESS-US/fr (General): https://docs.alliancecan.ca/wiki/GAMESS-US/fr
+- GATK (General): https://docs.alliancecan.ca/wiki/GATK
 - GATK (General): https://docs.alliancecan.ca/wiki/GATK/en
+- GATK/fr (General): https://docs.alliancecan.ca/wiki/GATK/fr
+- GBrowse (General): https://docs.alliancecan.ca/wiki/GBrowse
 - GBrowse (General): https://docs.alliancecan.ca/wiki/GBrowse/en
+- GBrowse/fr (General): https://docs.alliancecan.ca/wiki/GBrowse/fr
+- GCC C++ Dual ABI (General): https://docs.alliancecan.ca/wiki/GCC_C%2B%2B_Dual_ABI
 - GCC C++ Dual ABI (General): https://docs.alliancecan.ca/wiki/GCC_C%2B%2B_Dual_ABI/en
+- GCC C++ Dual ABI/fr (General): https://docs.alliancecan.ca/wiki/GCC_C%2B%2B_Dual_ABI/fr
+- GDAL (General): https://docs.alliancecan.ca/wiki/GDAL
 - GDAL (General): https://docs.alliancecan.ca/wiki/GDAL/en
+- GDAL/fr (General): https://docs.alliancecan.ca/wiki/GDAL/fr
+- GDB (General): https://docs.alliancecan.ca/wiki/GDB
 - GDB (General): https://docs.alliancecan.ca/wiki/GDB/en
+- GDB/fr (General): https://docs.alliancecan.ca/wiki/GDB/fr
+- GIS (General): https://docs.alliancecan.ca/wiki/GIS
 - GIS (General): https://docs.alliancecan.ca/wiki/GIS/en
+- GIS/fr (General): https://docs.alliancecan.ca/wiki/GIS/fr
+- GLOST (General): https://docs.alliancecan.ca/wiki/GLOST
 - GLOST (General): https://docs.alliancecan.ca/wiki/GLOST/en
+- GLOST/fr (General): https://docs.alliancecan.ca/wiki/GLOST/fr
+- GNU Parallel (General): https://docs.alliancecan.ca/wiki/GNU_Parallel
 - GNU Parallel (General): https://docs.alliancecan.ca/wiki/GNU_Parallel/en
+- GNU Parallel/fr (General): https://docs.alliancecan.ca/wiki/GNU_Parallel/fr
+- GPAW (General): https://docs.alliancecan.ca/wiki/GPAW
 - GPAW (General): https://docs.alliancecan.ca/wiki/GPAW/en
+- GPAW/fr (General): https://docs.alliancecan.ca/wiki/GPAW/fr
 - GROMACS (General): https://docs.alliancecan.ca/wiki/GROMACS
-- GROMACS/en (General): https://docs.alliancecan.ca/wiki/GROMACS/en
+- GROMACS (General): https://docs.alliancecan.ca/wiki/GROMACS/en
+- GROMACS/fr (General): https://docs.alliancecan.ca/wiki/GROMACS/fr
+- Galaxy (General): https://docs.alliancecan.ca/wiki/Galaxy
 - Galaxy (General): https://docs.alliancecan.ca/wiki/Galaxy/en
+- Galaxy/fr (General): https://docs.alliancecan.ca/wiki/Galaxy/fr
+- Gaussian (General): https://docs.alliancecan.ca/wiki/Gaussian
+- Gaussian (General): https://docs.alliancecan.ca/wiki/Gaussian/en
+- Gaussian error messages (General): https://docs.alliancecan.ca/wiki/Gaussian_error_messages
 - Gaussian error messages (General): https://docs.alliancecan.ca/wiki/Gaussian_error_messages/en
-- Gaussian/en (General): https://docs.alliancecan.ca/wiki/Gaussian/en
+- Gaussian error messages/fr (General): https://docs.alliancecan.ca/wiki/Gaussian_error_messages/fr
+- Gaussian/fr (General): https://docs.alliancecan.ca/wiki/Gaussian/fr
+- General directives for migration (General): https://docs.alliancecan.ca/wiki/General_directives_for_migration
 - General directives for migration (General): https://docs.alliancecan.ca/wiki/General_directives_for_migration/en
+- General directives for migration/fr (General): https://docs.alliancecan.ca/wiki/General_directives_for_migration/fr
+- Generating SSH keys in Windows (General): https://docs.alliancecan.ca/wiki/Generating_SSH_keys_in_Windows
 - Generating SSH keys in Windows (General): https://docs.alliancecan.ca/wiki/Generating_SSH_keys_in_Windows/en
+- Generating SSH keys in Windows/fr (General): https://docs.alliancecan.ca/wiki/Generating_SSH_keys_in_Windows/fr
+- Getting started (Getting Started): https://docs.alliancecan.ca/wiki/Getting_started
+- Getting started (Getting Started): https://docs.alliancecan.ca/wiki/Getting_started/en
+- Getting started with the new national systems (Getting Started): https://docs.alliancecan.ca/wiki/Getting_started_with_the_new_national_systems
 - Getting started with the new national systems (Getting Started): https://docs.alliancecan.ca/wiki/Getting_started_with_the_new_national_systems/en
-- Getting started/en (Getting Started): https://docs.alliancecan.ca/wiki/Getting_started/en
+- Getting started with the new national systems/fr (Getting Started): https://docs.alliancecan.ca/wiki/Getting_started_with_the_new_national_systems/fr
+- Getting started/fr (Getting Started): https://docs.alliancecan.ca/wiki/Getting_started/fr
+- Git (General): https://docs.alliancecan.ca/wiki/Git
 - Git (General): https://docs.alliancecan.ca/wiki/Git/en
+- Git/fr (General): https://docs.alliancecan.ca/wiki/Git/fr
+- Globus (General): https://docs.alliancecan.ca/wiki/Globus
+- Globus (General): https://docs.alliancecan.ca/wiki/Globus/en
 - Globus Command Line Interface (General): https://docs.alliancecan.ca/wiki/Globus_Command_Line_Interface
-- Globus/en (General): https://docs.alliancecan.ca/wiki/Globus/en
+- Globus/fr (General): https://docs.alliancecan.ca/wiki/Globus/fr
+- Gprof (General): https://docs.alliancecan.ca/wiki/Gprof
 - Gprof (General): https://docs.alliancecan.ca/wiki/Gprof/en
+- Gprof/fr (General): https://docs.alliancecan.ca/wiki/Gprof/fr
+- Graham (General): https://docs.alliancecan.ca/wiki/Graham
 - Graham (General): https://docs.alliancecan.ca/wiki/Graham/en
+- Graham/fr (General): https://docs.alliancecan.ca/wiki/Graham/fr
 - Gurobi (General): https://docs.alliancecan.ca/wiki/Gurobi
-- Gurobi/en (General): https://docs.alliancecan.ca/wiki/Gurobi/en
+- Gurobi (General): https://docs.alliancecan.ca/wiki/Gurobi/en
+- Gurobi/fr (General): https://docs.alliancecan.ca/wiki/Gurobi/fr
+- HDF5 (General): https://docs.alliancecan.ca/wiki/HDF5
 - HDF5 (General): https://docs.alliancecan.ca/wiki/HDF5/en
+- HDF5/fr (General): https://docs.alliancecan.ca/wiki/HDF5/fr
+- HPC4Health (General): https://docs.alliancecan.ca/wiki/HPC4Health
 - HPC4Health (General): https://docs.alliancecan.ca/wiki/HPC4Health/en
+- HPC4Health/fr (General): https://docs.alliancecan.ca/wiki/HPC4Health/fr
 - Ha fip (General): https://docs.alliancecan.ca/wiki/Ha_fip
+- Handling large collections of files (General): https://docs.alliancecan.ca/wiki/Handling_large_collections_of_files
 - Handling large collections of files (General): https://docs.alliancecan.ca/wiki/Handling_large_collections_of_files/en
+- Handling large collections of files/fr (General): https://docs.alliancecan.ca/wiki/Handling_large_collections_of_files/fr
 - How to obtain the list of users in a PAICE tier (User Guide): https://docs.alliancecan.ca/wiki/How_to_obtain_the_list_of_users_in_a_PAICE_tier
 - Huggingface (General): https://docs.alliancecan.ca/wiki/Huggingface
+- Humanities and Social Sciences (General): https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences
 - Humanities and Social Sciences (General): https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/en
+- Humanities and Social Sciences/fr (General): https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr
+- Hyper-Q / MPS (General): https://docs.alliancecan.ca/wiki/Hyper-Q_/_MPS
 - Hyper-Q / MPS (General): https://docs.alliancecan.ca/wiki/Hyper-Q_/_MPS/en
+- Hyper-Q / MPS/fr (General): https://docs.alliancecan.ca/wiki/Hyper-Q_/_MPS/fr
+- Hélios (General): https://docs.alliancecan.ca/wiki/H%C3%A9lios
 - Hélios (General): https://docs.alliancecan.ca/wiki/H%C3%A9lios/en
+- Hélios/fr (General): https://docs.alliancecan.ca/wiki/H%C3%A9lios/fr
 - ImageNet (General): https://docs.alliancecan.ca/wiki/ImageNet
+- Including a command within the wiki (General): https://docs.alliancecan.ca/wiki/Including_a_command_within_the_wiki
 - Including a command within the wiki (General): https://docs.alliancecan.ca/wiki/Including_a_command_within_the_wiki/en
+- Including a command within the wiki/fr (General): https://docs.alliancecan.ca/wiki/Including_a_command_within_the_wiki/fr
+- Including a source code file within the wiki (General): https://docs.alliancecan.ca/wiki/Including_a_source_code_file_within_the_wiki
 - Including a source code file within the wiki (General): https://docs.alliancecan.ca/wiki/Including_a_source_code_file_within_the_wiki/en
+- Including a source code file within the wiki/fr (General): https://docs.alliancecan.ca/wiki/Including_a_source_code_file_within_the_wiki/fr
+- Including source code within the wiki (General): https://docs.alliancecan.ca/wiki/Including_source_code_within_the_wiki
 - Including source code within the wiki (General): https://docs.alliancecan.ca/wiki/Including_source_code_within_the_wiki/en
+- Including source code within the wiki/fr (General): https://docs.alliancecan.ca/wiki/Including_source_code_within_the_wiki/fr
 - Infrastructure for Research Data Management (General): https://docs.alliancecan.ca/wiki/Infrastructure_for_Research_Data_Management
-- Infrastructure renewal (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal/en
 - Infrastructure renewal (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal
-- Infrastructure renewal completed events (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal_completed_events/en
+- Infrastructure renewal (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal/en
 - Infrastructure renewal completed events (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal_completed_events
+- Infrastructure renewal completed events (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal_completed_events/en
+- Infrastructure renewal completed events/fr (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal_completed_events/fr
+- Infrastructure renewal/fr (General): https://docs.alliancecan.ca/wiki/Infrastructure_renewal/fr
+- Installing software in your home directory (Getting Started): https://docs.alliancecan.ca/wiki/Installing_software_in_your_home_directory
 - Installing software in your home directory (Getting Started): https://docs.alliancecan.ca/wiki/Installing_software_in_your_home_directory/en
+- Installing software in your home directory/fr (Getting Started): https://docs.alliancecan.ca/wiki/Installing_software_in_your_home_directory/fr
 - Interpretable AI (General): https://docs.alliancecan.ca/wiki/Interpretable_AI
+- Java (General): https://docs.alliancecan.ca/wiki/Java
 - Java (General): https://docs.alliancecan.ca/wiki/Java/en
+- Java/fr (General): https://docs.alliancecan.ca/wiki/Java/fr
+- Job arrays (General): https://docs.alliancecan.ca/wiki/Job_arrays
 - Job arrays (General): https://docs.alliancecan.ca/wiki/Job_arrays/en
+- Job arrays/fr (General): https://docs.alliancecan.ca/wiki/Job_arrays/fr
+- Job scheduling policies (General): https://docs.alliancecan.ca/wiki/Job_scheduling_policies
 - Job scheduling policies (General): https://docs.alliancecan.ca/wiki/Job_scheduling_policies/en
-- Julia (General): https://docs.alliancecan.ca/wiki/Julia/en
+- Job scheduling policies/fr (General): https://docs.alliancecan.ca/wiki/Job_scheduling_policies/fr
 - Julia (General): https://docs.alliancecan.ca/wiki/Julia
+- Julia (General): https://docs.alliancecan.ca/wiki/Julia/en
+- Julia/fr (General): https://docs.alliancecan.ca/wiki/Julia/fr
+- Jupyter (General): https://docs.alliancecan.ca/wiki/Jupyter
 - Jupyter (General): https://docs.alliancecan.ca/wiki/Jupyter/en
-- JupyterHub/en (General): https://docs.alliancecan.ca/wiki/JupyterHub/en
-- JupyterLab/en (General): https://docs.alliancecan.ca/wiki/JupyterLab/en
+- Jupyter/fr (General): https://docs.alliancecan.ca/wiki/Jupyter/fr
+- JupyterHub (General): https://docs.alliancecan.ca/wiki/JupyterHub
+- JupyterHub (General): https://docs.alliancecan.ca/wiki/JupyterHub/en
+- JupyterHub/fr (General): https://docs.alliancecan.ca/wiki/JupyterHub/fr
+- JupyterLab (General): https://docs.alliancecan.ca/wiki/JupyterLab
+- JupyterLab (General): https://docs.alliancecan.ca/wiki/JupyterLab/en
+- JupyterLab/fr (General): https://docs.alliancecan.ca/wiki/JupyterLab/fr
+- JupyterNotebook (General): https://docs.alliancecan.ca/wiki/JupyterNotebook
 - JupyterNotebook (General): https://docs.alliancecan.ca/wiki/JupyterNotebook/en
+- JupyterNotebook/fr (General): https://docs.alliancecan.ca/wiki/JupyterNotebook/fr
 - Kentutils (General): https://docs.alliancecan.ca/wiki/Kentutils
+- Keras (General): https://docs.alliancecan.ca/wiki/Keras
 - Keras (General): https://docs.alliancecan.ca/wiki/Keras/en
+- Keras/fr (General): https://docs.alliancecan.ca/wiki/Keras/fr
+- Killarney (General): https://docs.alliancecan.ca/wiki/Killarney
 - Killarney (General): https://docs.alliancecan.ca/wiki/Killarney/en
+- Killarney/fr (General): https://docs.alliancecan.ca/wiki/Killarney/fr
+- LAMMPS (General): https://docs.alliancecan.ca/wiki/LAMMPS
 - LAMMPS (General): https://docs.alliancecan.ca/wiki/LAMMPS/en
-- LS-DYNA (General): https://docs.alliancecan.ca/wiki/LS-DYNA/en
+- LAMMPS/fr (General): https://docs.alliancecan.ca/wiki/LAMMPS/fr
 - LS-DYNA (General): https://docs.alliancecan.ca/wiki/LS-DYNA
+- LS-DYNA (General): https://docs.alliancecan.ca/wiki/LS-DYNA/en
+- LS-DYNA/fr (General): https://docs.alliancecan.ca/wiki/LS-DYNA/fr
 - Large Language Models (LLMs) (General): https://docs.alliancecan.ca/wiki/Large_Language_Models_(LLMs)
+- Large Scale Machine Learning (Big Data) (General): https://docs.alliancecan.ca/wiki/Large_Scale_Machine_Learning_(Big_Data)
 - Large Scale Machine Learning (Big Data) (General): https://docs.alliancecan.ca/wiki/Large_Scale_Machine_Learning_(Big_Data)/en
+- Large Scale Machine Learning (Big Data)/fr (General): https://docs.alliancecan.ca/wiki/Large_Scale_Machine_Learning_(Big_Data)/fr
+- Linux introduction (General): https://docs.alliancecan.ca/wiki/Linux_introduction
 - Linux introduction (General): https://docs.alliancecan.ca/wiki/Linux_introduction/en
+- Linux introduction/fr (General): https://docs.alliancecan.ca/wiki/Linux_introduction/fr
+- Lumerical (General): https://docs.alliancecan.ca/wiki/Lumerical
 - Lumerical (General): https://docs.alliancecan.ca/wiki/Lumerical/en
+- Lumerical/fr (General): https://docs.alliancecan.ca/wiki/Lumerical/fr
+- MAFFT (General): https://docs.alliancecan.ca/wiki/MAFFT
 - MAFFT (General): https://docs.alliancecan.ca/wiki/MAFFT/en
+- MAFFT/fr (General): https://docs.alliancecan.ca/wiki/MAFFT/fr
+- MATLAB (General): https://docs.alliancecan.ca/wiki/MATLAB
 - MATLAB (General): https://docs.alliancecan.ca/wiki/MATLAB/en
+- MATLAB/fr (General): https://docs.alliancecan.ca/wiki/MATLAB/fr
 - ME modelling (General): https://docs.alliancecan.ca/wiki/ME_modelling
+- META-Farm (General): https://docs.alliancecan.ca/wiki/META-Farm
 - META-Farm (General): https://docs.alliancecan.ca/wiki/META-Farm/en
+- META-Farm/fr (General): https://docs.alliancecan.ca/wiki/META-Farm/fr
+- META-Farm: Advanced features and troubleshooting (META-Farm): https://docs.alliancecan.ca/wiki/META-Farm:_Advanced_features_and_troubleshooting
 - META-Farm: Advanced features and troubleshooting (META-Farm): https://docs.alliancecan.ca/wiki/META-Farm:_Advanced_features_and_troubleshooting/en
-- MIKE/en (General): https://docs.alliancecan.ca/wiki/MIKE/en
+- META-Farm: Advanced features and troubleshooting/fr (META-Farm): https://docs.alliancecan.ca/wiki/META-Farm:_Advanced_features_and_troubleshooting/fr
+- MIKE (General): https://docs.alliancecan.ca/wiki/MIKE
+- MIKE (General): https://docs.alliancecan.ca/wiki/MIKE/en
+- MIKE/fr (General): https://docs.alliancecan.ca/wiki/MIKE/fr
 - ML Performance Guide (User Guide): https://docs.alliancecan.ca/wiki/ML_Performance_Guide
 - MLflow (General): https://docs.alliancecan.ca/wiki/MLflow
+- MPI (General): https://docs.alliancecan.ca/wiki/MPI
 - MPI (General): https://docs.alliancecan.ca/wiki/MPI/en
+- MPI-IO (General): https://docs.alliancecan.ca/wiki/MPI-IO
 - MPI-IO (General): https://docs.alliancecan.ca/wiki/MPI-IO/en
+- MPI-IO/fr (General): https://docs.alliancecan.ca/wiki/MPI-IO/fr
+- MPI/fr (General): https://docs.alliancecan.ca/wiki/MPI/fr
+- MPI4py (General): https://docs.alliancecan.ca/wiki/MPI4py
 - MPI4py (General): https://docs.alliancecan.ca/wiki/MPI4py/en
+- MPI4py/fr (General): https://docs.alliancecan.ca/wiki/MPI4py/fr
+- MRCC (General): https://docs.alliancecan.ca/wiki/MRCC
 - MRCC (General): https://docs.alliancecan.ca/wiki/MRCC/en
+- MRCC/fr (General): https://docs.alliancecan.ca/wiki/MRCC/fr
+- MXNet (General): https://docs.alliancecan.ca/wiki/MXNet
 - MXNet (General): https://docs.alliancecan.ca/wiki/MXNet/en
+- MXNet/fr (General): https://docs.alliancecan.ca/wiki/MXNet/fr
+- Make (General): https://docs.alliancecan.ca/wiki/Make
 - Make (General): https://docs.alliancecan.ca/wiki/Make/en
+- Make/fr (General): https://docs.alliancecan.ca/wiki/Make/fr
+- Managing Slurm accounts (General): https://docs.alliancecan.ca/wiki/Managing_Slurm_accounts
 - Managing Slurm accounts (General): https://docs.alliancecan.ca/wiki/Managing_Slurm_accounts/en
+- Managing Slurm accounts/fr (General): https://docs.alliancecan.ca/wiki/Managing_Slurm_accounts/fr
+- Managing your Linux VM (General): https://docs.alliancecan.ca/wiki/Managing_your_Linux_VM
 - Managing your Linux VM (General): https://docs.alliancecan.ca/wiki/Managing_your_Linux_VM/en
+- Managing your Linux VM/fr (General): https://docs.alliancecan.ca/wiki/Managing_your_Linux_VM/fr
+- Managing your cloud resources with OpenStack (General): https://docs.alliancecan.ca/wiki/Managing_your_cloud_resources_with_OpenStack
 - Managing your cloud resources with OpenStack (General): https://docs.alliancecan.ca/wiki/Managing_your_cloud_resources_with_OpenStack/en
+- Managing your cloud resources with OpenStack/fr (General): https://docs.alliancecan.ca/wiki/Managing_your_cloud_resources_with_OpenStack/fr
+- Materials Studio (General): https://docs.alliancecan.ca/wiki/Materials_Studio
 - Materials Studio (General): https://docs.alliancecan.ca/wiki/Materials_Studio/en
+- Materials Studio/fr (General): https://docs.alliancecan.ca/wiki/Materials_Studio/fr
+- Meltdown and Spectre bugs (General): https://docs.alliancecan.ca/wiki/Meltdown_and_Spectre_bugs
 - Meltdown and Spectre bugs (General): https://docs.alliancecan.ca/wiki/Meltdown_and_Spectre_bugs/en
+- Meltdown and Spectre bugs/fr (General): https://docs.alliancecan.ca/wiki/Meltdown_and_Spectre_bugs/fr
+- MetaPhlAn (General): https://docs.alliancecan.ca/wiki/MetaPhlAn
 - MetaPhlAn (General): https://docs.alliancecan.ca/wiki/MetaPhlAn/en
+- MetaPhlAn/fr (General): https://docs.alliancecan.ca/wiki/MetaPhlAn/fr
+- Metrix (General): https://docs.alliancecan.ca/wiki/Metrix
 - Metrix (General): https://docs.alliancecan.ca/wiki/Metrix/en
+- Metrix/fr (General): https://docs.alliancecan.ca/wiki/Metrix/fr
+- Migrating between clusters (General): https://docs.alliancecan.ca/wiki/Migrating_between_clusters
 - Migrating between clusters (General): https://docs.alliancecan.ca/wiki/Migrating_between_clusters/en
+- Migrating between clusters/fr (General): https://docs.alliancecan.ca/wiki/Migrating_between_clusters/fr
+- Migration to the new standard environment (General): https://docs.alliancecan.ca/wiki/Migration_to_the_new_standard_environment
 - Migration to the new standard environment (General): https://docs.alliancecan.ca/wiki/Migration_to_the_new_standard_environment/en
+- Migration to the new standard environment/fr (General): https://docs.alliancecan.ca/wiki/Migration_to_the_new_standard_environment/fr
 - Migration2016:Migrating to SFU Storage (Migration2016): https://docs.alliancecan.ca/wiki/Migration2016:Migrating_to_SFU_Storage
 - Migration2016:Migrating to Waterloo Storage (Migration2016): https://docs.alliancecan.ca/wiki/Migration2016:Migrating_to_Waterloo_Storage
+- Mii (General): https://docs.alliancecan.ca/wiki/Mii
 - Mii (General): https://docs.alliancecan.ca/wiki/Mii/en
+- Mii/fr (General): https://docs.alliancecan.ca/wiki/Mii/fr
+- Mist (General): https://docs.alliancecan.ca/wiki/Mist
 - Mist (General): https://docs.alliancecan.ca/wiki/Mist/en
+- Mist/fr (General): https://docs.alliancecan.ca/wiki/Mist/fr
+- Modules (General): https://docs.alliancecan.ca/wiki/Modules
 - Modules (General): https://docs.alliancecan.ca/wiki/Modules/en
 - Modules avx (General): https://docs.alliancecan.ca/wiki/Modules_avx
 - Modules avx2 (General): https://docs.alliancecan.ca/wiki/Modules_avx2
 - Modules avx512 (General): https://docs.alliancecan.ca/wiki/Modules_avx512
 - Modules specific to Niagara (General): https://docs.alliancecan.ca/wiki/Modules_specific_to_Niagara
 - Modules sse3 (General): https://docs.alliancecan.ca/wiki/Modules_sse3
+- Modules/fr (General): https://docs.alliancecan.ca/wiki/Modules/fr
+- MonarQ (General): https://docs.alliancecan.ca/wiki/MonarQ
 - MonarQ (General): https://docs.alliancecan.ca/wiki/MonarQ/en
 - MonarQ/en-ca (General): https://docs.alliancecan.ca/wiki/MonarQ/en-ca
+- MonarQ/fr (General): https://docs.alliancecan.ca/wiki/MonarQ/fr
+- Monitoring jobs (General): https://docs.alliancecan.ca/wiki/Monitoring_jobs
 - Monitoring jobs (General): https://docs.alliancecan.ca/wiki/Monitoring_jobs/en
+- Monitoring jobs/fr (General): https://docs.alliancecan.ca/wiki/Monitoring_jobs/fr
+- Moose (General): https://docs.alliancecan.ca/wiki/Moose
 - Moose (General): https://docs.alliancecan.ca/wiki/Moose/en
+- Moose/fr (General): https://docs.alliancecan.ca/wiki/Moose/fr
+- Mounting /project space on a VM in the cloud (General): https://docs.alliancecan.ca/wiki/Mounting_/project_space_on_a_VM_in_the_cloud
 - Mounting /project space on a VM in the cloud (General): https://docs.alliancecan.ca/wiki/Mounting_/project_space_on_a_VM_in_the_cloud/en
+- Mounting /project space on a VM in the cloud/fr (General): https://docs.alliancecan.ca/wiki/Mounting_/project_space_on_a_VM_in_the_cloud/fr
+- Mp2 (General): https://docs.alliancecan.ca/wiki/Mp2
 - Mp2 (General): https://docs.alliancecan.ca/wiki/Mp2/en
+- Mp2/fr (General): https://docs.alliancecan.ca/wiki/Mp2/fr
+- MrBayes (General): https://docs.alliancecan.ca/wiki/MrBayes
 - MrBayes (General): https://docs.alliancecan.ca/wiki/MrBayes/en
+- MrBayes/fr (General): https://docs.alliancecan.ca/wiki/MrBayes/fr
+- MuJoCo (General): https://docs.alliancecan.ca/wiki/MuJoCo
 - MuJoCo (General): https://docs.alliancecan.ca/wiki/MuJoCo/en
+- MuJoCo/fr (General): https://docs.alliancecan.ca/wiki/MuJoCo/fr
+- Multi-Instance GPU (General): https://docs.alliancecan.ca/wiki/Multi-Instance_GPU
 - Multi-Instance GPU (General): https://docs.alliancecan.ca/wiki/Multi-Instance_GPU/en
+- Multi-Instance GPU/fr (General): https://docs.alliancecan.ca/wiki/Multi-Instance_GPU/fr
+- Multifactor authentication (General): https://docs.alliancecan.ca/wiki/Multifactor_authentication
+- Multifactor authentication (General): https://docs.alliancecan.ca/wiki/Multifactor_authentication/en
 - Multifactor authentication/ (General): https://docs.alliancecan.ca/wiki/Multifactor_authentication/
-- Multifactor authentication/en (General): https://docs.alliancecan.ca/wiki/Multifactor_authentication/en
+- Multifactor authentication/fr (General): https://docs.alliancecan.ca/wiki/Multifactor_authentication/fr
+- NAMD (General): https://docs.alliancecan.ca/wiki/NAMD
 - NAMD (General): https://docs.alliancecan.ca/wiki/NAMD/en
+- NAMD/fr (General): https://docs.alliancecan.ca/wiki/NAMD/fr
 - NCCL (General): https://docs.alliancecan.ca/wiki/NCCL
+- NVTOP (General): https://docs.alliancecan.ca/wiki/NVTOP
 - NVTOP (General): https://docs.alliancecan.ca/wiki/NVTOP/en
-- Narval/en (General): https://docs.alliancecan.ca/wiki/Narval/en
+- NVTOP/fr (General): https://docs.alliancecan.ca/wiki/NVTOP/fr
+- Narval (General): https://docs.alliancecan.ca/wiki/Narval
+- Narval (General): https://docs.alliancecan.ca/wiki/Narval/en
+- Narval/fr (General): https://docs.alliancecan.ca/wiki/Narval/fr
+- National systems (General): https://docs.alliancecan.ca/wiki/National_systems
 - National systems (General): https://docs.alliancecan.ca/wiki/National_systems/en
+- National systems/fr (General): https://docs.alliancecan.ca/wiki/National_systems/fr
 - NetCDF (General): https://docs.alliancecan.ca/wiki/NetCDF
-- NetCDF/en (General): https://docs.alliancecan.ca/wiki/NetCDF/en
+- NetCDF (General): https://docs.alliancecan.ca/wiki/NetCDF/en
+- NetCDF/fr (General): https://docs.alliancecan.ca/wiki/NetCDF/fr
+- Nextcloud (General): https://docs.alliancecan.ca/wiki/Nextcloud
 - Nextcloud (General): https://docs.alliancecan.ca/wiki/Nextcloud/en
+- Nextcloud/fr (General): https://docs.alliancecan.ca/wiki/Nextcloud/fr
+- Nextflow (General): https://docs.alliancecan.ca/wiki/Nextflow
 - Nextflow (General): https://docs.alliancecan.ca/wiki/Nextflow/en
-- Niagara (General): https://docs.alliancecan.ca/wiki/Niagara/en
-- Niagara Quickstart (General): https://docs.alliancecan.ca/wiki/Niagara_Quickstart/en
-- Nibi/en (General): https://docs.alliancecan.ca/wiki/Nibi/en
+- Nextflow/fr (General): https://docs.alliancecan.ca/wiki/Nextflow/fr
+- Nibi (General): https://docs.alliancecan.ca/wiki/Nibi
+- Nibi (General): https://docs.alliancecan.ca/wiki/Nibi/en
+- Nibi/fr (General): https://docs.alliancecan.ca/wiki/Nibi/fr
 - Nvprof (General): https://docs.alliancecan.ca/wiki/Nvprof
+- ORCA (General): https://docs.alliancecan.ca/wiki/ORCA
 - ORCA (General): https://docs.alliancecan.ca/wiki/ORCA/en
+- ORCA/fr (General): https://docs.alliancecan.ca/wiki/ORCA/fr
 - Octave (General): https://docs.alliancecan.ca/wiki/Octave
+- Open Babel (General): https://docs.alliancecan.ca/wiki/Open_Babel
 - Open Babel (General): https://docs.alliancecan.ca/wiki/Open_Babel/en
+- Open Babel/fr (General): https://docs.alliancecan.ca/wiki/Open_Babel/fr
 - Open OnDemand (General): https://docs.alliancecan.ca/wiki/Open_OnDemand
-- Open OnDemand/en (General): https://docs.alliancecan.ca/wiki/Open_OnDemand/en
+- Open OnDemand (General): https://docs.alliancecan.ca/wiki/Open_OnDemand/en
+- Open OnDemand/fr (General): https://docs.alliancecan.ca/wiki/Open_OnDemand/fr
 - OpenACC (General): https://docs.alliancecan.ca/wiki/OpenACC
+- OpenACC Tutorial (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial
 - OpenACC Tutorial (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial/en
+- OpenACC Tutorial - Adding directives (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Adding_directives
 - OpenACC Tutorial - Adding directives (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Adding_directives/en
+- OpenACC Tutorial - Adding directives/fr (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Adding_directives/fr
+- OpenACC Tutorial - Data movement (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Data_movement
 - OpenACC Tutorial - Data movement (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Data_movement/en
+- OpenACC Tutorial - Data movement/fr (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Data_movement/fr
+- OpenACC Tutorial - Introduction (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Introduction
 - OpenACC Tutorial - Introduction (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Introduction/en
+- OpenACC Tutorial - Introduction/fr (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Introduction/fr
+- OpenACC Tutorial - Optimizing loops (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Optimizing_loops
 - OpenACC Tutorial - Optimizing loops (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Optimizing_loops/en
+- OpenACC Tutorial - Optimizing loops/fr (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Optimizing_loops/fr
+- OpenACC Tutorial - Profiling (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Profiling
 - OpenACC Tutorial - Profiling (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Profiling/en
+- OpenACC Tutorial - Profiling/fr (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial_-_Profiling/fr
+- OpenACC Tutorial/fr (User Guide): https://docs.alliancecan.ca/wiki/OpenACC_Tutorial/fr
+- OpenCV (General): https://docs.alliancecan.ca/wiki/OpenCV
 - OpenCV (General): https://docs.alliancecan.ca/wiki/OpenCV/en
-- OpenFOAM (General): https://docs.alliancecan.ca/wiki/OpenFOAM/en
+- OpenCV/fr (General): https://docs.alliancecan.ca/wiki/OpenCV/fr
 - OpenFOAM (General): https://docs.alliancecan.ca/wiki/OpenFOAM
+- OpenFOAM (General): https://docs.alliancecan.ca/wiki/OpenFOAM/en
+- OpenFOAM/fr (General): https://docs.alliancecan.ca/wiki/OpenFOAM/fr
+- OpenMM (General): https://docs.alliancecan.ca/wiki/OpenMM
 - OpenMM (General): https://docs.alliancecan.ca/wiki/OpenMM/en
+- OpenMM/fr (General): https://docs.alliancecan.ca/wiki/OpenMM/fr
+- OpenMP (General): https://docs.alliancecan.ca/wiki/OpenMP
 - OpenMP (General): https://docs.alliancecan.ca/wiki/OpenMP/en
+- OpenMP/fr (General): https://docs.alliancecan.ca/wiki/OpenMP/fr
 - OpenMolcas (General): https://docs.alliancecan.ca/wiki/OpenMolcas
 - OpenSim (General): https://docs.alliancecan.ca/wiki/OpenSim
+- OpenStack command line clients (General): https://docs.alliancecan.ca/wiki/OpenStack_command_line_clients
 - OpenStack command line clients (General): https://docs.alliancecan.ca/wiki/OpenStack_command_line_clients/en
+- OpenStack command line clients/fr (General): https://docs.alliancecan.ca/wiki/OpenStack_command_line_clients/fr
 - OpenStack dashboard GUI (General): https://docs.alliancecan.ca/wiki/OpenStack_dashboard_GUI
 - Optuna (General): https://docs.alliancecan.ca/wiki/Optuna
 - PAICE Allocations and compute scheduling (General): https://docs.alliancecan.ca/wiki/PAICE_Allocations_and_compute_scheduling
+- PGPROF (General): https://docs.alliancecan.ca/wiki/PGPROF
 - PGPROF (General): https://docs.alliancecan.ca/wiki/PGPROF/en
+- PGPROF/fr (General): https://docs.alliancecan.ca/wiki/PGPROF/fr
+- Page translation (General): https://docs.alliancecan.ca/wiki/Page_translation
 - Page translation (General): https://docs.alliancecan.ca/wiki/Page_translation/en
+- Page translation/fr (General): https://docs.alliancecan.ca/wiki/Page_translation/fr
+- ParaView (General): https://docs.alliancecan.ca/wiki/ParaView
 - ParaView (General): https://docs.alliancecan.ca/wiki/ParaView/en
+- ParaView/fr (General): https://docs.alliancecan.ca/wiki/ParaView/fr
+- Parabricks (General): https://docs.alliancecan.ca/wiki/Parabricks
 - Parabricks (General): https://docs.alliancecan.ca/wiki/Parabricks/en
+- Parabricks/fr (General): https://docs.alliancecan.ca/wiki/Parabricks/fr
 - Parallel Debugging with DDT (General): https://docs.alliancecan.ca/wiki/Parallel_Debugging_with_DDT
+- Parallel I/O introductory tutorial (User Guide): https://docs.alliancecan.ca/wiki/Parallel_I/O_introductory_tutorial
 - Parallel I/O introductory tutorial (User Guide): https://docs.alliancecan.ca/wiki/Parallel_I/O_introductory_tutorial/en
+- Parallel I/O introductory tutorial/fr (User Guide): https://docs.alliancecan.ca/wiki/Parallel_I/O_introductory_tutorial/fr
+- Parasail (General): https://docs.alliancecan.ca/wiki/Parasail
 - Parasail (General): https://docs.alliancecan.ca/wiki/Parasail/en
+- Parasail/fr (General): https://docs.alliancecan.ca/wiki/Parasail/fr
+- PennyLane (General): https://docs.alliancecan.ca/wiki/PennyLane
 - PennyLane (General): https://docs.alliancecan.ca/wiki/PennyLane/en
+- PennyLane/fr (General): https://docs.alliancecan.ca/wiki/PennyLane/fr
+- Perl (General): https://docs.alliancecan.ca/wiki/Perl
 - Perl (General): https://docs.alliancecan.ca/wiki/Perl/en
+- Perl/fr (General): https://docs.alliancecan.ca/wiki/Perl/fr
+- Pgdbg (General): https://docs.alliancecan.ca/wiki/Pgdbg
 - Pgdbg (General): https://docs.alliancecan.ca/wiki/Pgdbg/en
+- Pgdbg/fr (General): https://docs.alliancecan.ca/wiki/Pgdbg/fr
+- Points de contrôle (General): https://docs.alliancecan.ca/wiki/Points_de_contr%C3%B4le
 - Points de contrôle (General): https://docs.alliancecan.ca/wiki/Points_de_contr%C3%B4le/en
+- Points de contrôle/fr (General): https://docs.alliancecan.ca/wiki/Points_de_contr%C3%B4le/fr
 - Policy (General): https://docs.alliancecan.ca/wiki/Policy
+- Programming guide (User Guide): https://docs.alliancecan.ca/wiki/Programming_guide
 - Programming guide (User Guide): https://docs.alliancecan.ca/wiki/Programming_guide/en
+- Programming guide/fr (User Guide): https://docs.alliancecan.ca/wiki/Programming_guide/fr
+- Project layout (General): https://docs.alliancecan.ca/wiki/Project_layout
 - Project layout (General): https://docs.alliancecan.ca/wiki/Project_layout/en
+- Project layout/fr (General): https://docs.alliancecan.ca/wiki/Project_layout/fr
+- Prolonging terminal sessions (General): https://docs.alliancecan.ca/wiki/Prolonging_terminal_sessions
 - Prolonging terminal sessions (General): https://docs.alliancecan.ca/wiki/Prolonging_terminal_sessions/en
+- Prolonging terminal sessions/fr (General): https://docs.alliancecan.ca/wiki/Prolonging_terminal_sessions/fr
+- Pthreads (General): https://docs.alliancecan.ca/wiki/Pthreads
 - Pthreads (General): https://docs.alliancecan.ca/wiki/Pthreads/en
+- Pthreads/fr (General): https://docs.alliancecan.ca/wiki/Pthreads/fr
+- PyKeOps (General): https://docs.alliancecan.ca/wiki/PyKeOps
 - PyKeOps (General): https://docs.alliancecan.ca/wiki/PyKeOps/en
+- PyKeOps/fr (General): https://docs.alliancecan.ca/wiki/PyKeOps/fr
+- PyRETIS (General): https://docs.alliancecan.ca/wiki/PyRETIS
 - PyRETIS (General): https://docs.alliancecan.ca/wiki/PyRETIS/en
+- PyRETIS/fr (General): https://docs.alliancecan.ca/wiki/PyRETIS/fr
 - PyTorch (General): https://docs.alliancecan.ca/wiki/PyTorch
-- PyTorch/en (General): https://docs.alliancecan.ca/wiki/PyTorch/en
+- PyTorch (General): https://docs.alliancecan.ca/wiki/PyTorch/en
+- PyTorch/fr (General): https://docs.alliancecan.ca/wiki/PyTorch/fr
+- Python (General): https://docs.alliancecan.ca/wiki/Python
 - Python (General): https://docs.alliancecan.ca/wiki/Python/en
+- Python/fr (General): https://docs.alliancecan.ca/wiki/Python/fr
 - QGIS (General): https://docs.alliancecan.ca/wiki/QGIS
+- QIIME (General): https://docs.alliancecan.ca/wiki/QIIME
 - QIIME (General): https://docs.alliancecan.ca/wiki/QIIME/en
+- QIIME/fr (General): https://docs.alliancecan.ca/wiki/QIIME/fr
+- Qiskit (General): https://docs.alliancecan.ca/wiki/Qiskit
 - Qiskit (General): https://docs.alliancecan.ca/wiki/Qiskit/en
+- Qiskit/fr (General): https://docs.alliancecan.ca/wiki/Qiskit/fr
+- Quantum ESPRESSO (General): https://docs.alliancecan.ca/wiki/Quantum_ESPRESSO
 - Quantum ESPRESSO (General): https://docs.alliancecan.ca/wiki/Quantum_ESPRESSO/en
-- QuantumATK (General): https://docs.alliancecan.ca/wiki/QuantumATK/en
+- Quantum ESPRESSO/fr (General): https://docs.alliancecan.ca/wiki/Quantum_ESPRESSO/fr
 - QuantumATK (General): https://docs.alliancecan.ca/wiki/QuantumATK
+- QuantumATK (General): https://docs.alliancecan.ca/wiki/QuantumATK/en
+- QuantumATK/fr (General): https://docs.alliancecan.ca/wiki/QuantumATK/fr
+- R (General): https://docs.alliancecan.ca/wiki/R
+- R (General): https://docs.alliancecan.ca/wiki/R/en
+- R-INLA (General): https://docs.alliancecan.ca/wiki/R-INLA
 - R-INLA (General): https://docs.alliancecan.ca/wiki/R-INLA/en
-- R/en (General): https://docs.alliancecan.ca/wiki/R/en
+- R-INLA/fr (General): https://docs.alliancecan.ca/wiki/R-INLA/fr
+- R/fr (General): https://docs.alliancecan.ca/wiki/R/fr
+- RAC Annual Reports (General): https://docs.alliancecan.ca/wiki/RAC_Annual_Reports
 - RAC Annual Reports (General): https://docs.alliancecan.ca/wiki/RAC_Annual_Reports/en
+- RAC Annual Reports/fr (General): https://docs.alliancecan.ca/wiki/RAC_Annual_Reports/fr
+- RAC FAQ (General): https://docs.alliancecan.ca/wiki/RAC_FAQ
 - RAC FAQ (General): https://docs.alliancecan.ca/wiki/RAC_FAQ/en
+- RAC FAQ/fr (General): https://docs.alliancecan.ca/wiki/RAC_FAQ/fr
+- RAC Fast Track Application Guide (User Guide): https://docs.alliancecan.ca/wiki/RAC_Fast_Track_Application_Guide
 - RAC Fast Track Application Guide (User Guide): https://docs.alliancecan.ca/wiki/RAC_Fast_Track_Application_Guide/en
+- RAC Fast Track Application Guide/fr (User Guide): https://docs.alliancecan.ca/wiki/RAC_Fast_Track_Application_Guide/fr
+- RAC application guide (User Guide): https://docs.alliancecan.ca/wiki/RAC_application_guide
 - RAC application guide (User Guide): https://docs.alliancecan.ca/wiki/RAC_application_guide/en
+- RAC application guide/fr (User Guide): https://docs.alliancecan.ca/wiki/RAC_application_guide/fr
+- RAC available resources (General): https://docs.alliancecan.ca/wiki/RAC_available_resources
 - RAC available resources (General): https://docs.alliancecan.ca/wiki/RAC_available_resources/en
+- RAC available resources/fr (General): https://docs.alliancecan.ca/wiki/RAC_available_resources/fr
+- RAC transition FAQ (General): https://docs.alliancecan.ca/wiki/RAC_transition_FAQ
 - RAC transition FAQ (General): https://docs.alliancecan.ca/wiki/RAC_transition_FAQ/en
+- RAC transition FAQ/fr (General): https://docs.alliancecan.ca/wiki/RAC_transition_FAQ/fr
+- RAPIDS (Technical Reference): https://docs.alliancecan.ca/wiki/RAPIDS
 - RAPIDS (Technical Reference): https://docs.alliancecan.ca/wiki/RAPIDS/en
+- RAPIDS/fr (Technical Reference): https://docs.alliancecan.ca/wiki/RAPIDS/fr
+- RDKit (General): https://docs.alliancecan.ca/wiki/RDKit
 - RDKit (General): https://docs.alliancecan.ca/wiki/RDKit/en
+- RDKit/fr (General): https://docs.alliancecan.ca/wiki/RDKit/fr
+- README files (General): https://docs.alliancecan.ca/wiki/README_files
 - README files (General): https://docs.alliancecan.ca/wiki/README_files/en
+- README files/fr (General): https://docs.alliancecan.ca/wiki/README_files/fr
+- RPP Annual Progress Report Guidelines (User Guide): https://docs.alliancecan.ca/wiki/RPP_Annual_Progress_Report_Guidelines
 - RPP Annual Progress Report Guidelines (User Guide): https://docs.alliancecan.ca/wiki/RPP_Annual_Progress_Report_Guidelines/en
+- RPP Annual Progress Report Guidelines/fr (User Guide): https://docs.alliancecan.ca/wiki/RPP_Annual_Progress_Report_Guidelines/fr
+- Rapid Access Service (Technical Reference): https://docs.alliancecan.ca/wiki/Rapid_Access_Service
 - Rapid Access Service (Technical Reference): https://docs.alliancecan.ca/wiki/Rapid_Access_Service/en
+- Rapid Access Service/fr (Technical Reference): https://docs.alliancecan.ca/wiki/Rapid_Access_Service/fr
 - Ray (General): https://docs.alliancecan.ca/wiki/Ray
 - Recent changes to the software environment (General): https://docs.alliancecan.ca/wiki/Recent_changes_to_the_software_environment
+- Recovering data from a compromised VM (General): https://docs.alliancecan.ca/wiki/Recovering_data_from_a_compromised_VM
 - Recovering data from a compromised VM (General): https://docs.alliancecan.ca/wiki/Recovering_data_from_a_compromised_VM/en
+- Recovering data from a compromised VM/fr (General): https://docs.alliancecan.ca/wiki/Recovering_data_from_a_compromised_VM/fr
+- Research Data Management (General): https://docs.alliancecan.ca/wiki/Research_Data_Management
 - Research Data Management (General): https://docs.alliancecan.ca/wiki/Research_Data_Management/en
+- Research Data Management/fr (General): https://docs.alliancecan.ca/wiki/Research_Data_Management/fr
+- Resource Allocation Competition (General): https://docs.alliancecan.ca/wiki/Resource_Allocation_Competition
 - Resource Allocation Competition (General): https://docs.alliancecan.ca/wiki/Resource_Allocation_Competition/en
-- Rorqual/en (General): https://docs.alliancecan.ca/wiki/Rorqual/en
+- Resource Allocation Competition/fr (General): https://docs.alliancecan.ca/wiki/Resource_Allocation_Competition/fr
+- Rorqual (General): https://docs.alliancecan.ca/wiki/Rorqual
+- Rorqual (General): https://docs.alliancecan.ca/wiki/Rorqual/en
+- Rorqual/fr (General): https://docs.alliancecan.ca/wiki/Rorqual/fr
 - Running jobs (General): https://docs.alliancecan.ca/wiki/Running_jobs
-- Running jobs/en (General): https://docs.alliancecan.ca/wiki/Running_jobs/en
+- Running jobs (General): https://docs.alliancecan.ca/wiki/Running_jobs/en
+- Running jobs/fr (General): https://docs.alliancecan.ca/wiki/Running_jobs/fr
+- Rust (General): https://docs.alliancecan.ca/wiki/Rust
 - Rust (General): https://docs.alliancecan.ca/wiki/Rust/en
-- SAIGE/en (General): https://docs.alliancecan.ca/wiki/SAIGE/en
+- Rust/fr (General): https://docs.alliancecan.ca/wiki/Rust/fr
+- SAIGE (General): https://docs.alliancecan.ca/wiki/SAIGE
+- SAIGE (General): https://docs.alliancecan.ca/wiki/SAIGE/en
+- SAIGE/fr (General): https://docs.alliancecan.ca/wiki/SAIGE/fr
 - SAS (General): https://docs.alliancecan.ca/wiki/SAS
+- SQLite (General): https://docs.alliancecan.ca/wiki/SQLite
 - SQLite (General): https://docs.alliancecan.ca/wiki/SQLite/en
+- SQLite/fr (General): https://docs.alliancecan.ca/wiki/SQLite/fr
+- SSH (General): https://docs.alliancecan.ca/wiki/SSH
 - SSH (General): https://docs.alliancecan.ca/wiki/SSH/en
+- SSH Keys (General): https://docs.alliancecan.ca/wiki/SSH_Keys
 - SSH Keys (General): https://docs.alliancecan.ca/wiki/SSH_Keys/en
+- SSH Keys/fr (General): https://docs.alliancecan.ca/wiki/SSH_Keys/fr
+- SSH configuration file (General): https://docs.alliancecan.ca/wiki/SSH_configuration_file
 - SSH configuration file (General): https://docs.alliancecan.ca/wiki/SSH_configuration_file/en
+- SSH configuration file/fr (General): https://docs.alliancecan.ca/wiki/SSH_configuration_file/fr
+- SSH host keys (General): https://docs.alliancecan.ca/wiki/SSH_host_keys
 - SSH host keys (General): https://docs.alliancecan.ca/wiki/SSH_host_keys/en
+- SSH host keys/fr (General): https://docs.alliancecan.ca/wiki/SSH_host_keys/fr
+- SSH security improvements (General): https://docs.alliancecan.ca/wiki/SSH_security_improvements
 - SSH security improvements (General): https://docs.alliancecan.ca/wiki/SSH_security_improvements/en
+- SSH security improvements/fr (General): https://docs.alliancecan.ca/wiki/SSH_security_improvements/fr
+- SSH tunnelling (General): https://docs.alliancecan.ca/wiki/SSH_tunnelling
 - SSH tunnelling (General): https://docs.alliancecan.ca/wiki/SSH_tunnelling/en
+- SSH tunnelling/fr (General): https://docs.alliancecan.ca/wiki/SSH_tunnelling/fr
+- SSH/fr (General): https://docs.alliancecan.ca/wiki/SSH/fr
+- Samtools (General): https://docs.alliancecan.ca/wiki/Samtools
 - Samtools (General): https://docs.alliancecan.ca/wiki/Samtools/en
+- Samtools/fr (General): https://docs.alliancecan.ca/wiki/Samtools/fr
+- Scalability (General): https://docs.alliancecan.ca/wiki/Scalability
 - Scalability (General): https://docs.alliancecan.ca/wiki/Scalability/en
+- Scalability/fr (General): https://docs.alliancecan.ca/wiki/Scalability/fr
+- Scratch purging policy (General): https://docs.alliancecan.ca/wiki/Scratch_purging_policy
 - Scratch purging policy (General): https://docs.alliancecan.ca/wiki/Scratch_purging_policy/en
+- Scratch purging policy/fr (General): https://docs.alliancecan.ca/wiki/Scratch_purging_policy/fr
+- Securing your account (General): https://docs.alliancecan.ca/wiki/Securing_your_account
 - Securing your account (General): https://docs.alliancecan.ca/wiki/Securing_your_account/en
+- Securing your account/fr (General): https://docs.alliancecan.ca/wiki/Securing_your_account/fr
+- Security considerations when running a VM (General): https://docs.alliancecan.ca/wiki/Security_considerations_when_running_a_VM
 - Security considerations when running a VM (General): https://docs.alliancecan.ca/wiki/Security_considerations_when_running_a_VM/en
+- Security considerations when running a VM/fr (General): https://docs.alliancecan.ca/wiki/Security_considerations_when_running_a_VM/fr
 - Security corrections for virtual machines (General): https://docs.alliancecan.ca/wiki/Security_corrections_for_virtual_machines
+- Self-paced courses (General): https://docs.alliancecan.ca/wiki/Self-paced_courses
 - Self-paced courses (General): https://docs.alliancecan.ca/wiki/Self-paced_courses/en
+- Self-paced courses/fr (General): https://docs.alliancecan.ca/wiki/Self-paced_courses/fr
+- Services d'informatique quantique (General): https://docs.alliancecan.ca/wiki/Services_d%27informatique_quantique
 - Services d'informatique quantique (General): https://docs.alliancecan.ca/wiki/Services_d%27informatique_quantique/en
+- Services d'informatique quantique/fr (General): https://docs.alliancecan.ca/wiki/Services_d%27informatique_quantique/fr
+- Setting up GUI Desktop on a VM (General): https://docs.alliancecan.ca/wiki/Setting_up_GUI_Desktop_on_a_VM
 - Setting up GUI Desktop on a VM (General): https://docs.alliancecan.ca/wiki/Setting_up_GUI_Desktop_on_a_VM/en
+- Setting up GUI Desktop on a VM/fr (General): https://docs.alliancecan.ca/wiki/Setting_up_GUI_Desktop_on_a_VM/fr
+- Sharing data (General): https://docs.alliancecan.ca/wiki/Sharing_data
 - Sharing data (General): https://docs.alliancecan.ca/wiki/Sharing_data/en
+- Sharing data/fr (General): https://docs.alliancecan.ca/wiki/Sharing_data/fr
 - Siku (General): https://docs.alliancecan.ca/wiki/Siku
+- Slicer (General): https://docs.alliancecan.ca/wiki/Slicer
 - Slicer (General): https://docs.alliancecan.ca/wiki/Slicer/en
+- Slicer/fr (General): https://docs.alliancecan.ca/wiki/Slicer/fr
+- Snowflurry (General): https://docs.alliancecan.ca/wiki/Snowflurry
 - Snowflurry (General): https://docs.alliancecan.ca/wiki/Snowflurry/en
+- Snowflurry/fr (General): https://docs.alliancecan.ca/wiki/Snowflurry/fr
+- SpaCy (General): https://docs.alliancecan.ca/wiki/SpaCy
 - SpaCy (General): https://docs.alliancecan.ca/wiki/SpaCy/en
+- SpaCy/fr (General): https://docs.alliancecan.ca/wiki/SpaCy/fr
+- Standard software environments (General): https://docs.alliancecan.ca/wiki/Standard_software_environments
 - Standard software environments (General): https://docs.alliancecan.ca/wiki/Standard_software_environments/en
+- Standard software environments/fr (General): https://docs.alliancecan.ca/wiki/Standard_software_environments/fr
 - Star-CCM+ (General): https://docs.alliancecan.ca/wiki/Star-CCM%2B
-- Star-CCM+/en (General): https://docs.alliancecan.ca/wiki/Star-CCM%2B/en
+- Star-CCM+ (General): https://docs.alliancecan.ca/wiki/Star-CCM%2B/en
+- Star-CCM+/fr (General): https://docs.alliancecan.ca/wiki/Star-CCM%2B/fr
 - Stata (General): https://docs.alliancecan.ca/wiki/Stata
-- Storage and file management/en (General): https://docs.alliancecan.ca/wiki/Storage_and_file_management/en
+- Storage and file management (General): https://docs.alliancecan.ca/wiki/Storage_and_file_management
+- Storage and file management (General): https://docs.alliancecan.ca/wiki/Storage_and_file_management/en
+- Storage and file management/fr (General): https://docs.alliancecan.ca/wiki/Storage_and_file_management/fr
+- Structure (General): https://docs.alliancecan.ca/wiki/Structure
 - Structure (General): https://docs.alliancecan.ca/wiki/Structure/en
+- Structure/fr (General): https://docs.alliancecan.ca/wiki/Structure/fr
+- SubatomicPhysics (General): https://docs.alliancecan.ca/wiki/SubatomicPhysics
 - SubatomicPhysics (General): https://docs.alliancecan.ca/wiki/SubatomicPhysics/en
+- SubatomicPhysics/fr (General): https://docs.alliancecan.ca/wiki/SubatomicPhysics/fr
+- Symbolic algebra software (General): https://docs.alliancecan.ca/wiki/Symbolic_algebra_software
 - Symbolic algebra software (General): https://docs.alliancecan.ca/wiki/Symbolic_algebra_software/en
+- Symbolic algebra software/fr (General): https://docs.alliancecan.ca/wiki/Symbolic_algebra_software/fr
+- System status (General): https://docs.alliancecan.ca/wiki/System_status
 - System status (General): https://docs.alliancecan.ca/wiki/System_status/en
+- System status/fr (General): https://docs.alliancecan.ca/wiki/System_status/fr
 - Systems overview (General): https://docs.alliancecan.ca/wiki/Systems_overview
-- TamIA/en (General): https://docs.alliancecan.ca/wiki/TamIA/en
+- TamIA (General): https://docs.alliancecan.ca/wiki/TamIA
+- TamIA (General): https://docs.alliancecan.ca/wiki/TamIA/en
+- TamIA/fr (General): https://docs.alliancecan.ca/wiki/TamIA/fr
 - Tar (General): https://docs.alliancecan.ca/wiki/Tar/en
+- Tar/fr (General): https://docs.alliancecan.ca/wiki/Tar/fr
+- Technical documentation (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_documentation
 - Technical documentation (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_documentation/en
+- Technical documentation/fr (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_documentation/fr
+- Technical glossary for the resource allocation competitions (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_glossary_for_the_resource_allocation_competitions
 - Technical glossary for the resource allocation competitions (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_glossary_for_the_resource_allocation_competitions/en
+- Technical glossary for the resource allocation competitions/fr (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_glossary_for_the_resource_allocation_competitions/fr
+- Technical support (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_support
 - Technical support (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_support/en
+- Technical support/fr (Technical Reference): https://docs.alliancecan.ca/wiki/Technical_support/fr
+- TensorFlow (General): https://docs.alliancecan.ca/wiki/TensorFlow
 - TensorFlow (General): https://docs.alliancecan.ca/wiki/TensorFlow/en
+- TensorFlow/fr (General): https://docs.alliancecan.ca/wiki/TensorFlow/fr
 - Tensorboard (General): https://docs.alliancecan.ca/wiki/Tensorboard
+- Tensorboard (General): https://docs.alliancecan.ca/wiki/Tensorboard/en
+- Tensorboard/fr (General): https://docs.alliancecan.ca/wiki/Tensorboard/fr
 - Terminology (General): https://docs.alliancecan.ca/wiki/Terminology
+- Terraform (General): https://docs.alliancecan.ca/wiki/Terraform
 - Terraform (General): https://docs.alliancecan.ca/wiki/Terraform/en
+- Terraform/fr (General): https://docs.alliancecan.ca/wiki/Terraform/fr
 - Tesseract (General): https://docs.alliancecan.ca/wiki/Tesseract
 - Test-moderation (General): https://docs.alliancecan.ca/wiki/Test-moderation
 - Test-syntax (General): https://docs.alliancecan.ca/wiki/Test-syntax
 - Test12 (General): https://docs.alliancecan.ca/wiki/Test12
 - TestPage (General): https://docs.alliancecan.ca/wiki/TestPage
 - Testing With Graphics (General): https://docs.alliancecan.ca/wiki/Testing_With_Graphics
+- Torch (General): https://docs.alliancecan.ca/wiki/Torch
 - Torch (General): https://docs.alliancecan.ca/wiki/Torch/en
-- Transferring data/en (General): https://docs.alliancecan.ca/wiki/Transferring_data/en
+- Torch/fr (General): https://docs.alliancecan.ca/wiki/Torch/fr
+- Transferring data (General): https://docs.alliancecan.ca/wiki/Transferring_data
+- Transferring data (General): https://docs.alliancecan.ca/wiki/Transferring_data/en
+- Transferring data/fr (General): https://docs.alliancecan.ca/wiki/Transferring_data/fr
+- Transferring files with Aspera Connect/ascp (General): https://docs.alliancecan.ca/wiki/Transferring_files_with_Aspera_Connect/ascp
 - Transferring files with Aspera Connect/ascp (General): https://docs.alliancecan.ca/wiki/Transferring_files_with_Aspera_Connect/ascp/en
+- Transferring files with Aspera Connect/ascp/fr (General): https://docs.alliancecan.ca/wiki/Transferring_files_with_Aspera_Connect/ascp/fr
+- Transition from Niagara to Trillium (General): https://docs.alliancecan.ca/wiki/Transition_from_Niagara_to_Trillium
 - Transition from Niagara to Trillium (General): https://docs.alliancecan.ca/wiki/Transition_from_Niagara_to_Trillium/en
+- Transition from Niagara to Trillium/fr (General): https://docs.alliancecan.ca/wiki/Transition_from_Niagara_to_Trillium/fr
+- Transpileur quantique (General): https://docs.alliancecan.ca/wiki/Transpileur_quantique
 - Transpileur quantique (General): https://docs.alliancecan.ca/wiki/Transpileur_quantique/en
+- Transpileur quantique/fr (General): https://docs.alliancecan.ca/wiki/Transpileur_quantique/fr
 - Trillium (General): https://docs.alliancecan.ca/wiki/Trillium
+- Trillium (General): https://docs.alliancecan.ca/wiki/Trillium/en
 - Trillium Open OnDemand Quickstart (General): https://docs.alliancecan.ca/wiki/Trillium_Open_OnDemand_Quickstart
-- Trillium Open OnDemand Quickstart/en (General): https://docs.alliancecan.ca/wiki/Trillium_Open_OnDemand_Quickstart/en
+- Trillium Open OnDemand Quickstart (General): https://docs.alliancecan.ca/wiki/Trillium_Open_OnDemand_Quickstart/en
+- Trillium Open OnDemand Quickstart/fr (General): https://docs.alliancecan.ca/wiki/Trillium_Open_OnDemand_Quickstart/fr
+- Trillium Quickstart (General): https://docs.alliancecan.ca/wiki/Trillium_Quickstart
 - Trillium Quickstart (General): https://docs.alliancecan.ca/wiki/Trillium_Quickstart/en
-- Trillium/en (General): https://docs.alliancecan.ca/wiki/Trillium/en
+- Trillium Quickstart/fr (General): https://docs.alliancecan.ca/wiki/Trillium_Quickstart/fr
+- Trillium/fr (General): https://docs.alliancecan.ca/wiki/Trillium/fr
+- Tuning Lustre (General): https://docs.alliancecan.ca/wiki/Tuning_Lustre
 - Tuning Lustre (General): https://docs.alliancecan.ca/wiki/Tuning_Lustre/en
+- Tuning Lustre/fr (General): https://docs.alliancecan.ca/wiki/Tuning_Lustre/fr
+- Tutoriel Apprentissage machine (General): https://docs.alliancecan.ca/wiki/Tutoriel_Apprentissage_machine
 - Tutoriel Apprentissage machine (General): https://docs.alliancecan.ca/wiki/Tutoriel_Apprentissage_machine/en
+- Tutoriel Apprentissage machine/fr (General): https://docs.alliancecan.ca/wiki/Tutoriel_Apprentissage_machine/fr
+- User roles to access resources and services of the Alliance Federation (User Guide): https://docs.alliancecan.ca/wiki/User_roles_to_access_resources_and_services_of_the_Alliance_Federation
 - User roles to access resources and services of the Alliance Federation (User Guide): https://docs.alliancecan.ca/wiki/User_roles_to_access_resources_and_services_of_the_Alliance_Federation/en
-- Using Conda in Apptainer/en (General): https://docs.alliancecan.ca/wiki/Using_Conda_in_Apptainer/en
-- Using GPUs with Slurm/en (General): https://docs.alliancecan.ca/wiki/Using_GPUs_with_Slurm/en
+- User roles to access resources and services of the Alliance Federation/fr (User Guide): https://docs.alliancecan.ca/wiki/User_roles_to_access_resources_and_services_of_the_Alliance_Federation/fr
+- Using Conda in Apptainer (General): https://docs.alliancecan.ca/wiki/Using_Conda_in_Apptainer
+- Using Conda in Apptainer (General): https://docs.alliancecan.ca/wiki/Using_Conda_in_Apptainer/en
+- Using Conda in Apptainer/fr (General): https://docs.alliancecan.ca/wiki/Using_Conda_in_Apptainer/fr
+- Using GPUs with Slurm (General): https://docs.alliancecan.ca/wiki/Using_GPUs_with_Slurm
+- Using GPUs with Slurm (General): https://docs.alliancecan.ca/wiki/Using_GPUs_with_Slurm/en
+- Using GPUs with Slurm/fr (General): https://docs.alliancecan.ca/wiki/Using_GPUs_with_Slurm/fr
 - Using Nix (General): https://docs.alliancecan.ca/wiki/Using_Nix
 - Using Nix: nix-env (Using Nix): https://docs.alliancecan.ca/wiki/Using_Nix:_nix-env
+- Using SSH keys in Linux (General): https://docs.alliancecan.ca/wiki/Using_SSH_keys_in_Linux
 - Using SSH keys in Linux (General): https://docs.alliancecan.ca/wiki/Using_SSH_keys_in_Linux/en
+- Using SSH keys in Linux/fr (General): https://docs.alliancecan.ca/wiki/Using_SSH_keys_in_Linux/fr
+- Using a new empty volume on a Linux VM (General): https://docs.alliancecan.ca/wiki/Using_a_new_empty_volume_on_a_Linux_VM
 - Using a new empty volume on a Linux VM (General): https://docs.alliancecan.ca/wiki/Using_a_new_empty_volume_on_a_Linux_VM/en
+- Using a new empty volume on a Linux VM/fr (General): https://docs.alliancecan.ca/wiki/Using_a_new_empty_volume_on_a_Linux_VM/fr
 - Using a new empty volume on a Windows VM (General): https://docs.alliancecan.ca/wiki/Using_a_new_empty_volume_on_a_Windows_VM
+- Using a resource allocation (General): https://docs.alliancecan.ca/wiki/Using_a_resource_allocation
 - Using a resource allocation (General): https://docs.alliancecan.ca/wiki/Using_a_resource_allocation/en
+- Using a resource allocation/fr (General): https://docs.alliancecan.ca/wiki/Using_a_resource_allocation/fr
+- Using cloud vGPUs (General): https://docs.alliancecan.ca/wiki/Using_cloud_vGPUs
 - Using cloud vGPUs (General): https://docs.alliancecan.ca/wiki/Using_cloud_vGPUs/en
+- Using cloud vGPUs/fr (General): https://docs.alliancecan.ca/wiki/Using_cloud_vGPUs/fr
+- Using ipv6 in cloud (General): https://docs.alliancecan.ca/wiki/Using_ipv6_in_cloud
 - Using ipv6 in cloud (General): https://docs.alliancecan.ca/wiki/Using_ipv6_in_cloud/en
+- Using ipv6 in cloud/fr (General): https://docs.alliancecan.ca/wiki/Using_ipv6_in_cloud/fr
 - Using nearline storage (General): https://docs.alliancecan.ca/wiki/Using_nearline_storage
-- Using nearline storage/en (General): https://docs.alliancecan.ca/wiki/Using_nearline_storage/en
+- Using nearline storage (General): https://docs.alliancecan.ca/wiki/Using_nearline_storage/en
+- Using nearline storage/fr (General): https://docs.alliancecan.ca/wiki/Using_nearline_storage/fr
+- Using node-local storage (General): https://docs.alliancecan.ca/wiki/Using_node-local_storage
 - Using node-local storage (General): https://docs.alliancecan.ca/wiki/Using_node-local_storage/en
+- Using node-local storage/fr (General): https://docs.alliancecan.ca/wiki/Using_node-local_storage/fr
 - Using swift (General): https://docs.alliancecan.ca/wiki/Using_swift
+- Utiliser des modules (General): https://docs.alliancecan.ca/wiki/Utiliser_des_modules
 - Utiliser des modules (General): https://docs.alliancecan.ca/wiki/Utiliser_des_modules/en
+- Utiliser des modules/fr (General): https://docs.alliancecan.ca/wiki/Utiliser_des_modules/fr
+- Uv (General): https://docs.alliancecan.ca/wiki/Uv
 - Uv (General): https://docs.alliancecan.ca/wiki/Uv/en
-- VASP/en (General): https://docs.alliancecan.ca/wiki/VASP/en
+- Uv/fr (General): https://docs.alliancecan.ca/wiki/Uv/fr
+- VASP (General): https://docs.alliancecan.ca/wiki/VASP
+- VASP (General): https://docs.alliancecan.ca/wiki/VASP/en
+- VASP/fr (General): https://docs.alliancecan.ca/wiki/VASP/fr
 - VLLM (General): https://docs.alliancecan.ca/wiki/VLLM
+- VM Best Practices (General): https://docs.alliancecan.ca/wiki/VM_Best_Practices
 - VM Best Practices (General): https://docs.alliancecan.ca/wiki/VM_Best_Practices/en
+- VM Best Practices/fr (General): https://docs.alliancecan.ca/wiki/VM_Best_Practices/fr
+- VM recovery via cloud console (General): https://docs.alliancecan.ca/wiki/VM_recovery_via_cloud_console
 - VM recovery via cloud console (General): https://docs.alliancecan.ca/wiki/VM_recovery_via_cloud_console/en
+- VM recovery via cloud console/fr (General): https://docs.alliancecan.ca/wiki/VM_recovery_via_cloud_console/fr
+- VMD (General): https://docs.alliancecan.ca/wiki/VMD
 - VMD (General): https://docs.alliancecan.ca/wiki/VMD/en
-- VNC/en (General): https://docs.alliancecan.ca/wiki/VNC/en
+- VMD/fr (General): https://docs.alliancecan.ca/wiki/VMD/fr
+- VNC (General): https://docs.alliancecan.ca/wiki/VNC
+- VNC (General): https://docs.alliancecan.ca/wiki/VNC/en
+- VNC/fr (General): https://docs.alliancecan.ca/wiki/VNC/fr
+- VTK (General): https://docs.alliancecan.ca/wiki/VTK
 - VTK (General): https://docs.alliancecan.ca/wiki/VTK/en
+- VTK/fr (General): https://docs.alliancecan.ca/wiki/VTK/fr
+- Valgrind (General): https://docs.alliancecan.ca/wiki/Valgrind
 - Valgrind (General): https://docs.alliancecan.ca/wiki/Valgrind/en
+- Valgrind/fr (General): https://docs.alliancecan.ca/wiki/Valgrind/fr
+- Version control (General): https://docs.alliancecan.ca/wiki/Version_control
 - Version control (General): https://docs.alliancecan.ca/wiki/Version_control/en
+- Version control/fr (General): https://docs.alliancecan.ca/wiki/Version_control/fr
+- VirSorter2 (General): https://docs.alliancecan.ca/wiki/VirSorter2
 - VirSorter2 (General): https://docs.alliancecan.ca/wiki/VirSorter2/en
+- VirSorter2/fr (General): https://docs.alliancecan.ca/wiki/VirSorter2/fr
+- Virtual machine flavors (General): https://docs.alliancecan.ca/wiki/Virtual_machine_flavors
 - Virtual machine flavors (General): https://docs.alliancecan.ca/wiki/Virtual_machine_flavors/en
+- Virtual machine flavors/fr (General): https://docs.alliancecan.ca/wiki/Virtual_machine_flavors/fr
+- VisIt (General): https://docs.alliancecan.ca/wiki/VisIt
 - VisIt (General): https://docs.alliancecan.ca/wiki/VisIt/en
-- Visual Studio Code/en (General): https://docs.alliancecan.ca/wiki/Visual_Studio_Code/en
+- VisIt/fr (General): https://docs.alliancecan.ca/wiki/VisIt/fr
+- Visual Studio Code (General): https://docs.alliancecan.ca/wiki/Visual_Studio_Code
+- Visual Studio Code (General): https://docs.alliancecan.ca/wiki/Visual_Studio_Code/en
+- Visual Studio Code/fr (General): https://docs.alliancecan.ca/wiki/Visual_Studio_Code/fr
+- Visualization (General): https://docs.alliancecan.ca/wiki/Visualization
 - Visualization (General): https://docs.alliancecan.ca/wiki/Visualization/en
+- Visualization/fr (General): https://docs.alliancecan.ca/wiki/Visualization/fr
 - VoxCeleb (General): https://docs.alliancecan.ca/wiki/VoxCeleb
+- Vtune (General): https://docs.alliancecan.ca/wiki/Vtune
 - Vtune (General): https://docs.alliancecan.ca/wiki/Vtune/en
-- Vulcan/en (General): https://docs.alliancecan.ca/wiki/Vulcan/en
+- Vtune/fr (General): https://docs.alliancecan.ca/wiki/Vtune/fr
+- Vulcan (General): https://docs.alliancecan.ca/wiki/Vulcan
+- Vulcan (General): https://docs.alliancecan.ca/wiki/Vulcan/en
+- Vulcan/fr (General): https://docs.alliancecan.ca/wiki/Vulcan/fr
+- WRF (General): https://docs.alliancecan.ca/wiki/WRF
 - WRF (General): https://docs.alliancecan.ca/wiki/WRF/en
+- WRF/fr (General): https://docs.alliancecan.ca/wiki/WRF/fr
+- Weights & Biases (wandb) (General): https://docs.alliancecan.ca/wiki/Weights_%26_Biases_(wandb)
 - Weights & Biases (wandb) (General): https://docs.alliancecan.ca/wiki/Weights_%26_Biases_(wandb)/en
+- Weights & Biases (wandb)/fr (General): https://docs.alliancecan.ca/wiki/Weights_%26_Biases_(wandb)/fr
+- What is a scheduler? (General): https://docs.alliancecan.ca/wiki/What_is_a_scheduler%3F
 - What is a scheduler? (General): https://docs.alliancecan.ca/wiki/What_is_a_scheduler%3F/en
+- What is a scheduler?/fr (General): https://docs.alliancecan.ca/wiki/What_is_a_scheduler%3F/fr
+- Wheels2.7 (General): https://docs.alliancecan.ca/wiki/Wheels2.7
+- Wheels3.10 (General): https://docs.alliancecan.ca/wiki/Wheels3.10
+- Wheels3.11 (General): https://docs.alliancecan.ca/wiki/Wheels3.11
+- Wheels3.12 (General): https://docs.alliancecan.ca/wiki/Wheels3.12
+- Wheels3.13 (General): https://docs.alliancecan.ca/wiki/Wheels3.13
+- Wheels3.14 (General): https://docs.alliancecan.ca/wiki/Wheels3.14
+- Wheels3.5 (General): https://docs.alliancecan.ca/wiki/Wheels3.5
+- Wheels3.6 (General): https://docs.alliancecan.ca/wiki/Wheels3.6
+- Wheels3.7 (General): https://docs.alliancecan.ca/wiki/Wheels3.7
+- Wheels3.8 (General): https://docs.alliancecan.ca/wiki/Wheels3.8
+- Wheels3.9 (General): https://docs.alliancecan.ca/wiki/Wheels3.9
+- Windows Subsystem for Linux (WSL) (General): https://docs.alliancecan.ca/wiki/Windows_Subsystem_for_Linux_(WSL)
 - Windows Subsystem for Linux (WSL) (General): https://docs.alliancecan.ca/wiki/Windows_Subsystem_for_Linux_(WSL)/en
+- Windows Subsystem for Linux (WSL)/fr (General): https://docs.alliancecan.ca/wiki/Windows_Subsystem_for_Linux_(WSL)/fr
+- Working with VMs (General): https://docs.alliancecan.ca/wiki/Working_with_VMs
 - Working with VMs (General): https://docs.alliancecan.ca/wiki/Working_with_VMs/en
+- Working with VMs/fr (General): https://docs.alliancecan.ca/wiki/Working_with_VMs/fr
+- Working with images (General): https://docs.alliancecan.ca/wiki/Working_with_images
 - Working with images (General): https://docs.alliancecan.ca/wiki/Working_with_images/en
+- Working with images/fr (General): https://docs.alliancecan.ca/wiki/Working_with_images/fr
 - Working with processors that have non-uniform memory access (NUMA) (General): https://docs.alliancecan.ca/wiki/Working_with_processors_that_have_non-uniform_memory_access_(NUMA)
+- Working with volumes (General): https://docs.alliancecan.ca/wiki/Working_with_volumes
 - Working with volumes (General): https://docs.alliancecan.ca/wiki/Working_with_volumes/en
-- XGBoost (General): https://docs.alliancecan.ca/wiki/XGBoost/en
+- Working with volumes/fr (General): https://docs.alliancecan.ca/wiki/Working_with_volumes/fr
+- Yt (General): https://docs.alliancecan.ca/wiki/Yt
 - Yt (General): https://docs.alliancecan.ca/wiki/Yt/en
+- Yt/fr (General): https://docs.alliancecan.ca/wiki/Yt/fr
 - Zfs (General): https://docs.alliancecan.ca/wiki/Zfs
 - ÉcoleCQ2019 (General): https://docs.alliancecan.ca/wiki/%C3%89coleCQ2019
 - Événements passés (General): https://docs.alliancecan.ca/wiki/%C3%89v%C3%A9nements_pass%C3%A9s

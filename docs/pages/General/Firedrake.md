@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-27T12:46:05Z"
 page_id: 29047
 display_title: "Firedrake"
+language: "en"
 ---
 
 Firedrake is an automated system for the solution of partial differential equations using the finite element method (FEM).

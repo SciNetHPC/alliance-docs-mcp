@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-10T18:32:40Z"
 page_id: 15711
 display_title: "Galaxy"
+language: "en"
 ---
 
 == Introduction ==

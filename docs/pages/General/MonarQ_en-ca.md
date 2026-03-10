@@ -2,9 +2,10 @@
 title: "MonarQ/en-ca"
 url: "https://docs.alliancecan.ca/wiki/MonarQ/en-ca"
 category: "General"
-last_modified: "2025-11-03T20:57:14Z"
+last_modified: "2026-01-13T12:26:27Z"
 page_id: 27460
 display_title: "MonarQ"
+language: "en-ca"
 ---
 
 Nœud de connexion : https://monarq.calculquebec.ca

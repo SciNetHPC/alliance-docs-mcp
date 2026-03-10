@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-09T14:34:48Z"
 page_id: 4743
 display_title: "JupyterHub"
+language: "en"
 ---
 
 JupyterHub is the best way to serve Jupyter Notebook for multiple users. It can be used in a class of students, a corporate data science group or scientific research group.

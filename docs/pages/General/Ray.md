@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-14T21:28:51Z"
 page_id: 22158
 display_title: "Ray"
+language: "en"
 ---
 
 Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries for simplifying running parallel/distributed workloads, in particular Machine Learning jobs.

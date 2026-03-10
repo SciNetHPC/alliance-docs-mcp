@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2018-02-14T12:45:20Z"
 page_id: 1380
 display_title: "Including a source code file within the wiki"
+language: "en"
 ---
 
 __NOTOC__

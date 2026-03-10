@@ -5,6 +5,7 @@ category: "Technical Reference"
 last_modified: "2025-11-17T13:54:00Z"
 page_id: 29782
 display_title: "Rapid Access Service"
+language: "en"
 ---
 
 == HPC resources ==

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-23T18:50:11Z"
 page_id: 20165
 display_title: "Humanities and Social Sciences"
+language: "en"
 ---
 
 == Introduction ==

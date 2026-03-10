@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-10-11T16:31:55Z"
 page_id: 13449
 display_title: "Securing your account"
+language: "en"
 ---
 
 = Authentication =

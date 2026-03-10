@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-08T15:12:58Z"
 page_id: 9850
 display_title: "BUSCO"
+language: "en"
 ---
 
 BUSCO (Benchmarking sets of Universal Single-Copy Orthologs) is an application for assessing genome assembly and annotation completeness.

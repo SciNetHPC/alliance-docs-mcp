@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-29T14:35:28Z"
 page_id: 222
 display_title: "Globus"
+language: "en"
 ---
 
 Globus is a service for fast, reliable, secure transfer of files. Designed specifically for researchers, Globus has an easy-to-use interface with background monitoring features that automate the management of file transfers between any two resources, whether they are on an Alliance cluster, another supercomputing facility, a campus cluster, lab server, desktop or laptop.

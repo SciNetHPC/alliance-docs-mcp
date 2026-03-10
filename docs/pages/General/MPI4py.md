@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-10-17T19:25:01Z"
 page_id: 26625
 display_title: "MPI4py"
+language: "en"
 ---
 
 MPI for Python provides Python bindings for the Message Passing Interface (MPI) standard, allowing Python applications to exploit multiple processors on workstations, clusters and supercomputers.

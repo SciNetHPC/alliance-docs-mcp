@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-12-11T19:25:02Z"
 page_id: 760
 display_title: "Building a Software Carpentry style lesson on the wiki"
+language: "en"
 ---
 
 It may be interesting to use our wiki to host Software Carpentry-style lessons. Software Carpentry lessons, such as this one, are usually hosted on Github. They can be written with a Markdown syntax, and provide many pre-formatted styles. Hosting a lesson on a wiki also offers the advantage of supporting translation. In order to facilitate the writing of such lesson, a few templates may be useful, and are listed below.

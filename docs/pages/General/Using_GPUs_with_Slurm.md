@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-02T13:09:02Z"
 page_id: 4369
 display_title: "Using GPUs with Slurm"
+language: "en"
 ---
 
 = Introduction =

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-15T18:34:48Z"
 page_id: 20614
 display_title: "Octave"
+language: "en"
 ---
 
 GNU Octave is a scientific programming language that has a Powerful mathematics-oriented syntax with built-in 2D/3D plotting and visualization tools.  It is free and open-source software (FOSS) and is Drop-in compatible with many MATLAB scripts.

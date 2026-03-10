@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-07-25T18:23:45Z"
 page_id: 10136
 display_title: "Using Nix"
+language: "en"
 ---
 
 = Overview =

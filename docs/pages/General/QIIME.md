@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-11-29T11:25:12Z"
 page_id: 12853
 display_title: "QIIME"
+language: "en"
 ---
 
 QIIME (pronounced chime) stands for Quantitative Insights Into Microbial Ecology, is an open-source bioinformatics pipeline for performing microbiome analysis from raw DNA sequencing data. QIIME is designed to take users from raw sequencing data generated on Illumina or other platforms to publication-quality graphics and statistics. This includes demultiplexing and quality filtering, OTU picking, taxonomic assignment, phylogenetic reconstruction, diversity analyses and visualizations. QIIME has been applied to studies based on billions of sequences from tens of thousands of samples.

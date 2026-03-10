@@ -2,15 +2,16 @@
 title: "MATLAB/en"
 url: "https://docs.alliancecan.ca/wiki/MATLAB/en"
 category: "General"
-last_modified: "2025-08-29T13:18:02Z"
+last_modified: "2026-01-20T15:52:31Z"
 page_id: 3915
 display_title: "MATLAB"
+language: "en"
 ---
 
 There are two ways of using MATLAB on our clusters:
 
 1) Running MATLAB directly, but that requires a license. You may either
-* run MATLAB on Fir,  Narval or Rorqual, all of which have a license available for any student, professor or academic researcher;
+* run MATLAB on Fir,  Narval, Rorqual, or Trillium, all of which have a license available for any student, professor or academic researcher;
 * use an external license, i.e., one owned by your institution, faculty, department, or lab. See Using an external license below.
 
 2) Compiling your MATLAB code by using the MATLAB Compiler mcc and by running the generated executable file on any cluster. You can use this executable without license considerations.

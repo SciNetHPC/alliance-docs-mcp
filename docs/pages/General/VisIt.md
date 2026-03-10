@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-31T14:16:39Z"
 page_id: 10559
 display_title: "VisIt"
+language: "en"
 ---
 
 = Client-server visualization =

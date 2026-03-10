@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-10-15T13:49:23Z"
 page_id: 2490
 display_title: "Available software"
+language: "en"
 ---
 
 __FORCETOC__

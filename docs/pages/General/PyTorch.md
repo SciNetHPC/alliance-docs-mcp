@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-22T16:04:26Z"
 page_id: 4520
 display_title: "PyTorch"
+language: "en"
 ---
 
 PyTorch is a Python package that provides two high-level features:

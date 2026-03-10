@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-11T13:02:52Z"
 page_id: 31318
 display_title: "Large Language Models (LLMs)"
+language: "en"
 ---
 
 Large Language Models (LLMs) are generative models capable of generating sophisticated natural language text and can be used to power conversational systems. On this page, you will find resources and tutorials on how to setup and run LLM training or inference workloads on our systems.

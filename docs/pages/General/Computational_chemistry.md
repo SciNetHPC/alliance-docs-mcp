@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-01-27T16:17:17Z"
 page_id: 5636
 display_title: "Computational chemistry"
+language: "en"
 ---
 
 Computational chemistry is a branch of chemistry that incorporates the results of theoretical chemistry into computer programs to calculate the structures and properties of molecules and solids.

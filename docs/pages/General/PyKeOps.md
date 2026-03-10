@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-09-30T19:02:03Z"
 page_id: 26510
 display_title: "PyKeOps"
+language: "en"
 ---
 
 __FORCETOC__

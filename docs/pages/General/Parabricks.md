@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2020-09-09T12:06:02Z"
 page_id: 14606
 display_title: "Parabricks"
+language: "en"
 ---
 
 Parabricks is a software suite for performing secondary analysis of next generation sequencing (NGS) DNA data. Parabricks is fast: its documentation claims that, thanks to its tight integration with GPUs, it is able to analyse 30x Whole Human Genome Sequencing (WGS) in hours as opposed to days with other techniques.

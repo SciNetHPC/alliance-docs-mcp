@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-28T14:35:21Z"
 page_id: 27324
 display_title: "Dask"
+language: "en"
 ---
 
 Dask is a flexible library for parallel computing in Python. It provides distributed NumPy array and Pandas DataFrame objects, as well as enabling distributed computing in pure Python with access to the PyData stack.

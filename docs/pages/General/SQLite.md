@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2020-03-12T19:47:58Z"
 page_id: 13014
 display_title: "SQLite"
+language: "en"
 ---
 
 SQLite is a database management tool used to build commonly called pocket databases because they offer all the features of relational databases without the client-server architecture and with the added advantage of the data residing on a single disk file which can simply be copied to another computer. Software written in a wide variety of common languages can read from and write to the database file with standard SQL queries using the language's API for database interactions.

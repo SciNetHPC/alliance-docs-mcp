@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2026-02-20T12:12:32Z"
 page_id: 32466
 display_title: "How to obtain the list of users in a PAICE tier"
+language: "en"
 ---
 
 As documented here, as part of the many hacks required to integrate the PAICE sites into CCDB it was decided that only PI roles would be added to a Tier service, and the sites would be able to get the sponsored roles for each PI based on their membership in a particular aip-piname RAP. For this reason, it is very difficult for CCDB to know what site a sponsored user has access to at any given time because it requires looking at 1) the tier service of which their PI is a member, 2) what system the sponsored user requested access (if they requested access at all) and 3) the aip- RAP that the sponsored user is a member of (if this is actually the case).

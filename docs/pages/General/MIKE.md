@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-17T13:15:33Z"
 page_id: 21986
 display_title: "MIKE"
+language: "en"
 ---
 
 MIKE powered by DHI is a hydraulic and hydrological modeling software package.

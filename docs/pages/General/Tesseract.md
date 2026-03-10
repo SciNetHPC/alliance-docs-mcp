@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-29T19:59:10Z"
 page_id: 29081
 display_title: "Tesseract"
+language: "en"
 ---
 
 Tesseract is an open source text recognition (OCR) Engine with support for over a hundred languages.

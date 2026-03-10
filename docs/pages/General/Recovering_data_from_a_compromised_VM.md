@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-05-30T16:51:01Z"
 page_id: 22905
 display_title: "Recovering data from a compromised VM"
+language: "en"
 ---
 
 Parent page: Cloud

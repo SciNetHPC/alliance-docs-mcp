@@ -220,7 +220,7 @@ class MediaWikiClient:
             "content": revision.get("*", ""),
             "timestamp": revision.get("timestamp", ""),
             "lastmodified": revision.get("timestamp", ""),
-            "language": revision.get("pagelanguage", "")
+            "language": page_data.get("pagelanguage", "")
         }
     
     def get_page_by_title(self, title: str) -> Optional[Dict]:
@@ -260,7 +260,7 @@ class MediaWikiClient:
                     "content": revision.get("*", ""),
                     "timestamp": revision.get("timestamp", ""),
                     "lastmodified": revision.get("timestamp", ""),
-                    "language": revision.get("pagelanguage", "")
+                    "language": page_data.get("pagelanguage", "")
                 }
         
         return None

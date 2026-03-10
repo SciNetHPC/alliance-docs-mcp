@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-07-19T22:44:03Z"
 page_id: 9301
 display_title: "SpaCy"
+language: "en"
 ---
 
 spaCy is a Python package that provides industrial-strength natural language processing.

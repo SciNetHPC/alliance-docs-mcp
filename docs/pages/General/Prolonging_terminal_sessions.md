@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-07-04T16:40:30Z"
 page_id: 22803
 display_title: "Prolonging terminal sessions"
+language: "en"
 ---
 
 To work on our clusters, most users will need to use SSH to connect to the cluster for job submission and monitoring, editing files and so forth. Keeping this SSH connection alive for a long period of time, ranging from hours to days, may be necessary for some users and this page proposes a variety of techniques for keeping such a terminal session alive.

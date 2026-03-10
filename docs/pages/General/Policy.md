@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2021-08-04T17:19:30Z"
 page_id: 10650
 display_title: "Policy"
+language: "en"
 ---
 
 == Introduction ==

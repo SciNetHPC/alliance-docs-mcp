@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-04-03T13:45:32Z"
 page_id: 728
 display_title: "GNU Parallel"
+language: "en"
 ---
 
 == Introduction ==

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:28:00Z"
 page_id: 5475
 display_title: "Terminology"
+language: "en"
 ---
 
 ;CCDB:Compute Canada Data Base

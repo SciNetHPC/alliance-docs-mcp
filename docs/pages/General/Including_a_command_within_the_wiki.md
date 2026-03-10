@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-02-15T17:58:04Z"
 page_id: 243
 display_title: "Including a command within the wiki"
+language: "en"
 ---
 
 To include a command within the wiki, you should use the  template. This template detects the bash syntax. For example, the code

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-10-16T16:58:05Z"
 page_id: 225
 display_title: "Linux introduction"
+language: "en"
 ---
 
 This article is aimed at Windows and Mac users who do not have or have very little experience in UNIX environments. It should give you the necessary basics to access the compute servers and being quickly able to use them.

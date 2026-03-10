@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2025-11-03T20:57:51Z"
 page_id: 29716
 display_title: "RAC application guide"
+language: "en"
 ---
 
 Please read this guide carefully.

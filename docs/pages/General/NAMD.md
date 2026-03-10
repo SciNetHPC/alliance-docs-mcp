@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-11T22:28:22Z"
 page_id: 5596
 display_title: "NAMD"
+language: "en"
 ---
 
 NAMD is a parallel, object-oriented molecular dynamics code designed for high-performance simulation of large biomolecular systems.

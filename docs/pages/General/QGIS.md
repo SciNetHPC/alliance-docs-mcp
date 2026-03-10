@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-05-13T21:47:17Z"
 page_id: 9102
 display_title: "QGIS"
+language: "en"
 ---
 
 QGIS is a free and open-source cross-platform desktop geographic information system (GIS) application that supports viewing, editing, and analysis of geospatial data.

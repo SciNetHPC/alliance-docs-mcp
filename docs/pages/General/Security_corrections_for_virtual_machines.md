@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-02-21T19:39:40Z"
 page_id: 27923
 display_title: "Security corrections for virtual machines"
+language: "en"
 ---
 
 If you are responsible for one or more virtual machines running in our cloud services, you may receive occasionally receive communications from our security team containing a list of security issues which have been detected on your VMs.

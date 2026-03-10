@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-05-17T15:41:24Z"
 page_id: 11267
 display_title: "ÉcoleCQ2019"
+language: "en"
 ---
 
 = École de printemps Calcul Québec 2019 =

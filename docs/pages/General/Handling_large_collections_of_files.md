@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-08-29T22:26:37Z"
 page_id: 11765
 display_title: "Handling large collections of files"
+language: "en"
 ---
 
 In certain domains, notably AI and Machine Learning, it is common to have to manage very large collections of files, meaning hundreds of thousands or more. The individual files may be fairly small, e.g. less than a few hundred kilobytes. In these cases, a problem arises due to filesystem quotas on our clusters that limit the number of filesystem objects. Very large numbers of files, particularly small ones, create significant problems for the performance of these shared filesystems as well as the automated backup of the home and project spaces.

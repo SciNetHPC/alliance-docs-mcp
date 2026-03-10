@@ -2,9 +2,10 @@
 title: "SSH/en"
 url: "https://docs.alliancecan.ca/wiki/SSH/en"
 category: "General"
-last_modified: "2025-09-10T18:17:15Z"
+last_modified: "2026-03-06T19:41:37Z"
 page_id: 506
 display_title: "SSH"
+language: "en"
 ---
 
 Secure Shell (SSH) is a widely used standard to connect to remote machines securely. The SSH connection is encrypted, including the username and password. SSH is the standard way for you to connect in order to execute commands, submit jobs, check the progress of jobs, and in some cases, transfer files.
@@ -18,6 +19,7 @@ To use any of these implementations of SSH successfully, you must:
 * know your username, typically something like ansmith. The username is not your CCI, like abc-123, nor a CCRI like abc-123-01, nor your email address.
 * know your password, or have an SSH key. Your password is the same one you use to log in to CCDB.  You may register and use an SSH key instead of a password; we highly recommend this since it provides better security.
 * be registered for multifactor authentication and have your 2nd factor available.
+* have requested access to the system here.
 
 From a command-line client (e.g. /Applications/Utilities/Terminal.app for macOS, cmd or PowerShell for Windows), use the ssh command like this:
 

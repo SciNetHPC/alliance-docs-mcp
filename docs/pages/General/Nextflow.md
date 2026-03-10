@@ -2,9 +2,10 @@
 title: "Nextflow/en"
 url: "https://docs.alliancecan.ca/wiki/Nextflow/en"
 category: "General"
-last_modified: "2025-11-24T22:04:01Z"
+last_modified: "2026-03-05T22:23:34Z"
 page_id: 22694
 display_title: "Nextflow"
+language: "en"
 ---
 
 Nextflow is software for running reproducible scientific workflows. The term Nextflow is used to describe both the domain-specific-language (DSL) the pipelines are written in, and the software used to interpret those workflows.
@@ -58,7 +59,7 @@ We use pip to install a Python package to help with the setup. The nf-core tools
 ==== Step 3. Download the container images and the pipeline ====
 Set the name of the pipeline to be tested, and load Nextflow and the container utility Apptainer.
 Nextflow integrates well with Apptainer.
-As noted above, we are using hte rna-seq pipeline as an example.
+As noted above, we are using the rna-seq pipeline as an example.
 
 export NFCORE_PL=rnaseq
 export PL_VERSION=3.21.0
@@ -82,7 +83,7 @@ Run the following command to download the rnaseq pipeline and container images.
 
 cd ~/scratch
 mkdir -p nf-test && cd nf-test
-nf-core download --container-cache-utilisation amend --container-system singularity --compress none -r ${PL_VERSION}  -p 6  ${NFCORE_PL}
+nf-core download --container-cache-utilisation amend --container-system singularity --compress none -l docker.io -r ${PL_VERSION}  -p 6  ${NFCORE_PL}
 
 Type "Y" when you see Include the nf-core's default institutional configuration files into the download? (Y/n)
 

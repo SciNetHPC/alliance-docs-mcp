@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2024-10-16T16:56:41Z"
 page_id: 1390
 display_title: "OpenACC Tutorial"
+language: "en"
 ---
 
 This tutorial is strongly inspired from the OpenACC Bootcamp session presented at GPU Technology Conference 2016.

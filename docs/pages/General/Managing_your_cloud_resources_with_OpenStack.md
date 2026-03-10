@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-07-07T20:42:10Z"
 page_id: 705
 display_title: "Managing your cloud resources with OpenStack"
+language: "en"
 ---
 
 Parent page: Cloud

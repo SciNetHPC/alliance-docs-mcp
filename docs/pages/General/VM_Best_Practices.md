@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-02-27T21:11:02Z"
 page_id: 5256
 display_title: "VM Best Practices"
+language: "en"
 ---
 
 Parent page: Cloud

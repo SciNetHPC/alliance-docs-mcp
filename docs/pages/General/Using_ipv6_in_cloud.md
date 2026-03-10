@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-02-27T21:10:01Z"
 page_id: 20575
 display_title: "Using ipv6 in cloud"
+language: "en"
 ---
 
 == IPv6 in Arbutus Cloud ==

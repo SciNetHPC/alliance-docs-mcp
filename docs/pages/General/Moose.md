@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-10-27T13:21:01Z"
 page_id: 31888
 display_title: "Moose/en"
+language: "en"
 ---
 
 MOOSE (Multiphysics Object Oriented Simulation Environment) is an object-oriented C++ finite element framework for the development of tightly coupled multiphysics solvers from Idaho National Laboratory. Moose is not officially maintained on our clusters, so users need to compile the software themselves. The following compiling instructions worked for multiple users on our upgraded systems (using StdEnv/2023 environment):

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-05-26T09:45:20Z"
 page_id: 5198
 display_title: "Bioinformatics"
+language: "en"
 ---
 
 =General=

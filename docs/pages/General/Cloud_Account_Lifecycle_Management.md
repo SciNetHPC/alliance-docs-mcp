@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-03-14T16:36:12Z"
 page_id: 22575
 display_title: "Cloud Account Lifecycle Management"
+language: "en"
 ---
 
 Cloud Account Lifecycle Management (CALM) is the process by which projects and accounts are provisioned and eventually deprovisioned throughout a lifecycle.

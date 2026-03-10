@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2017-12-05T16:47:49Z"
 page_id: 5126
 display_title: "GCC C++ Dual ABI"
+language: "en"
 ---
 
 The transition from GCC version 4.9 to version 5.1 introduced a major change to its application binary interface (ABI). If all source code including all dependent libraries is recompiled using the same version of the compiler then there will be no issues. If different compilers are used, the ABI change may cause linking to fail. Failure is likely if you are linking to precompiled libraries provided in a vendor's product. If this occurs, you can use GCC's Dual ABIFree Software Foundation. The GNU C++ Library, Chapter 3. https://gcc.gnu.org/onlinedocs/libstdc++/manual/using_dual_abi.html feature to tell GCC to use the old ABI in order for your application to link properly with those legacy libraries, e.g., you would pass -D_GLIBCXX_USE_CXX11_ABI=0 to GCC if using GCC v5.1 or higher to link to libraries built using the older ABI.

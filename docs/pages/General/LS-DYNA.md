@@ -1,10 +1,11 @@
 ---
-title: "LS-DYNA"
-url: "https://docs.alliancecan.ca/wiki/LS-DYNA"
+title: "LS-DYNA/en"
+url: "https://docs.alliancecan.ca/wiki/LS-DYNA/en"
 category: "General"
-last_modified: "2025-12-15T16:30:52Z"
-page_id: 13871
+last_modified: "2026-01-07T14:09:40Z"
+page_id: 14902
 display_title: "LS-DYNA"
+language: "en"
 ---
 
 = Introduction =
@@ -17,7 +18,7 @@ The Alliance is a hosting provider for LS-DYNA. This means that we have LS-DYNA 
 
 If your (existing or new) license server has never been used on the cluster where you plan to run jobs, firewall changes will first need to be done on both the cluster side and server side.  This will typically require involvement from both our technical team and the technical people managing your license software.  To arrange this, send an email containing the service port and IP address of your floating license server to technical support. To check if your license file is working run the following commands
 
-module load ls-dyna
+ module load ls-dyna
  ls-dyna_s or ls-dyna_d
 
 You don't need to specify any input file or arguments to run this test.  The output header should contain a (non-empty) value for Licensed to: with the exception of CMC license servers.  Press ^C to quit the program and return to the command line.

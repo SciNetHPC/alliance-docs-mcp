@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2025-08-20T15:23:03Z"
 page_id: 25786
 display_title: "Parallel I/O introductory tutorial"
+language: "en"
 ---
 
 This tutorial will discuss issues in handling large amounts of data in HPC, and a variety of parallel I/O strategies for doing large-scale input/output (I/O) with parallel jobs. In particular we will describe the use of MPI-IO, and of parallel I/O libraries such as NetCDF and HDF5.

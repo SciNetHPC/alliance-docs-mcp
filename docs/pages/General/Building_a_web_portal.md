@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2018-02-15T13:44:56Z"
 page_id: 5798
 display_title: "Building a web portal"
+language: "en"
 ---
 
 ==== Potentially useful resources for building Research Platforms and Portals: ====

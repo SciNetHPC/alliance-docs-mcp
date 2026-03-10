@@ -1,10 +1,11 @@
 ---
-title: "QuantumATK"
-url: "https://docs.alliancecan.ca/wiki/QuantumATK"
+title: "QuantumATK/en"
+url: "https://docs.alliancecan.ca/wiki/QuantumATK/en"
 category: "General"
-last_modified: "2026-02-24T18:35:42Z"
-page_id: 15593
+last_modified: "2026-02-24T18:36:58Z"
+page_id: 19833
 display_title: "QuantumATK"
+language: "en"
 ---
 
 = Introduction =

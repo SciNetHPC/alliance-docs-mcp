@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2017-05-12T14:16:37Z"
 page_id: 1511
 display_title: "OpenACC Tutorial - Optimizing loops"
+language: "en"
 ---
 
 == Being smarter than the compiler ==

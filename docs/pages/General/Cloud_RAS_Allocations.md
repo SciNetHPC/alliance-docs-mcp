@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-04T19:05:18Z"
 page_id: 9229
 display_title: "Cloud RAS Allocations"
+language: "en"
 ---
 
 Parent page: Cloud

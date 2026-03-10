@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-21T14:02:02Z"
 page_id: 9323
 display_title: "Using nearline storage"
+language: "en"
 ---
 
 Nearline is a tape-based filesystem intended for inactive data.  Datasets which you do not expect to access for months are good candidates to be stored in /nearline.

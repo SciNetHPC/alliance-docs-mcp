@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-09-27T17:58:02Z"
 page_id: 7543
 display_title: "MuJoCo"
+language: "en"
 ---
 
 MuJoCo stands for Multi-Joint dynamics with Contact. It is a physics engine aiming to facilitate research and development in robotics, biomechanics, graphics and animation, and other areas where fast and accurate simulation is needed.http://www.mujoco.org/

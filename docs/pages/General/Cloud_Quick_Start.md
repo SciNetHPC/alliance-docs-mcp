@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-12-19T15:00:02Z"
 page_id: 228
 display_title: "Cloud Quick Start"
+language: "en"
 ---
 
 Parent page: Cloud

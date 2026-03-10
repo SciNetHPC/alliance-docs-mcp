@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-09-23T13:08:24Z"
 page_id: 9424
 display_title: "PGPROF"
+language: "en"
 ---
 
 PGPROF is a powerful and simple tool for analyzing the performance of parallel programs written with OpenMP, MPI, OpenACC, or CUDA.

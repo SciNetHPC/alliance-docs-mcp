@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-03-05T20:48:02Z"
 page_id: 10153
 display_title: "Slicer"
+language: "en"
 ---
 
 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. Built over two decades through support from the National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to physicians, researchers, and the general public.

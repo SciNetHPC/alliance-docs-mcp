@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-20T19:34:39Z"
 page_id: 24806
 display_title: "Automation in the context of multifactor authentication"
+language: "en"
 ---
 
 An automated workflow which involves some outside machine connecting to a cluster without human intervention cannot make use of a second authentication factor. In order to execute such a workflow now that MFA is a requirement, you must request access to an automation node. An automation node does not require the use of a second factor, but is much more limited than a regular login node in terms of the type of authentication it accepts and the types of actions that it can be used to perform.

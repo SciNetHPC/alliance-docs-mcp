@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2018-03-12T14:42:01Z"
 page_id: 5556
 display_title: "Meltdown and Spectre bugs"
+language: "en"
 ---
 
 Meltdown and Spectre are bugs related to speculative execution in a variety of CPU architectures developed during the past ten to fifteen years and which affect in particular processors from Intel and AMD, including those in use on Compute Canada clusters. A detailed discussion of the two bugs can be found on this page. Compute Canada personnel have patched systems deemed sensitive to these vulnerabilities.

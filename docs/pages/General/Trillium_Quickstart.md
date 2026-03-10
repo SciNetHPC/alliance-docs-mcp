@@ -2,9 +2,10 @@
 title: "Trillium Quickstart/en"
 url: "https://docs.alliancecan.ca/wiki/Trillium_Quickstart/en"
 category: "General"
-last_modified: "2025-11-04T19:42:25Z"
+last_modified: "2026-01-07T14:09:24Z"
 page_id: 29436
 display_title: "Trillium Quickstart"
+language: "en"
 ---
 
 __TOC__
@@ -44,7 +45,7 @@ Please read this present document carefully.  The Frequently Asked Questions is 
 
 There are two ways to access Trillium:
 
-# Via your browser with Open OnDemand. This is recommended for users who are not familiar with Linux or the command line. Please see our quickstart guide for more instructions on how to use Open OnDemand.
+# Via your browser with Open OnDemand. This is recommended for users who are not familiar with Linux or the command line. Please see our Trillium Open OnDemand Quickstart guide for more instructions on how to use Open OnDemand.
 # Terminal access with ssh. Please read the following instructions.
 
 As with all SciNet and Alliance compute systems, access is done via SSH (secure shell). Furthermore, for Trillium specifically, authentication is only allowed via SSH keys that are uploaded to the CCDB.  Please refer to this page on how to generate your SSH key pair, upload, and use SSH Keys.

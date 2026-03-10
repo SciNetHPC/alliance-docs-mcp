@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-11T12:37:54Z"
 page_id: 4089
 display_title: "Perl"
+language: "en"
 ---
 
 == Description ==

@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2025-11-03T20:57:02Z"
 page_id: 29549
 display_title: "User roles to access resources and services of the Alliance Federation"
+language: "en"
 ---
 
 Access to Federation resources and services is based on Roles. There are four main categories of user roles:

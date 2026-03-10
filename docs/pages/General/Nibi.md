@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-14T13:03:03Z"
 page_id: 27510
 display_title: "Nibi"
+language: "en"
 ---
 
 Availability: since 31 July 2025

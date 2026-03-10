@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-07-08T22:34:02Z"
 page_id: 220
 display_title: "Page translation"
+language: "en"
 ---
 
 To translate a page, one first writes the content in the original language. Second, the page is marked for translation. Then, a human translates the page using organizational tools provided by the wiki extension Translate. Tutorials for this extension can be found here. Finally, a second human reviews the translation. If a page has not yet been translated, users can see the page in the original language. If a translation has not yet been reviewed, users can see the non-reviewed translation.

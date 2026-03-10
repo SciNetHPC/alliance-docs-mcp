@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-06-22T01:35:02Z"
 page_id: 17114
 display_title: "Modules"
+language: "en"
 ---
 
 In computing, a module is a unit of software that is designed to be independent, interchangeable, and contains everything necessary to provide the desired functionality.

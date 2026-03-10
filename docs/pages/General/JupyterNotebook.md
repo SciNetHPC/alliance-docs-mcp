@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-10T17:59:02Z"
 page_id: 4559
 display_title: "JupyterNotebook"
+language: "en"
 ---
 
 ==Introduction==

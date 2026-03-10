@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2022-09-09T18:20:23Z"
 page_id: 20666
 display_title: "Changing username"
+language: "en"
 ---
 
 Changing your username is possible, but it is a multistep process.  Due to the effort involved, we ask you please not to request a username change for trivial reasons.

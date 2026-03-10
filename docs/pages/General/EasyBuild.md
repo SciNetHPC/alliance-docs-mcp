@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-09-14T16:12:01Z"
 page_id: 18573
 display_title: "EasyBuild"
+language: "en"
 ---
 
 EasyBuild is a tool for building, installing, and maintaining software on high-performance computing systems.

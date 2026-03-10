@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:31:34Z"
 page_id: 20960
 display_title: "Managing Slurm accounts"
+language: "en"
 ---
 
 Each job submitted to the job scheduler Slurm has an associated

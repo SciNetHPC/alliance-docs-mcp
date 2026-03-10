@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-01-08T19:33:50Z"
 page_id: 27501
 display_title: "Quantum transpilation"
+language: "en"
 ---
 
 Classical transpilation describes the translation of code written in one programming language to code written in another language. It is a process similar to compilation.

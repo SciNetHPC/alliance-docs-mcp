@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-06-28T17:05:37Z"
 page_id: 26013
 display_title: "Ha fip"
+language: "en"
 ---
 
 == Floating IP High Availability==

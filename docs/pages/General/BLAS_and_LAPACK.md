@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-01-06T16:20:02Z"
 page_id: 18718
 display_title: "BLAS and LAPACK"
+language: "en"
 ---
 
 BLAS (Basic Linear Algebra Subprogram and LAPACK (Linear Algebra PACK) are two of the most commonly used libraries in advanced research computing. They are used for vector and matrix operations that are commonly found in a plethora of algorithms. More importantly, they are more than libraries, as they define a standard programming interface. A programming interface is a set of function definitions that can be called to accomplish specific computation, for example the dot product of two vectors of double precision numbers, or the matrix product of two hermitian matrices of complex numbers.

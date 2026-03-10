@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-15T17:05:54Z"
 page_id: 28370
 display_title: "Estimer et prévenir le gaspillage des ressources"
+language: "en"
 ---
 
 Dans le but de minimiser le gaspillage de ressources dans nos grappes, nous vous présentons ici les erreurs les plus fréquentes que nous avons observées chez nos utilisateurs, ainsi que les correctifs à appliquer. Les exemples sont répartis en trois catégories: CPU, GPU et mémoire.

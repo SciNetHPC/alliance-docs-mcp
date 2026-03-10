@@ -1,0 +1,126 @@
+---
+title: "Account renewal FAQ/fr"
+url: "https://docs.alliancecan.ca/wiki/Account_renewal_FAQ/fr"
+category: "General"
+last_modified: "2025-09-05T14:42:35Z"
+page_id: 31081
+display_title: "FAQ pour le renouvellement de compte"
+language: "fr"
+---
+
+== Sujets d’ordre général ==
+
+===Pourquoi dois-je renouveler mon compte?===
+Tous les comptes doivent être renouvelés chaque année pour que nous puissions recueillir les renseignements exigés par les organismes de financement et désactiver les comptes inactifs.
+
+=== Qui doit renouveler son compte? ===
+Tous les comptes doivent être renouvelés au plus tard le 10 juin 2025. Si votre compte n’est pas renouvelé, il sera désactivé automatiquement après cette date, ce qui signifie que même si vos données ne sont pas immédiatement supprimées, vous n’y aurez plus accès. Il est toujours possible de renouveler un compte qui a été désactivé.
+
+===Si je viens de créer mon compte, est-ce que je dois quand même le renouveler?===
+Si votre compte a été créé après le 1er janvier 2025, vous n’avez pas besoin d’en effectuer le renouvellement maintenant. Cependant, vous devez accepter les nouvelles politiques et consentements la première fois que vous vous connecterez à CCDB.
+
+===Où puis-je consulter la politique de confidentialité et les autres ententes que j’ai acceptées?===
+Les ententes et politiques que vous devez accepter ou pour lesquelles vous devez indiquer une préférence sont disponibles dans CCDB sous l’onglet Mon compte, option Ententes. Vous y trouverez entre autres :
+
+* Politiques, normes, conditions et procédures
+* Consentement à l’accès aux données de l'utilisatrice et de l’utilisateur
+* Transfert de la propriété de vos fichiers sur désactivation de votre rôle
+* Consentement à recevoir des nouvelles et des communications facultatives de la part de l’Alliance de recherche numérique du Canada
+
+Les politiques sont aussi disponibles sur cette page de notre site web.
+
+===Qu’est-ce qu’un rôle principal et à quoi sert-il?===
+Votre rôle principal correspond à votre poste principal, typiquement celui que vous détiendrez à plus long terme. Par exemple, si vous faites partie du corps professoral d’un établissement et êtes professeur associé dans un autre, votre rôle principal serait votre poste permanent. Pour une étudiante, un étudiant, une chercheuse ou un chercheur, le rôle principal correspond au poste occupé avec votre superviseure ou superviseur principal.
+
+Remarque : Si votre rôle principal n’est pas renouvelé pendant la période annuelle de renouvellement des comptes, votre compte sera désactivé.
+
+Lorsqu’un nouveau rôle est créé, celui-ci devient par défaut le rôle principal; pour modifier votre rôle principal, voyez la question 6.
+
+Les rôles principaux sont importants pour faciliter la gestion des comptes où les rôles sont multiples, faciliter les communications et recueillir certains renseignements pour nos rapports.
+
+===Puis-je modifier mon rôle principal?===
+Vous pouvez modifier votre rôle principal en tout temps dans CCDB sous l’onglet Accueil. Sélectionnez le rôle que vous voulez désigner comme rôle principal et cochez la case Donner à ce rôle le statut de rôle principal.
+
+===Que dois-je faire si mon rôle a changé (par exemple, si je passe de la maîtrise au doctorat ou si j'occupe un nouveau poste dans une autre université canadienne)?===
+Si votre rôle a changé, vous devez en demander un nouveau dans CCDB sous l’onglet Mon compte, option Demander un nouveau rôle.
+
+Si vous détenez plusieurs rôles, ils doivent être entrés un à la fois. Par défaut, le dernier rôle entré devient votre rôle principal; pour empêcher ceci, assurez-vous que la case à cocher Donner à ce rôle le statut de rôle principal soit vide.
+
+Pour désactiver un ou des rôles que vous ne détenez plus, cliquez sur Désactiver les anciens rôles. Votre nouveau rôle sera alors considéré comme étant votre rôle principal.
+
+===Qui puis-je contacter pour de l’assistance avec l’accès au site web pour le CV commun canadien (CVC)?===
+Si vous avez oublié votre nom d’utilisateur ou votre mot de passe, ou que vous avez besoin de soutien pour accéder au site https://ccv-cvc.ca/, veuillez écrire à support-soutien@cihr-irsc.gc.ca ou téléphoner au 613-954-1968 ou au 1-888-603-4178.
+
+Pour les questions relatives au CVC pour l’Alliance ou si vous êtes incapable de soumettre votre CVC dans CCDB, écrivez à support@tech.alliancecan.ca.
+
+La Fédération de l'Alliance offre l’assistance UNIQUEMENT à ceux et celles qui doivent soumettre un CVC pour renouveler leur compte ou pour présenter une demande au concours pour l’allocation de ressources. Si ce n’est pas votre cas, veuillez contacter l’organisme auquel vous tentez de soumettre votre CVC.
+
+===Mon compte est échu et désactivé et je ne le renouvellerai pas. Cependant, je veux accéder à mes données pour les transférer. Que dois-je faire?===
+Écrivez à support@tech.alliancecan.ca pour de l’assistance.
+
+===Je ne trouve pas de réponse à ma question : à qui puis-je m’adresser?===
+Écrivez à renouvellements@tech.alliancecan.ca pour de l’assistance.
+
+== Chercheuses principales et chercheurs principaux ==
+
+===Je suis professeure. Que se passera-t-il si je ne renouvelle pas mon compte avant la date limite?===
+Un compte actif qui n'est pas renouvelé au plus tard le 10 juin 2025 devient échu et est automatiquement désactivé. Sachez toutefois que votre compte peut être réactivé par la suite.
+
+Si vous parrainez des utilisatrices ou utilisateurs et que votre compte devient échu, ce sont votre compte et ceux des personnes parrainées qui seront désactivés. Les tâches soumises par vous-même et par ceux et celles que vous parrainez seront arrêtées et votre groupe de recherche n’aura plus accès aux fichiers tant que votre compte de chercheuse ou chercheur principal ne sera pas réactivé.demander un nouveau rôle.
+
+Si votre compte et ceux des personnes que vous parrainez ne sont plus nécessaires et que vous ne les renouvelez pas, ils deviendront tous échus et seront désactivés. Autrement, vous devez demander qu’ils soient renouvelés ou, dans le cas où votre situation ou celle d’une personne parrainée a changé,
+
+===Que dois-je faire pour renouveler mon compte?===
+Pendant la période de renouvellement, vous recevrez un courriel avec un lien vers le formulaire de renouvellement dans CCDB. Veuillez mettre à jour votre CVC ainsi que les renseignements pour vous contacter, remplir le court questionnaire et mettre à jour le statut des personnes que vous parrainez (par exemple étudiantes, stagiaire postdoctoral, etc.). Si le rôle d’une personne que vous parrainez a changé depuis l’an dernier, voyez la question 7.
+
+Tous les membres du corps professoral des universités, incluant les professeures et professeurs associés, doivent soumettre un CV commun canadien (CVC) ou mettre à jour leur CVC existant, et mentionner les publications rendues possibles par les ressources de la Fédération de l’Alliance. Cependant, les membres retraités du corps professoral, les professeures et professeurs émérites, les bibliothécaires et les chercheuses et chercheurs principaux d’un milieu autre qu’académique sont exemptés de cette obligation. Pour savoir comment soumettre ou mettre à jour votre CVC, consultez le guide de rédaction du CVC pour l’Alliance.
+
+Les membres du corps professoral qui ont parrainé d’autres utilisatrices ou utilisateurs doivent aussi mettre à jour le statut de ces comptes (c’est-à-dire mentionner soit que leur travail se poursuit, soit que leur travail est terminé, mettant ainsi fin au parrainage).
+
+Après avoir mis à jour et confirmé toute l’information et mis à jour le statut des personnes que vous parrainez, cliquez sur le bouton Demander le renouvellement du compte sur le côté gauche du formulaire.
+
+=== Les professeures et professeurs doivent-ils mettre à jour leur CVC au renouvellement de leur compte avec l'Alliance?===
+Le téléversement du CVC est obligatoire si vous détenez un rôle de professeure, professeur ou professeur associé dans un établissement d’enseignement canadien. Pour savoir comment soumettre votre CVC, lisez attentivement le guide de rédaction du CVC pour l'Alliance.
+
+La soumission du CVC est facultative pour les personnes retraitées du corps professoral, professeures émérites, professeurs émérites et bibliothécaires. Si c’est votre cas et que vous ne voulez pas soumettre votre CVC, veuillez écrire à renouvellements@tech.alliancecan.ca.
+
+===Je suis chercheur principal avec un rôle de professeur et je change d’établissement. Les comptes des personnes que je parrainais avec mon rôle précédent seront-ils automatiquement transférés à mon nouveau rôle?===
+Non. Les utilisatrices et utilisateurs que vous voulez parrainer avec votre nouveau rôle devront demander un nouveau rôle sous le parrainage de votre nouveau poste.
+
+Si des ressources vous ont été allouées par suite du concours pour l’allocation de ressources, les personnes que vous parrainiez avec votre rôle précédent n’auront plus accès aux ressources du projet RAP (Resource Allocation Project) relié à l’allocation. Une fois que leurs rôles auront été activés, ils pourront être ajoutés à votre projet RAP. Vous pouvez ajouter ou supprimer un membre de votre projet RAP dans CCDB sous l’onglet Mon compte, option Gérer l’appartenance aux projets.
+
+===J’ai téléversé un CVC avec ma demande au concours pour l’allocation de ressources de l’automne dernier : dois-je en fournir un nouveau?===
+Non. La soumission de votre CVC est optionnelle si celui-ci a été mis à jour l’automne dernier alors que vous présentiez une demande au concours pour l’allocation de ressources. Cependant, si vous n’avez pas téléversé votre CVC depuis le dernier renouvellement de votre compte, vous devez en téléverser un nouveau.
+
+Si votre CVC est à jour et que vous voulez en téléverser un nouveau au renouvellement de votre compte, vous n’aurez pas à lister toutes vos publications, mais uniquement les nouvelles publications rendues possibles par les ressources de la Fédération de l’Alliance.
+
+Pour toute l’information, voyez le guide de rédaction du CVC pour l'Alliance.
+
+===Dans le formulaire de renouvellement de mon compte, j’ai indiqué qu’un des membres de mon équipe n’est plus parrainé par moi. Est-ce que j’ai toujours accès aux fichiers de cette personne?===
+Le consentement formel de la personne qui était parrainée peut être requis pour que vous puissiez avoir accès à ses fichiers; il est donc important de prendre des dispositions dès que possible au cas où il serait impossible de la rejoindre pour obtenir son accord. Pour plus d’information, voir Accès aux fichiers des membres qui quittent l’équipe de projet.
+
+== Utilisatrices et utilisateurs parrainés ==
+
+==Je suis une utilisatrice parrainée (dont le rôle est par exemple, étudiante au doctorat, à la maîtrise, collaboratrice externe, etc.). Que dois-je faire pour renouveler mon compte?==
+Pendant la période de renouvellement, vous recevrez un courriel avec un lien vers le formulaire de renouvellement. Veuillez mettre à jour votre information de contact, remplir le formulaire et répondre au court sondage. Une fois que tous les renseignements seront mis à jour et confirmés, cliquez sur le bouton Demander le renouvellement du compte.
+
+Si la chercheuse principale ou le chercheur principal qui vous parraine atteste que vous conservez ce rôle, il peut être renouvelé. Pendant la période de renouvellement, vous recevrez un courriel avec un lien vers le formulaire de renouvellement. Veuillez mettre à jour votre information de contact, remplir le formulaire et répondre au court sondage. Quand tous les renseignements seront mis à jour et confirmés, cliquez sur le bouton Demander le renouvellement du compte. Votre compte sera immédiatement renouvelé ou le sera lorsque la personne qui vous parraine renouvellera son propre compte.
+
+Si la chercheuse principale ou le chercheur principal qui vous parraine a déclaré que vous avez obtenu votre diplôme, obtenu un nouveau poste ou ne faites plus partie de l’équipe, ce rôle ne pourra pas être renouvelé. Vous devrez plutôt demander un rôle qui correspond à votre situation actuelle (nouveau parrainage, nouvel établissement, nouveau poste, etc.); voyez cette réponse.
+
+===J’ai effectué le renouvellement de mon compte dans CCDB, mais mon rôle n’est toujours pas activé. Que dois-je faire pour le réactiver?===
+Si vous avez renouvelé votre compte et que votre ou vos rôles sont toujours désactivés, c’est que la chercheuse principale ou le chercheur principal qui vous parraine n’a pas encore renouvelé ou réactivé son propre compte.
+
+Votre rôle devrait être activé dès que la personne qui vous parraine aura renouvelé son compte et confirmé votre rôle.
+
+Si vous avez des questions ou avez besoin d’assistance, écrivez à renouvellements@tech.alliancecan.ca.
+
+Remarque : Votre compte ne sera activé qu'une fois que la personne qui vous parraine aura confirmé que votre rôle se poursuit ET qu'elle ou il renouvellera son propre compte.
+
+===Mon compte a été renouvelé avec un rôle incorrect. Comment puis-je corriger cette erreur?===
+Vous devriez créer un nouveau rôle avec vos renseignements courants et mettre à jour votre compte en indiquant votre nouveau rôle. Connectez-vous à CCDB et sous l’onglet Mon compte, sélectionnez Demander un nouveau rôle. Suivez les directives et sélectionnez votre nouveau rôle. La chercheuse ou le chercheur qui vous parraine recevra alors un courriel contenant un lien vers une page où votre nouveau rôle pourra être confirmé. S’il n’est pas renouvelé, votre ancien rôle deviendra automatiquement échu et sera désactivé le 11 juin 2025.
+
+Si vous voulez définir plusieurs rôles, faites afficher Ajouter un rôle et cochez la case Désactiver les anciens rôles au bas de la page. Vous pouvez définir plusieurs rôles, mais un seul doit être identifié comme étant votre rôle principal.
+
+==Je tente de réactiver un ancien rôle, mais le chercheur qui me parraine ne peut pas le confirmer. Que dois-je faire?==
+Écrivez à renouvellements@tech.alliancecan.ca pour de l’assistance.

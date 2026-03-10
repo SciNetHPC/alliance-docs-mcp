@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-24T11:40:00Z"
 page_id: 6233
 display_title: "COMSOL"
+language: "en"
 ---
 
 = Introduction =

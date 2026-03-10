@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-05-08T19:22:05Z"
 page_id: 28553
 display_title: "Monitoring jobs"
+language: "en"
 ---
 
 Ensuring that your jobs make efficient use of the resources that are assigned to them is an important part of being a responsible user. This is particularly true when you are using a new program or have made some other substantial change in the work being done by your job. This page describes a variety of different methods for evaluating the efficiency of jobs, both currently running jobs and those which have finished.

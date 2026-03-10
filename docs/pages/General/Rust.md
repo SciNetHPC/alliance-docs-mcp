@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:08:19Z"
 page_id: 22075
 display_title: "Rust"
+language: "en"
 ---
 
 Rust is a multi-paradigm, high-level, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety — that is, that all references point to valid memory — without requiring the use of a garbage collector or reference counting present in other memory-safe languages.

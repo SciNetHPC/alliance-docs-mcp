@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2021-03-11T17:49:02Z"
 page_id: 11019
 display_title: "RAC transition FAQ"
+language: "en"
 ---
 
 Allocations from the 2021 Resource Allocation Competition come into effect on April 1, 2021.

@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2022-11-30T20:58:07Z"
 page_id: 726
 display_title: "OpenACC Tutorial - Introduction"
+language: "en"
 ---
 
 == CPU vs accelerator ==

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-09-26T20:07:03Z"
 page_id: 2707
 display_title: "Security considerations when running a VM"
+language: "en"
 ---
 
 Parent page: Cloud

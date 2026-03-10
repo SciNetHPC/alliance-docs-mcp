@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2018-04-27T18:44:02Z"
 page_id: 1773
 display_title: "Pthreads"
+language: "en"
 ---
 
 =Introduction=

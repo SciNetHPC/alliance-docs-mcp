@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2023-02-24T21:24:44Z"
 page_id: 16839
 display_title: "Arbutus user documentation"
+language: "en"
 ---
 
 == Arbutus Documentation ==

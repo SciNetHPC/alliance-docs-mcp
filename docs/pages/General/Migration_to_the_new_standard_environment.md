@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-02-14T15:21:35Z"
 page_id: 16321
 display_title: "Migration to the new standard environment"
+language: "en"
 ---
 
 = What are the differences between StdEnv/2023 and the earlier environments? =

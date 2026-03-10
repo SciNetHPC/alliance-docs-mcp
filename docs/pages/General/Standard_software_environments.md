@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-10-15T14:45:17Z"
 page_id: 14669
 display_title: "Standard software environments"
+language: "en"
 ---
 
 For questions about migration to different standard environments, please see Migration to the new standard environment.

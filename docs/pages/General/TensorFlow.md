@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:09:26Z"
 page_id: 3577
 display_title: "TensorFlow"
+language: "en"
 ---
 
 TensorFlow is an open-source software library for Machine Intelligence.

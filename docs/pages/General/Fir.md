@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-14T13:03:03Z"
 page_id: 26936
 display_title: "Fir"
+language: "en"
 ---
 
 Availability date: August 11, 2025

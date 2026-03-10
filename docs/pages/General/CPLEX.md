@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-03-24T16:27:20Z"
 page_id: 6706
 display_title: "CPLEX"
+language: "en"
 ---
 
 CPLEX is software for optimization, developed by IBM and available for academic users through IBM's Academic Initiative.

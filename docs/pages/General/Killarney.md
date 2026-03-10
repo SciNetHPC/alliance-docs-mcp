@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-03T20:57:05Z"
 page_id: 28159
 display_title: "Killarney"
+language: "en"
 ---
 
 Availability: June 9, 2025

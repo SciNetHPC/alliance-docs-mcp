@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-10-16T15:55:59Z"
 page_id: 26685
 display_title: "CirQ"
+language: "en"
 ---
 
 Developed by Google, CirQ  is an open-source quantum computing library to build, optimize, simulate and run quantum circuits. More specifically, CirQ allows to simulate circuits on particular qubit configurations, which can optimize a circuit for a certain qubit architecture. Information on the features can be found in the CirQ documentation and GitHub. Like  Snowflurry, CirQ can be used to run quantum circuits on the MonarQ quantum computer.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-04-03T19:08:59Z"
 page_id: 12411
 display_title: "Machine Learning tutorial"
+language: "en"
 ---
 
 This page is a beginner's manual concerning how to port a machine learning job to one of our clusters.

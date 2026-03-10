@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-02-28T15:30:58Z"
 page_id: 24929
 display_title: "Infrastructure for Research Data Management"
+language: "en"
 ---
 
 This page has been specially written to provide users with a detailed and accessible reference on how to optimize the management of their research data in our cloud environment.

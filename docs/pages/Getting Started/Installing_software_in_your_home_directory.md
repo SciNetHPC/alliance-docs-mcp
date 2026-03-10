@@ -5,6 +5,7 @@ category: "Getting Started"
 last_modified: "2025-10-22T18:37:28Z"
 page_id: 2933
 display_title: "Installing software in your home directory"
+language: "en"
 ---
 
 Most academic software is freely available on the internet. You can email Alliance support staff, provide them with a URL, and ask them to install any such package so that you and other users will be able to access it via a module load command. If the license terms and technical requirements are met they will make it available, as soon as possible.

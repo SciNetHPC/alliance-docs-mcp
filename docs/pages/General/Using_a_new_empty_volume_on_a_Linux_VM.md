@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2020-10-08T16:05:03Z"
 page_id: 6658
 display_title: "Using a new empty volume on a Linux VM"
+language: "en"
 ---
 
 On most Linux distributions the following steps can be used to partition, format, and mount the newly created volume. NOTE: If this is not a newly created volume the partition and format steps should be skipped as they will result in loss of data on that volume, and only the steps to mount the volume should be followed.

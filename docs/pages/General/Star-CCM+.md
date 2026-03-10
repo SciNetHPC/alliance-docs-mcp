@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-26T07:20:37Z"
 page_id: 5428
 display_title: "Star-CCM+"
+language: "en"
 ---
 
 STAR-CCM+ is a multidisciplinary engineering simulation suite to model acoustics, fluid dynamics, heat transfer, rheology, multiphase flows, particle flows, solid mechanics, reacting flows, electrochemistry, and electromagnetics. It is developed by Siemens.

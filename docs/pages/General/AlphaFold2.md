@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-11-22T13:54:29Z"
 page_id: 20387
 display_title: "AlphaFold2"
+language: "en"
 ---
 
 AlphaFold

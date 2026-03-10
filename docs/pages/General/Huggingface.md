@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-01T18:36:50Z"
 page_id: 23413
 display_title: "Huggingface"
+language: "en"
 ---
 
 Hugging Face is an organization that builds and maintains several popular open-source software packages widely used in Artificial Intelligence research. In this article, you will find information and tutorials on how to use packages from the Hugging Face ecosystem on our clusters.

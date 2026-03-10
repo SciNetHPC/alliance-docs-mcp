@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-06-20T19:55:29Z"
 page_id: 17343
 display_title: "VoxCeleb"
+language: "en"
 ---
 
 Compute Canada makes available on Graham cluster a copy of the VoxCeleb dataset, stored in the /datashare space. For the time being, this dataset is available only on Graham and you must opt-in to access this dataset by agreeing that you have registered for an VoxCeleb license:

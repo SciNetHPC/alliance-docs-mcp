@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-02-14T19:33:27Z"
 page_id: 19935
 display_title: "Arbutus object storage"
+language: "en"
 ---
 
 == Introduction ==

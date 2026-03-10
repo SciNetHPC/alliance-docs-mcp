@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-13T17:19:49Z"
 page_id: 3737
 display_title: "Gaussian"
+language: "en"
 ---
 
 See also Gaussian error messages.

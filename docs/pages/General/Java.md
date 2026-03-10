@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-03-31T17:03:42Z"
 page_id: 2951
 display_title: "Java"
+language: "en"
 ---
 
 Java is a general-purpose, high-level, object-oriented programming language developed in 1995 by Sun Microsystems (purchased by Oracle in 2010). One of the principal design goals for Java was a high degree of portability across platforms, summarized by the slogan write once, run anywhere, and which is realized by having Java source code compiled to 'bytecode' which then runs inside a Java virtual machine (JVM), ensuring a very uniform environment across numerous architectures and platforms. This has made Java a popular language choice in some environments and it is also widely used as a language for teaching programming. While performance was not one of the original design goals for Java, there are ways to help Java code run quickly and it has enjoyed a certain popularity in some scientific domains such as the life sciences, e.g. software like the Broad Institute's GATK. This page is not designed to teach the Java programming language but merely to provide some tips and hints for the use of Java in a high-performance computing environment such as Alliance clusters.

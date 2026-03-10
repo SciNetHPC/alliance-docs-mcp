@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-14T19:48:47Z"
 page_id: 31985
 display_title: "Test-syntax"
+language: "en"
 ---
 
 Where the script config_env.sh is:

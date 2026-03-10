@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-01-21T14:04:07Z"
 page_id: 14002
 display_title: "Gurobi"
+language: "en"
 ---
 
 Gurobi is a commercial software suite for solving complex optimization problems.  This wiki page describes the non-commercial use of Gurobi software on our clusters.

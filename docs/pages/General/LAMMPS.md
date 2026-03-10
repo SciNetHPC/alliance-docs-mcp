@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-03-06T14:09:16Z"
 page_id: 8890
 display_title: "LAMMPS"
+language: "en"
 ---
 
 Parent page: Biomolecular simulation

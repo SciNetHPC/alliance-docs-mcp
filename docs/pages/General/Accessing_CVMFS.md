@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:25:19Z"
 page_id: 12126
 display_title: "Accessing CVMFS"
+language: "en"
 ---
 
 = Introduction =

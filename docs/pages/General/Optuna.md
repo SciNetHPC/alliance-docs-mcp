@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-01-14T16:03:58Z"
 page_id: 18344
 display_title: "Optuna"
+language: "en"
 ---
 
 Optuna is an automatic hyperparameter optimization (HPO) software framework, particularly designed for machine learning.

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-19T18:06:25Z"
 page_id: 9488
 display_title: "Nvprof"
+language: "en"
 ---
 
 Nvprof is a command-line light-weight GUI-less profiler available for Linux, Windows, and Mac OS.

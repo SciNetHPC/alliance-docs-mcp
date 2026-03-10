@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-11-28T20:44:25Z"
 page_id: 19194
 display_title: "Large Scale Machine Learning (Big Data)"
+language: "en"
 ---
 
 In the field of Deep Learning, the widespread use of mini-batching strategies along with first-order iterative solvers makes most common training tasks naturally scalable to large quantities of data. Whether you are looking at training Deep Neural Networks on a few thousand examples, or hundreds of millions of them, the flow of your code will look pretty much the same: load a few examples from a target source (from disk, from memory, from a remote source...) and iterate through them, computing gradients and using them to update the parameters of the model as you go. Conversely, in many Traditional Machine Learning packages --notably scikit-learn-- scaling your code to train on very large datasets is often not trivial. Many algorithms that fit common models such as Generalized Linear Models (GLMs) and Support Vector Machines (SVMs) for example, may have default implementations that require the entire training set to be loaded in memory and often do not leverage any manner of thread or process parallelism. Some of these implementations also rely on memory-intensive solvers, which may require several times the size of your training set's worth of memory to work properly.

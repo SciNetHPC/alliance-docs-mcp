@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-09-20T16:46:30Z"
 page_id: 22896
 display_title: "VM recovery via cloud console"
+language: "en"
 ---
 
 If the VM can't be accessed anymore via SSH or via a local user, the OS can be booted into single user mode or a recovery kernel can be launched, which provides privileged access to the OS image. The only requirement is that the boot manager is accessible and can be modified.

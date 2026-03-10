@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-04-30T21:32:07Z"
 page_id: 11471
 display_title: "CPMD"
+language: "en"
 ---
 
 CPMD is a plane wave/pseudo-potential DFT code for ab initio molecular dynamics simulations.

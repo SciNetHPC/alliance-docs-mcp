@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-06-27T16:13:02Z"
 page_id: 9908
 display_title: "Keras"
+language: "en"
 ---
 
 "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano."https://keras.io/

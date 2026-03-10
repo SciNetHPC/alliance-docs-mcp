@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:38:02Z"
 page_id: 4177
 display_title: "Quantum ESPRESSO"
+language: "en"
 ---
 
 __NOTOC__

@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2025-09-17T14:33:33Z"
 page_id: 108
 display_title: "Authoring guidelines"
+language: "en"
 ---
 
 == Who can contribute to this Wiki? ==

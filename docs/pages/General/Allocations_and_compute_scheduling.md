@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-19T14:36:02Z"
 page_id: 6419
 display_title: "Allocations and compute scheduling"
+language: "en"
 ---
 
 Parent page: Job scheduling policies

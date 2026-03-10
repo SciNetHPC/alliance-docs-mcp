@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T13:37:02Z"
 page_id: 10582
 display_title: "VMD"
+language: "en"
 ---
 
 "VMD is a molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting."

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-05-29T13:54:55Z"
 page_id: 28589
 display_title: "VLLM"
+language: "en"
 ---
 
 vLLM is a community-driven project that provides high-throughput and memory-efficient inference and serving for large language models (LLMs). It supports various decoding algorithms, quantizations, parallelism, and models from Hugging Face and other sources.

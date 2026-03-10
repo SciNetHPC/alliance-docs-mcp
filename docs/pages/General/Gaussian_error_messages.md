@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-07-19T22:43:17Z"
 page_id: 6205
 display_title: "Gaussian error messages"
+language: "en"
 ---
 
 :Parent page: Gaussian

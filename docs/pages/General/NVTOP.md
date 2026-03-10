@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-12-09T22:42:01Z"
 page_id: 26990
 display_title: "NVTOP"
+language: "en"
 ---
 
 NVTOP stands for Neat Videocard TOP, a (h)top like task monitor for GPUs and accelerators. It can handle multiple GPUs and print information about them in a htop-familiar way.

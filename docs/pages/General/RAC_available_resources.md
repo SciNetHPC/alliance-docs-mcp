@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-11T18:45:39Z"
 page_id: 29764
 display_title: "RAC available resources"
+language: "en"
 ---
 
 Below is the list of resources available for the Resource Allocation Competition 2026.

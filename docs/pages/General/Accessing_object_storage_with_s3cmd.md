@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-02-09T20:19:23Z"
 page_id: 22497
 display_title: "Accessing object storage with s3cmd"
+language: "en"
 ---
 
 This page contains instructions on how to set up and access Arbutus object storage with s3cmd, one of the  object storage clients  available for this storage type.

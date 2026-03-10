@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-04T11:51:02Z"
 page_id: 23356
 display_title: "Apptainer/en"
+language: "en"
 ---
 
 =Forewords=

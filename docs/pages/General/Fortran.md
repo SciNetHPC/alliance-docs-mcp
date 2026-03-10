@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-03-05T21:25:25Z"
 page_id: 3471
 display_title: "Fortran"
+language: "en"
 ---
 
 Fortran is a compiled programming language with a long history available on Compute Canada's servers thanks to the compilers that are installed (gfortran and ifort). In general you will get much better performance using a compiled language and we encourage you to write your programs in these languages, which could be Fortran, C or C++.

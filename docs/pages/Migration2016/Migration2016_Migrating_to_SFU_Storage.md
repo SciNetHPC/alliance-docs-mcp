@@ -5,6 +5,7 @@ category: "Migration2016"
 last_modified: "2016-11-22T20:50:04Z"
 page_id: 676
 display_title: "Migration2016:Migrating to SFU Storage"
+language: "en"
 ---
 
 = Getting Access to Files =

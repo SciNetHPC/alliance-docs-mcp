@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-23T22:00:06Z"
 page_id: 7403
 display_title: "SSH tunnelling"
+language: "en"
 ---
 
 Parent page: SSH

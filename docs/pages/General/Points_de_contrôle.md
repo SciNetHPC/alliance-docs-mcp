@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-09-27T14:24:02Z"
 page_id: 3991
 display_title: "Checkpoints"
+language: "en"
 ---
 
 The execution time for a program is sometimes too long for the maximum duration of a job permitted by the job schedulers used on the clusters. Long-running jobs are also subject to all of the risks of system instability due to power outages, hardware defects and so forth. A program with a short execution time can easily be restarted with little concern but for long-running software it is preferable to use checkpoints to minimize the risk of losing several days' worth of computation. These checkpoints take the form of binary disk files from which the program can be restarted at the point in the computation where the checkpoint file was initially created.

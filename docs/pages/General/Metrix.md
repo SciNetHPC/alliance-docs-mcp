@@ -2,14 +2,15 @@
 title: "Metrix/en"
 url: "https://docs.alliancecan.ca/wiki/Metrix/en"
 category: "General"
-last_modified: "2025-09-24T18:53:41Z"
+last_modified: "2026-01-13T13:17:29Z"
 page_id: 31422
 display_title: "Metrix"
+language: "en"
 ---
 
 = Summary =
 
-The Metrix portal is a website for Alliance users. It collects information on computing nodes and management servers to interactively generate data that allow users to track their resource usage (CPU, GPU, memory, filesystem) in real time.
+The Metrix portal is a website for Alliance users. It collects information on compute nodes and management servers, to interactively generate data that allow users to track their resource usage (CPU, GPU, memory, filesystem) in real time.
 
 Rorqual	https://metrix.rorqual.alliancecan.ca
 Narval 	https://portail.narval.calculquebec.ca
@@ -17,15 +18,15 @@ Nibi   	https://portal.nibi.sharcnet.ca
 
 Filersystem performance
 
-Here you have the graphs for bandwidth and metadata operations, along with viewing options last week, last day and last hour.
+Here you have the graphs for bandwidth and metadata operations, along with viewing options (last week, last day and last hour).
 
 Login nodes
 
-CPU, memory, system load, and network usage statistics are presented, with viewing options last week, last day, and last hour.
+CPU, memory, system load, and network usage statistics are presented, with viewing options (last week, last day, and last hour).
 
 Scheduling
 
-This tab shows statistics for the cluster's allocated cores and GPUs, with viewing options last week, last day, and last hour.
+This tab shows statistics for the cluster's allocated cores and GPUs, with viewing options (last week, last day, and last hour).
 
 Scientific software
 
@@ -33,10 +34,10 @@ These graphs show the software with CPU cores and GPUs that are more frequently 
 
 Data transfer nodes
 
-Bandwidth statistics for data transfer nodes are presented in this tab.
+Bandwidth statistics for data transfer nodes are presented under this tab.
 
-= Usert summary =
-Under this tab, you find your quotas for various filesystems, followed by your last 10 tasks. You can select a task by its number to see the details. Also, by clicking on (More Details), you are redirected to the "Task statistics" tab, where all your tasks are listed.
+= User summary =
+Under this tab, you find your quotas for various filesystems, followed by your 10 last tasks. You can select a task by its number to see the details. Also, by clicking on (More Details), you are redirected to the Task statistics tab, where all your tasks are listed.
 
 = Task statistics =
 The first block shows your current usage (CPU core, memory, and GPUs). These statistics represent the average resources used by all currently running tasks. You can easily compare the resources allocated to you with those you actually use.
@@ -64,7 +65,7 @@ Le graphique Process and threads vous permet d'observer différents paramètres 
 
 Les graphiques suivants représentent l'utilisation du système de fichier pour la tâche en cours et non du nœud au complet. À gauche, une représentation du nombre d’opérations d’entrée/sortie par seconde (IOPS) est affichée. À droite, le graphique illustre le débit de transfert de données entre la tâche et le système de fichiers au fil du temps. Ce graphique permet d’identifier les périodes d’activité intense ou de faible utilisation du système de fichiers.
 
-Resource statistics for the entire node may be inaccurate if the node is shared between multiple users. The graph on the left shows the evolution of the bandwidth used by the task over time, in relation to software, licenses, etc. The graph on the right shows the evolution of the network bandwidth used by a task or a set of tasks via the Infiniband network, over time. We can observe periods of massive data transfer (e.g.: reading/writing on a filesystem (Lustre), MPI communication between nodes).
+Resource statistics for the entire node may be inaccurate if the node is shared by multiple users. The graph on the left shows the evolution of the bandwidth used by the task over time, in relation to software, licenses, etc. The graph on the right shows the evolution of the network bandwidth used by a task or a set of tasks via the Infiniband network, over time. We can observe periods of massive data transfer (e.g., reading/writing on a filesystem (Lustre), MPI communication between nodes).
 
 Le graphique de gauche illustre l’évolution du nombre d’opérations d’entrée/sortie par seconde (IOPS) effectuées sur le disque local au fil du temps. Celui de droite montre l’évolution de la bande passante utilisée sur le disque local au fil du temps, c’est-à-dire la quantité de données lues ou écrites par seconde.
 

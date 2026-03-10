@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-03-20T17:56:39Z"
 page_id: 3102
 display_title: "C++"
+language: "en"
 ---
 
 C++ is a general-purpose, high-level, multi-paradigm programming language created by Bjarne Stroustrup at Bell Labs in 1979 by extending the C programming language. A number of ISO C++ standards have been released corresponding to the years 1998, 2003, 2011, 2014, 2017, and 2020. These are usually referred to as C++98, C++03, C++11, C++14, C++17, and C++20. The ISO C++ committee is currently releasing its standards on a three-year cycle, i.e., after C++20, the next standard will be in 2023.

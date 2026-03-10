@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-11-07T20:21:01Z"
 page_id: 15467
 display_title: "Cloud shared security responsibility model"
+language: "en"
 ---
 
 Canada’s advanced research computing environment includes several cloud platforms for research.  This document’s purpose is to describe the responsibilities of the cloud team who administers our cloud platforms; the responsibilities of the many research teams who use these platforms; and shared responsibilities between both.  Security in the cloud is the responsibility of the research teams.  Security of the cloud is the responsibility of our our cloud support team.

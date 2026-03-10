@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-07-06T21:23:01Z"
 page_id: 3122
 display_title: "FTP server in the Cloud"
+language: "en"
 ---
 
 Parent page: Cloud

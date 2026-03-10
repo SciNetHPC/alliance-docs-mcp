@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-09-10T18:40:08Z"
 page_id: 7066
 display_title: "GBrowse"
+language: "en"
 ---
 
 == Introduction ==

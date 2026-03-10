@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-25T17:32:57Z"
 page_id: 17440
 display_title: "Chapel"
+language: "en"
 ---
 
 Chapel is a general-purpose, compiled, high-level parallel programming language with built-in abstractions for shared- and distributed-memory parallelism. There are two styles of parallel programming in Chapel: (1) task parallelism, where parallelism is driven by programmer-specified tasks, and (2) data parallelism, where parallelism is driven by applying the same computation on subsets of data elements, which may be in the shared memory of a single node, or distributed over multiple nodes.

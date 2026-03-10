@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-13T21:31:40Z"
 page_id: 29858
 display_title: "Account renewal"
+language: "en"
 ---
 
 An annual account renewal process takes place typically in the spring, as this is a critical process ensuring that:

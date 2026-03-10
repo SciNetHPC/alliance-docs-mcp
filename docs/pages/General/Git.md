@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-12T19:14:03Z"
 page_id: 8994
 display_title: "Git"
+language: "en"
 ---
 
 Git is a distributed, fast and secure source code management tool. The official Git website is git-scm.com. Git was created by Linus Torvalds for the Linux project and is currently maintained by Junio Hamano.

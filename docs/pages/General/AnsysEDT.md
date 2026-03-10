@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-17T08:08:54Z"
 page_id: 28884
 display_title: "AnsysEDT"
+language: "en"
 ---
 
 AnsysEDT bundles electromagnetics simulation solutions such as Ansys HFSS, Ansys Maxwell, Ansys Q3D Extractor, Ansys SIwave, and Ansys Icepak using electrical CAD (ECAD) and mechanical CAD (MCAD) workflows.  AnsysEDT also integrates with the complete Ansys portfolio of thermal, fluid, and mechanical solvers for comprehensive multiphysics analysis.

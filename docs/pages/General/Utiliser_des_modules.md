@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-08-29T23:01:39Z"
 page_id: 1610
 display_title: "Using modules"
+language: "en"
 ---
 
 Our servers can execute all software that runs under Linux. In the simplest case, the software you need will already be installed on one of the compute servers. It will then be accessible in the form of a "module". If this is not the case, you can either ask our staff to install it for you, or do it yourself.

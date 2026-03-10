@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-12T14:55:04Z"
 page_id: 6511
 display_title: "GAMESS-US"
+language: "en"
 ---
 
 The General Atomic and Molecular Electronic Structure System (GAMESS)

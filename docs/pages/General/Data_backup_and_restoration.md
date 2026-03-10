@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2018-01-15T21:10:18Z"
 page_id: 5597
 display_title: "Data backup and restoration"
+language: "en"
 ---
 
 Some important numbers include the maximum number of file changes everyday by a user are needed to prevent users individual backups from becoming bottlenecks for the whole backup processes.

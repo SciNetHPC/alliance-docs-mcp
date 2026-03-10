@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-03-13T21:21:52Z"
 page_id: 22571
 display_title: "Accessing object storage with WinSCP"
+language: "en"
 ---
 
 This page contains instructions on how to set up and access Arbutus object storage with WinSCP, one of the  object storage clients  available for this storage type.

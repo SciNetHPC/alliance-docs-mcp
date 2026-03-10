@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2020-10-13T17:50:03Z"
 page_id: 14784
 display_title: "Gprof"
+language: "en"
 ---
 
 =GNU Profiler (gprof) =

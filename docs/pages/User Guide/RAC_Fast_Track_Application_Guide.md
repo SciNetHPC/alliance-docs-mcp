@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2025-08-20T15:58:16Z"
 page_id: 29995
 display_title: "RAC Fast Track Application Guide"
+language: "en"
 ---
 
 == Key dates ==

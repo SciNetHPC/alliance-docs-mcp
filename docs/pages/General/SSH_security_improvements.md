@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-06-04T17:26:02Z"
 page_id: 11671
 display_title: "SSH security improvements"
+language: "en"
 ---
 
 SSH is the software protocol that you use to connect to our clusters.  It protects the security of your communication by verifying the server’s identity and yours against known identification data, and by encrypting the connection.  Because security risks evolve over time, we will have ended support for certain SSH options which are no longer deemed secure.  You will have to make some changes on your part in order to continue using our clusters.  The changes are outlined in the flowchart to the right, and explained in greater detail below.

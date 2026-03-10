@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-15T19:47:44Z"
 page_id: 1831
 display_title: "OpenMP"
+language: "en"
 ---
 
 == Description ==

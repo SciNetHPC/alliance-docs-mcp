@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-11-14T22:00:43Z"
 page_id: 3424
 display_title: "Advanced MPI scheduling"
+language: "en"
 ---
 
 Most users should submit MPI or distributed memory parallel jobs following the example

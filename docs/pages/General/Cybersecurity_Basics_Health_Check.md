@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-10-03T16:51:02Z"
 page_id: 20819
 display_title: "Cybersecurity Basics/Health Check"
+language: "en"
 ---
 
 ==== Health Check ====

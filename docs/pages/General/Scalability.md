@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2019-02-12T16:03:04Z"
 page_id: 7232
 display_title: "Scalability"
+language: "en"
 ---
 
 In the context of parallel programming, scalability refers to the capacity of a program to efficiently use added computing resources, i.e. CPU cores. One might naively imagine that doubling the number of CPU cores devoted to a calculation will halve the duration of the calculation, this is rarely the case. Instead we observe that the gain in performance depends on the nature of the problem, the algorithm or program used to solve it, the underlying hardware (notably memory and network), and the number of CPU cores being used. For this reason when you are planning to use a parallel program on a particular cluster we recommend that you conduct a scalability analysis where the software is tested using a fixed problem while varying the number of CPU cores according to some method (e.g. 2, 4, 8, 16, 32, 64 cores). The run time is obtained for each number of cores, and the resulting curve plotted.

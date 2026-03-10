@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-23T15:18:18Z"
 page_id: 25953
 display_title: "MrBayes"
+language: "en"
 ---
 
 MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.

@@ -5,6 +5,7 @@ category: "Technical Reference"
 last_modified: "2025-11-24T22:06:46Z"
 page_id: 14456
 display_title: "Technical glossary for the resource allocation competitions"
+language: "en"
 ---
 
 == Computational resources ==

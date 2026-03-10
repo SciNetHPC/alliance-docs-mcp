@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-02-11T16:22:00Z"
 page_id: 24833
 display_title: "GDAL"
+language: "en"
 ---
 
 GDAL is an open source translator library for raster geospatial data formats.

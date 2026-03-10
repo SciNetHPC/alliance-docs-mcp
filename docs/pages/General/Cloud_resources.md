@@ -1,10 +1,11 @@
 ---
-title: "Cloud resources"
-url: "https://docs.alliancecan.ca/wiki/Cloud_resources"
+title: "Cloud resources/en"
+url: "https://docs.alliancecan.ca/wiki/Cloud_resources/en"
 category: "General"
-last_modified: "2026-02-23T19:12:43Z"
-page_id: 128
+last_modified: "2026-02-24T11:40:10Z"
+page_id: 184
 display_title: "Cloud resources"
+language: "en"
 ---
 
 Parent page: Cloud

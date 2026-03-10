@@ -2,14 +2,16 @@
 title: "Self-paced courses/en"
 url: "https://docs.alliancecan.ca/wiki/Self-paced_courses/en"
 category: "General"
-last_modified: "2025-09-30T20:33:27Z"
+last_modified: "2026-03-05T22:25:05Z"
 page_id: 26915
 display_title: "Self-paced courses"
+language: "en"
 ---
 
 This is a growing list of self-paced (or self-directed) courses developed by our technical staff. The courses can be taken at any time, and you can proceed at your own pace. The courses include quizzes and/or assignments, upon successful completion of which you will get the Certificate of Completion for the course. The list is sorted alphabetically. Some courses require an Alliance account.
 
 Course                                   	Language	Hours	Alliance account required	Certificate of Completion     	Creator
+Bioinformatics                           	EN      	2    	Yes                      	Yes                           	SHARCNET
 Introduction to GPU Programming          	EN      	3-4  	Yes                      	Yes                           	SHARCNET
 Introduction to Machine Learning         	EN      	3-4  	Yes                      	Yes                           	SHARCNET
 Introduction to Trillium                 	EN      	4    	No (recommended)         	Yes                           	SciNet

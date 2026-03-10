@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-09-15T21:59:13Z"
 page_id: 21244
 display_title: "Working with images"
+language: "en"
 ---
 
 Parent page: Cloud

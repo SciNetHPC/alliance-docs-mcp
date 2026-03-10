@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-02-27T21:12:49Z"
 page_id: 21290
 display_title: "Working with VMs"
+language: "en"
 ---
 
 Parent page: Cloud

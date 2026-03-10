@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-17T08:09:21Z"
 page_id: 29533
 display_title: "Apply for a CCDB account"
+language: "en"
 ---
 
 Users must register with the CCDB portal in order to access the resources hosted across Canada by the Alliance and its regional partners, collectively known as the Alliance Federation. ﻿CCDB is a gateway to account and allocation information for Advanced Computing Platform managed through the Digital Research Alliance of Canada (the Alliance). The CCDB was established to share information between the Alliance and its regional partners and users can access all of the available resources with their CCDB account.

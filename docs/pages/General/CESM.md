@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-17T19:55:15Z"
 page_id: 24186
 display_title: "CESM"
+language: "en"
 ---
 
 "The Community Earth System Model is a fully coupled global climate model developed in collaboration with colleagues in the research community. CESM provides state of the art computer simulations of Earth's past, present, and future climate states."

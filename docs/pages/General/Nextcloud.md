@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-06-12T15:51:09Z"
 page_id: 14336
 display_title: "Nextcloud"
+language: "en"
 ---
 
 We provide Nextcloud, a Dropbox-like cloud storage service, for all Alliance users. You can use your Alliance username and password to log in to the Nextcloud server. A complete Nextcloud user manual is available from the official Nextcloud documentation. A manual is also available as a PDF document under your account once you connect. All data transfers between local devices and Alliance's Nextcloud are encrypted.

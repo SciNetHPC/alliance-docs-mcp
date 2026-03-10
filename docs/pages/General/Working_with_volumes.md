@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-03-30T21:32:31Z"
 page_id: 21268
 display_title: "Working with volumes"
+language: "en"
 ---
 
 A volume provides storage which is not destroyed when a VM is terminated. On our clouds, volumes use Ceph storage with either a 3-fold replication factor or erasure codes to provide safety against hardware failure. On Arbutus, the Default volume type uses erasure codes to provide data safety while reducing the extra storage costs of 3-fold replication while the OS or Database volume type still uses the 3-fold replication factor. More documentation about OpenStack volumes can be found here.

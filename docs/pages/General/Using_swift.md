@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-06-20T20:02:41Z"
 page_id: 19216
 display_title: "Using swift"
+language: "en"
 ---
 
 == Object Storage in Arbutus cloud ==

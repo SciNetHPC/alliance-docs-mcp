@@ -5,6 +5,7 @@ category: "Technical Reference"
 last_modified: "2025-08-29T12:33:30Z"
 page_id: 531
 display_title: "Technical support"
+language: "en"
 ---
 
 == Ask support ==

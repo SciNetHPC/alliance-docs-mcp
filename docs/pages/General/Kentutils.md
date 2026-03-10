@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-02-09T19:25:39Z"
 page_id: 13870
 display_title: "Kentutils"
+language: "en"
 ---
 
 KentUtils are the UCSC Genome Bioinformatics Group's suite of biological analysis and web display programs as well as some of Jim Kent's own tools ,,.

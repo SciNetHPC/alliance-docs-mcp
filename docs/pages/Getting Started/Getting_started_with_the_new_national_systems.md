@@ -5,6 +5,7 @@ category: "Getting Started"
 last_modified: "2023-09-25T18:22:01Z"
 page_id: 3506
 display_title: "Getting started with the new national systems"
+language: "en"
 ---
 
 You can begin by consulting the technical support page as well as viewing a series of short (5-10 minutes) webinars covering the basics of how to use the Cedar and Graham national systems.

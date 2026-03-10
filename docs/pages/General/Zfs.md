@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-02-27T21:12:55Z"
 page_id: 10338
 display_title: "Zfs"
+language: "en"
 ---
 
 ZFS is a combined file system and logical volume manager designed by Sun Microsystems. ZFS can scale to very large file system sizes and supports compression.

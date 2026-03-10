@@ -2,9 +2,10 @@
 title: "GROMACS/en"
 url: "https://docs.alliancecan.ca/wiki/GROMACS/en"
 category: "General"
-last_modified: "2026-02-17T08:09:03Z"
+last_modified: "2026-03-05T22:24:09Z"
 page_id: 4167
 display_title: "GROMACS"
+language: "en"
 ---
 
 =General=

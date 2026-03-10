@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2024-07-15T18:26:02Z"
 page_id: 13223
 display_title: "Stata"
+language: "en"
 ---
 
 =Introduction=

@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2026-02-18T19:56:01Z"
 page_id: 28485
 display_title: "Vulcan"
+language: "en"
 ---
 
 Availability: April 15, 2025

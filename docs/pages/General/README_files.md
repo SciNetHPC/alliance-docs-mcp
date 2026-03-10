@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-07-29T16:23:18Z"
 page_id: 29080
 display_title: "README files"
+language: "en"
 ---
 
 In your project spaces, your data should be documented such that you know the purpose of each file. A README file is usually the first reference point.

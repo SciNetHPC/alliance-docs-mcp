@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-01-13T18:30:43Z"
 page_id: 18982
 display_title: "Working with processors that have non-uniform memory access (NUMA)"
+language: "en"
 ---
 
 Non-uniform memory access (NUMA) is a feature of memory design that is found on most modern processors with a large number of cores.  It is possible to control the execution of your program to optimize the use of these features.  This is something that you would only need to do if you want to optimize your program to get the best performance possible.

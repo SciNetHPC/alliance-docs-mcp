@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-05-29T14:53:47Z"
 page_id: 5040
 display_title: "Configuring a data or web server"
+language: "en"
 ---
 
 Parent page: Cloud

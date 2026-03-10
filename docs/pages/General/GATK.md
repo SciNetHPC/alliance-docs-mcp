@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2023-07-24T18:04:02Z"
 page_id: 14578
 display_title: "GATK"
+language: "en"
 ---
 
 The Genome Analysis Toolkit (GATK) is a set of bioinformatic tools for

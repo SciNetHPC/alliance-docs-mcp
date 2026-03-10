@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-12-12T15:34:23Z"
 page_id: 6301
 display_title: "Lumerical"
+language: "en"
 ---
 
 Lumerical is a suite of applications for modelling nanophotonic devices, which includes FDTD Solutions.

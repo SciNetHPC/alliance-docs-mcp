@@ -5,6 +5,7 @@ category: "User Guide"
 last_modified: "2023-06-08T19:37:05Z"
 page_id: 1447
 display_title: "OpenACC Tutorial - Adding directives"
+language: "en"
 ---
 
 == Offloading to a GPU ==

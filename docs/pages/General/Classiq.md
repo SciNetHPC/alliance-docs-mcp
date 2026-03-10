@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-12-16T16:39:37Z"
 page_id: 32094
 display_title: "Classiq"
+language: "en"
 ---
 
 Classiq is quantum computing software that lets you design, optimize and execute quantum programs and is free to use for academic researchers (sign up on classiq.io with an institutional email).

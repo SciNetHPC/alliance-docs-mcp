@@ -5,6 +5,7 @@ category: "Using Nix"
 last_modified: "2020-08-12T22:52:36Z"
 page_id: 14176
 display_title: "Using Nix: nix-env"
+language: "en"
 ---
 
 This page details using the legacy nix-env command to manage a per-user environment. For an overview of Nix, start with our using nix page.

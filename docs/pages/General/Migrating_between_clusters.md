@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2025-08-29T12:59:42Z"
 page_id: 19746
 display_title: "Migrating between clusters"
+language: "en"
 ---
 
 While our clusters have a relatively high degree of uniformity, particularly the general purpose clusters, there are still significant distinctions that you need to be aware of when moving from one cluster to another. This page explains what is the same between clusters and what changes you'll need to adapt to on a new cluster.

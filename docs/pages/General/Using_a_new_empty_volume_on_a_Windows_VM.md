@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-11-07T19:45:03Z"
 page_id: 6667
 display_title: "Using a new empty volume on a Windows VM"
+language: "en"
 ---
 
 This page describes the steps to partition and format a volume attached to a Windows VM

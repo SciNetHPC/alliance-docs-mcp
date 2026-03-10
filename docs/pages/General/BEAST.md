@@ -5,6 +5,7 @@ category: "General"
 last_modified: "2022-12-12T15:34:23Z"
 page_id: 8812
 display_title: "BEAST"
+language: "en"
 ---
 
 == Description ==
