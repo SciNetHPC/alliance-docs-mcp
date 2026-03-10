@@ -183,7 +183,8 @@ async def _search_docs_impl(
         if search_content and search_index:
             try:
                 logger.debug("Attempting full-text search using search index")
-                results = search_index.search(query, category=category, limit=limit, fuzzy=fuzzy)
+                results = search_index.search(query, category=category,
+                                              limit=limit, fuzzy=fuzzy)
                 logger.info(f"Full-text search found {len(results)} results for query '{query}'")
                 return [
                     {
@@ -227,20 +228,46 @@ async def _search_docs_impl(
 
 
 @mcp.tool()
-async def search_docs(
-    query: str,
-    category: Optional[str] = None,
-    limit: int = 20,
-    search_content: bool = True,
-    fuzzy: bool = False,
+async def search_alliance_docs(
+        query: str,
+        language: str = 'en',
+        category: Optional[str] = None,
+        limit: int = 20,
+        search_content: bool = True,
+        fuzzy: bool = False,
 ) -> List[dict]:
-    """Search documentation with optional full-text index and relevance ranking."""
-    return await _search_docs_impl(query, category, limit, search_content, fuzzy)
+    """
+    Search Digital Rsearch Alliance of Canada documentation with optional
+    full-text index and relevance ranking.
 
+    Args:
+        query: Search query.  The search must be only one or two words long.
+        language: Optional language filter, one of 'en' (English) or 
+                  'fr' (French)
+        category: Optional category filter
+        limit: maximum number of results to return
+        fuzzy: whether to do a fuzzy search, if a search index is
+               available.
 
+    Returns:
+        List of matching pages with metadata
+
+    """
+    result = await _search_docs_impl(query, category, limit,
+                                   search_content, fuzzy)
+
+    ## filter out by language
+    results = []
+    for page in result:
+        if page.get("language", "").lower() == language.lower():
+            results.append(page)
+
+    return results
+
+            
 @mcp.tool()
-async def list_categories() -> List[str]:
-    """List all available documentation categories.
+async def list_alliance_docs_categories() -> List[str]:
+    """List all available Digital Research Alliance of Canada documentation categories.
     
     Returns:
         List of category names
@@ -287,8 +314,9 @@ def _heuristic_related(page: dict, limit: int) -> List[dict]:
 
 
 @mcp.tool()
-async def get_page_by_title(title: str) -> Optional[dict]:
-    """Find a specific page by title.
+async def get_alliance_docs_page_by_title(title: str) -> Optional[dict]:
+    """Find a specific Digital Research Alliance of Canada documentation 
+       page by title.
     
     Args:
         title: Page title to search for
@@ -321,8 +349,9 @@ async def get_page_by_title(title: str) -> Optional[dict]:
 
 
 @mcp.tool()
-async def list_recent_updates(limit: int = 10) -> List[dict]:
-    """List recently updated pages.
+async def list_recent_alliance_docs_updates(limit: int = 10) -> List[dict]:
+    """List recently updated Digital Research Alliance of Canada 
+       documentation pages.
     
     Args:
         limit: Maximum number of pages to return
@@ -352,12 +381,25 @@ async def list_recent_updates(limit: int = 10) -> List[dict]:
 
 
 @mcp.tool()
-async def find_related_pages(slug: str, limit: int = 5, min_score: float = 0.0) -> List[dict]:
-    """Find related pages using embeddings when available, with heuristic fallback."""
+async def find_related_alliance_docs_pages(slug: str, limit: int = 5,
+                                           min_score: float = 0.0) -> List[dict]:
+    """Find related Digital Research Alliance of Canada documentation pages 
+       using embeddings when available, with heuristic fallback.
+    
+    Args:
+       slug: slug of which to find related pages
+       limit: maximum number of results to return
+       min_score: minimum embedding score to use to determine relatedness
+
+    Returns:
+       List of pages with metadata.
+
+    """
     return await _find_related_pages_impl(slug, limit, min_score)
 
 
-async def _find_related_pages_impl(slug: str, limit: int = 5, min_score: float = 0.0) -> List[dict]:
+async def _find_related_pages_impl(slug: str, limit: int = 5,
+                                   min_score: float = 0.0) -> List[dict]:
     """Core related-pages implementation for tool and tests."""
     try:
         page = storage.get_page_by_slug(slug)
@@ -366,7 +408,8 @@ async def _find_related_pages_impl(slug: str, limit: int = 5, min_score: float =
 
         if related_index:
             try:
-                results = related_index.find_related(slug, limit=limit, min_score=min_score)
+                results = related_index.find_related(slug, limit=limit,
+                                                     min_score=min_score)
                 if results:
                     return results
             except RelatedIndexUnavailable as exc:
@@ -382,8 +425,9 @@ async def _find_related_pages_impl(slug: str, limit: int = 5, min_score: float =
 
 
 @mcp.tool()
-async def get_page_info(slug: str) -> Optional[dict]:
-    """Get detailed information about a page.
+async def get_alliance_docs_page_info(slug: str) -> Optional[dict]:
+    """Get detailed information about a Digital Research Alliance 
+       of Canada documentation page.
     
     Args:
         slug: Page slug
@@ -419,8 +463,9 @@ async def get_page_info(slug: str) -> Optional[dict]:
 
 
 @mcp.tool()
-async def list_all_pages() -> List[dict]:
-    """List all available documentation pages.
+async def list_all_alliance_docs_pages() -> List[dict]:
+    """List all available Digital Research of Alliance 
+       documentation pages.
     
     Returns:
         List of all pages with basic metadata
@@ -447,8 +492,9 @@ async def list_all_pages() -> List[dict]:
 
 
 @mcp.tool()
-async def get_page_content(slug: str) -> str:
-    """Get the full content of a documentation page.
+async def get_alliance_docs_page_content(slug: str) -> str:
+    """Get the full content of a Digital Research Alliance of 
+       Canada documentation page.
     
     Args:
         slug: Page slug (filename without extension)
@@ -476,12 +522,14 @@ async def get_page_content(slug: str) -> str:
 # MCP Prompts
 
 @mcp.prompt(
-    name="documentation_search_guide",
-    description="Guide for effectively searching Alliance documentation",
-    tags=["search", "documentation"]
-)
-def documentation_search_guide(query: str, category: Optional[str] = None) -> str:
-    """Generate a prompt template for searching documentation.
+    name = "alliance_docs_search_guide",
+    description ="Guide for effectively searching Digital Research Alliance of CAnada documentation",
+    tags = ["search", "documentation"]
+) 
+def alliance_docs_search_guide(query: str,
+                               category: Optional[str] = None) -> str:
+    """Generate a prompt template for searching Digital 
+       Research Alliance of Canada documentation.
     
     Args:
         query: The user's search query
@@ -489,7 +537,8 @@ def documentation_search_guide(query: str, category: Optional[str] = None) -> st
     """
     prompt = f"""Search the Alliance documentation for information about: {query}
 
-Use the search_docs tool to find relevant documentation pages. When searching:
+Use the search_alliance_docs tool to find relevant Digial Research 
+Alliance of Canada documentation pages. When searching:
 - Use the query parameter: "{query}"
 """
     
@@ -503,8 +552,10 @@ Use the search_docs tool to find relevant documentation pages. When searching:
   * Highlighted snippets showing where the query matches
   * Categories to understand the context of each result
 
-If you find relevant pages, use get_page_content to read the full content for detailed information.
-If the search returns many results, consider using a category filter or refining the query."""
+If you find relevant pages, use get_alliance_docs_page_content 
+to read the full content for detailed information.  If the 
+search returns many results, consider using a category filter 
+or refining the query."""
     
     return prompt
 
@@ -514,7 +565,8 @@ If the search returns many results, consider using a category filter or refining
     description="Template for answering technical questions using documentation",
     tags=["technical", "question", "documentation"]
 )
-def technical_question_template(question: str, context: Optional[str] = None) -> str:
+def technical_question_template(question: str,
+                                context: Optional[str] = None) -> str:
     """Generate a prompt template for answering technical questions.
     
     Args:
@@ -529,11 +581,16 @@ def technical_question_template(question: str, context: Optional[str] = None) ->
     
     prompt += """
 Follow these steps:
-1. Use search_docs to find relevant documentation pages related to the question
+1. Use search_alliance_docs to find relevant documentation pages related 
+   to the question
 2. Review the search results and identify the most relevant pages
-3. Use get_page_content to read the full content of relevant pages
-4. If you find a specific page that seems directly relevant, use find_related_pages to discover additional related documentation
-5. Synthesize information from multiple sources to provide a comprehensive answer
+3. Use get_alliance_docs_page_content to read the full content of 
+   relevant pages
+4. If you find a specific page that seems directly relevant, use 
+   find_related_alliance_docs_pages to discover additional 
+   related documentation
+5. Synthesize information from multiple sources to provide a 
+   comprehensive answer
 
 Focus on:
 - Practical steps and procedures from the documentation
@@ -545,32 +602,38 @@ Focus on:
 
 
 @mcp.prompt(
-    name="category_exploration_guide",
-    description="Guide for exploring documentation by category",
+    name = "alliance_docs_category_exploration_guide",
+    description = "Guide for exploring Digital Research Alliance of Canada documentation by category",
     tags=["category", "exploration", "documentation"]
 )
-def category_exploration_guide(category: str, purpose: Optional[str] = None) -> str:
-    """Generate a prompt template for exploring documentation by category.
+def alliance_docs_category_exploration_guide(category: str,
+                                             purpose: Optional[str] = None) -> str:
+    """Generate a prompt template for exploring Digial 
+       Research Alliance of Canada documentation by category.
     
     Args:
         category: The category to explore
         purpose: What the user is trying to accomplish
     """
-    prompt = f"""Explore the Alliance documentation in the "{category}" category.
+    prompt = f"""Explore the Digial Research Alliance of Canada documentation in the "{category}" category.
 """
     
     if purpose:
         prompt += f"\nPurpose: {purpose}\n"
     
     prompt += f"""
-Available categories include: Getting Started, Technical Reference, User Guide, and others.
+Available categories include: Getting Started, Technical Reference, 
+User Guide, and others.
 
 To explore the {category} category:
-1. Use list_categories to see all available categories (if needed)
-2. Use search_docs with category="{category}" to find pages within this category
+1. Use list_alliance_docs_categories to see all available 
+   categories (if needed)
+2. Use search_alliance_docs with category="{category}" to find 
+   pages within this category
 3. Review the results to understand what documentation is available
-4. Use get_page_content to read specific pages of interest
-5. Use find_related_pages to discover additional related content
+4. Use get_alliance_docs_page_content to read specific pages of interest
+5. Use find_related_alliance_docs_pages to discover additional 
+   related content
 
 Common categories:
 - Getting Started: For new users learning the basics
@@ -585,8 +648,10 @@ Common categories:
     description="Guide for finding related documentation pages",
     tags=["related", "discovery", "documentation"]
 )
-def related_content_discovery(topic: str, goal: Optional[str] = None) -> str:
-    """Generate a prompt template for finding related documentation.
+def related_content_discovery(topic: str,
+                              goal: Optional[str] = None) -> str:
+    """Generate a prompt template for finding related 
+       Digital Research Alliance of Canada documentation.
     
     Args:
         topic: The topic or page slug to find related content for
@@ -600,13 +665,17 @@ def related_content_discovery(topic: str, goal: Optional[str] = None) -> str:
     
     prompt += """
 To discover related content:
-1. First, use search_docs or get_page_by_title to find the main page about this topic
-2. Once you have the page slug, use find_related_pages to discover related documentation
+1. First, use search_alliance_docs or get_alliance_docs_page_by_title 
+   to find the main page about this topic
+2. Once you have the page slug, use find_related_alliance_docs_pages 
+   to discover related documentation
 3. Review the similarity scores:
    - Higher scores (closer to 1.0) indicate more closely related content
    - Scores above 0.7 typically indicate highly relevant related pages
-4. Use get_page_content to read the related pages for additional context
-5. You can also combine related pages with additional searches to build a comprehensive understanding
+4. Use get_alliance_docs_page_content to read the related pages 
+   for additional context
+5. You can also combine related pages with additional searches to 
+   build a comprehensive understanding
 
 Related pages are useful when:
 - You want to explore a topic in depth
@@ -629,13 +698,17 @@ def getting_started_helper(use_case: str) -> str:
     """
     prompt = f"""Help a new user get started with: {use_case}
 
-The Alliance documentation includes a "Getting Started" category with guides for new users.
+The Digial Research Alliance of Canada documentation includes 
+a "Getting Started" category with guides for new users.
 
 Follow these steps:
 1. Use list_categories to confirm available categories
-2. Search in the "Getting Started" category using: search_docs(query="{use_case}", category="Getting Started")
-3. Also check list_recent_updates to see if there are recent updates to getting started documentation
-4. Review the results and use get_page_content to read relevant getting started guides
+2. Search in the "Getting Started" category using: 
+   search_alliance_docs(query="{use_case}", category="Getting Started")
+3. Also check list_recent_updates to see if there are 
+   recent updates to getting started documentation
+4. Review the results and use get_page_content to read 
+   relevant getting started guides
 5. Use find_related_pages to discover additional helpful documentation
 
 Common getting started topics include:
@@ -688,7 +761,7 @@ def main():
     logger.info(f"Documentation directory: {args.docs_dir}")
     
     # Run the server as stdio (for MCP protocol)
-    mcp.run()
+    mcp.run(transport = "streamable-http", port = 8080)
 
 
 if __name__ == "__main__":
