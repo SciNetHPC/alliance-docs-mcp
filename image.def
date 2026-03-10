@@ -1,0 +1,76 @@
+Bootstrap: docker
+From: ghcr.io/astral-sh/uv:python3.12-bookworm
+Stage: spython-base
+
+%files
+pyproject.toml ./
+uv.lock ./
+README.md ./
+docker-entrypoint.sh ./   ## ejs
+docs ./
+main.py ./
+models.md ./
+scripts ./
+server_entrypoint.py ./
+src ./
+tests ./
+uv.lock ./
+%post
+
+mkdir -p /app
+cp docker-entrypoint.sh /app   ## ejs
+cp *.py /app
+cp -r docs src scripts tests /app
+cp models.md  uv.lock /app
+cd /app
+
+# Install build/runtime requirements for documentation conversion
+apt-get update && apt-get install -y --no-install-recommends pandoc && \
+rm -rf /var/lib/apt/lists/*
+
+# Copy dependency manifests and README first for better caching
+
+# Create project virtual environment
+UV_PROJECT_ENVIRONMENT=/.venv
+uv sync --frozen --no-dev
+
+# Ensure the environment is on PATH for runtime commands
+PATH="/.venv/bin:${PATH}"
+
+# Copy the remainder of the application source
+
+# Pre-populate documentation cache during build for faster cold starts
+DOCS_SEED_DIR=/app/docs_seed
+mkdir -p "${DOCS_SEED_DIR}" && \
+DOCS_DIR="${DOCS_SEED_DIR}" python scripts/sync_docs.py && \
+rm -f sync.log
+
+# Set defaults for runtime configuration
+DOCS_DIR=/data/docs
+MEDIAWIKI_API_URL=https://docs.alliancecan.ca/mediawiki/api.php
+#su - _AGENT=AllianceDocsMCP/1.0 # USER_AGENT=AllianceDocsMCP/1.0  ## comment out, ejs
+PYTHONUNBUFFERED=1
+
+# Create volume mount point for documentation cache
+# VOLUME ["/data"]
+mkdir -p /data
+
+# Make the entrypoint executable (just in case git permissions are lost)
+chmod +x docker-entrypoint.sh
+
+# EXPOSE 18080
+
+%environment
+export UV_PROJECT_ENVIRONMENT=/.venv
+export PATH="/.venv/bin:${PATH}"
+export DOCS_SEED_DIR=/app/docs_seed
+export DOCS_DIR=/data/docs
+export MEDIAWIKI_API_URL=https://docs.alliancecan.ca/mediawiki/api.php
+export USER_AGENT=AllianceDocsMCP/1.0
+export PYTHONUNBUFFERED=1
+%runscript
+cd /app
+exec /bin/bash /app/docker-entrypoint.sh "$@"
+%startscript
+cd /app
+exec /bin/bash /app/docker-entrypoint.sh "$@"
