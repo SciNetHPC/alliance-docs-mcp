@@ -18,9 +18,11 @@ COPY . .
 
 # Pre-populate documentation cache during build for faster cold starts
 ENV DOCS_SEED_DIR=/app/docs_seed
-RUN mkdir -p "${DOCS_SEED_DIR}" && \
-    DOCS_DIR="${DOCS_SEED_DIR}" python scripts/sync_docs.py && \
-    rm -f sync.log
+#RUN mkdir -p "${DOCS_SEED_DIR}" && \
+#    DOCS_DIR="${DOCS_SEED_DIR}" python scripts/sync_docs.py && \
+#    rm -f sync.log
+RUN mkdir -p "${DOCS_SEED_DIR}"
+RUN cp docs.tar.gz /data && tar -zxf docs.tar.gz
 
 # Set defaults for runtime configuration
 ENV DOCS_DIR=/data/docs
@@ -36,4 +38,4 @@ RUN chmod +x docker-entrypoint.sh
 
 EXPOSE 8080
 
-CMD ["/app/docker-entrypoint.sh"]
+CMD ["RUN_SYNC_ON_START=0 /app/docker-entrypoint.sh"]
